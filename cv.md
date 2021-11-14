@@ -1,6 +1,9 @@
 +++
 title = "Curriculum Vitae"
 +++
+~~~
+<base target="_blank">
+~~~
 
 # Personal information
 

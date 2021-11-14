@@ -1,6 +1,9 @@
 +++
 title = "Outreach"
 +++
+~~~
+<base target="_blank">
+~~~
 
 # Documentaries
 

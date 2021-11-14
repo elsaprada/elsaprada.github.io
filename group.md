@@ -1,6 +1,9 @@
 +++
 title = "My group"
 +++
+~~~
+<base target="_blank">
+~~~
 
 # My current PhD students
 

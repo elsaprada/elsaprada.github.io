@@ -1,6 +1,9 @@
 +++
 title = "Publications"
 +++
+~~~
+<base target="_blank">
+~~~
 
 ## Metrics
 <!-- @@paperdata [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@ -->

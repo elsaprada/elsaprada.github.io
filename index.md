@@ -1,5 +1,8 @@
 @def title = "Elsa Prada's homepage"
 @def tags = ["syntax", "code"]
+~~~
+<base target="_blank">
+~~~
 
 ![ICMM-CSIC](/assets/CSIC_logo.png)
 

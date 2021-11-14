@@ -40,8 +40,8 @@ title = "My group"
 @@column31 ![Carlos Payá](/assets/photos/Carlos.jpg) @@
 
 @@column32
-- **Undergrad student (TFG-TUT)**
-- **Course**: 2020/21
+- **Master student**
+- **Course**: 2021/22
 - **Subject**: Full shell hybrid nanowires
 - **Distinction**: [GEFES research award for students](http://gefes-rsef.org/premios-de-investigacion-para-estudiantes-carlos-paya/)
 @@

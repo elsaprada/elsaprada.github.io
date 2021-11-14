@@ -42,8 +42,7 @@ title = "Curriculum Vitae"
 
 @@row
 @@column21 **E-mail contact** @@
-@@column22
-~~~<a href="#" id="obfuscated_address">show</a><script type="text/javascript">var _ref0 = "mai";var _ref1 = "lto";var _ref2 = ":el";var _ref3 = "sa.";var _ref4 = "pra";var _ref5 = "da@";var _ref6 = "csi";var _ref7 = "c.e";var _ref8 = "s";var _ref9 = "";var _ref = _ref0+_ref1+_ref2+_ref3+_ref4+_ref5+_ref6+_ref7+_ref8+_  ref9; document.getElementById('obfuscated_address').href = _ref;</script>~~~
+@@column22 [elsa.prada@csic.es](mailto:Elsa Prada<elsa.prada@csic.es>)
 @@ @@
 
 # Academic titles

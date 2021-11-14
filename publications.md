@@ -1,9 +1,6 @@
 +++
 title = "Publications"
 +++
-~~~
-<base target="_blank">
-~~~
 
 ## Metrics
 <!-- @@paperdata [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@ -->
@@ -334,7 +331,6 @@ E. Prada and G. Metalidis
 @@
 
 # 2012
-
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata

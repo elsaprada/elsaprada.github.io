@@ -1,17 +1,7 @@
 @def title = "Elsa Prada's homepage"
 @def tags = ["syntax", "code"]
-~~~
-<base target="_blank">
-~~~
 
-![ICMM-CSIC](/assets/CSIC_logo.png)
-
-\style{text-align:center;width:100%;display:inline-block}{
-  **INSTITUTO DE CIENCIA DE MATERIALES DE MADRID - CSIC**\\
-  C/ Sor Juana Inés de la Cruz 3, E-28049 Cantoblanco, Madrid, Spain\\
-  Office: 346 — Tel.: (+34) 91 334 9080\\
-  ~~~<a href="#" id="obfuscated_address">Email contact</a><script type="text/javascript">var _ref0 = "mai";var _ref1 = "lto";var _ref2 = ":el";var _ref3 = "sa.";var _ref4 = "pra";var _ref5 = "da@";var _ref6 = "csi";var _ref7 = "c.e";var _ref8 = "s";var _ref9 = "";var _ref = _ref0+_ref1+_ref2+_ref3+_ref4+_ref5+_ref6+_ref7+_ref8+_  ref9; document.getElementById('obfuscated_address').href = _ref;</script>~~~}
-\\
+@@img-medium ![ICMM-CSIC](/assets/CSIC_logo.png) @@
 
 @@row
 @@column11 ![Elsa circa 2021](/assets/photos/Elsa_2021.jpg) @@
@@ -20,6 +10,14 @@
 @@ -->
 
 @@column12
+
+\style{text-align:center;width:100%;display:inline-block}{
+  **INSTITUTO DE CIENCIA DE MATERIALES DE MADRID - CSIC**\\
+  C/ Sor Juana Inés de la Cruz 3, E-28049 Cantoblanco, Madrid, Spain\\
+  Office: 346 — Tel.: (+34) 91 334 9080\\
+  ~~~<a href="#" id="obfuscated_address">Email contact</a><script type="text/javascript">var _ref0 = "mai";var _ref1 = "lto";var _ref2 = ":el";var _ref3 = "sa.";var _ref4 = "pra";var _ref5 = "da@";var _ref6 = "csi";var _ref7 = "c.e";var _ref8 = "s";var _ref9 = "";var _ref = _ref0+_ref1+_ref2+_ref3+_ref4+_ref5+_ref6+_ref7+_ref8+_  ref9; document.getElementById('obfuscated_address').href = _ref;</script>~~~}
+\\
+
 Hi! My name is **Elsa Prada** and I'm a **condensed matter theorist** working on systems where quantum phenomena play an important role, such as low dimensional materials and nanostructures.
 
 Since July 2020 I belong to the [Materials Science Institute of Madrid](https://www.icmm.csic.es/) (which is part of the [Spanish Research Council](https://www.csic.es/)) as a tenured scientist. Within the department of Theory and Simulation of Materials, our group is called [Theory of Quantum Materials and Solid State Quantum Technologies](https://wp.icmm.csic.es/tqe/).

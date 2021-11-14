@@ -113,16 +113,16 @@ Within the program of awards for students of the <a href="http://www.nicolascabr
 <ol>
 
 <li value="1.">
-	<p> <a href="%resource(OndaCero-LaBrujula.mp3)%"target="_blank">Pero el grafeno, ¿qué es?</a>, interview in <b>"La Brújula", Onda Cero Radio</b>, with Carlos Alsina, on the 5th of October, 2010.<br />
+	<p> <a href="/assets/files/OndaCero-LaBrujula.mp3" target="_blank">Pero el grafeno, ¿qué es?</a>, interview in <b>"La Brújula", Onda Cero Radio</b>, with Carlos Alsina, on the 5th of October, 2010.<br />
 
 <li value="2.">
-	<p> <a href="%resource(CadenaSer-LaVentana.mp3)%"target="_blank">La revolución del grafeno</a> , interview in <b>"La Ventana", Cadena Ser Radio</b>, with Gemma Nierga, on the 6th of October, 2010.<br />
+	<p> <a href="/assets/files/CadenaSer-LaVentana.mp3" target="_blank">La revolución del grafeno</a> , interview in <b>"La Ventana", Cadena Ser Radio</b>, with Gemma Nierga, on the 6th of October, 2010.<br />
 
 <li value="3.">
-	<p> <a href="%resource(RNE-Barcelona.mp3)%"target="_blank">Què és el grafè?</a> , program in <b>"D'avui no passa", RNE</b>, presented by Sonia Urbano, on the 2nd of November, 2010.<br />
+	<p> <a href="/assets/files/RNE-Barcelona.mp3" target="_blank">Què és el grafè?</a> , program in <b>"D'avui no passa", RNE</b>, presented by Sonia Urbano, on the 2nd of November, 2010.<br />
 
 <li value="4.">
-	<p> <a href="%resource(2014RadioNacional_grafeno.mp3)%"target="_blank">Grafeno, el material de las mil aplicaciones</a> , interview in <b>"Esto me suena. Las tardes del Ciudadano García", RNE</b>, on the 21st of January, 2014.<br />
+	<p> <a href="/assets/files/2014RadioNacional_grafeno.mp3" target="_blank">Grafeno, el material de las mil aplicaciones</a> , interview in <b>"Esto me suena. Las tardes del Ciudadano García", RNE</b>, on the 21st of January, 2014.<br />
 
 </ol>
 ~~~

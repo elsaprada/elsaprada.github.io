@@ -171,6 +171,24 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 </ol>
 ~~~
 
+# Organization of scientific events
+~~~
+<ul>
+
+	<li><p>Co-organization of the online seminar series <a href="https://sites.google.com/view/ifimac-icmm-joint-seminars" target="_blank"><strong>IFIMAC+ICMM Joint Seminar Series</strong></a> on condensed matter physics. This is a collaborative effort between the Condensed Mater Physics Center (IFIMAC-UAM) and the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). Starting date: 3 December, 2020.</p></li>
+
+	<li><p>Co-organization of the CMD 29 online series <a href="https://www.iopconferences.org/iop/frontend/reg/thome.csp" target="_blank"><strong>Bound states in hybrid superconductor nanostructures</strong></a> organized by the European Physical Society (EPS) and IOP Institute of Physics, 28 June- 29 June, 2021.</p></li>
+
+	<li><p>Co-organization of the minicolloquium <strong>Hybrid semiconductor-superconducting nanostructures: from Andreev to Majorana bound states</strong> within the online international conference <a href="http://www.cmd2020gefes.eu/28512/detail/2020-joint-conference-of-the-condensed-matter-divisions-of-eps-cmd-and-rsef-gefes.html" target="_blank"><strong>CMD2020GEFES</strong> </a>, 31 August- 4 September, 2020.</p></li>
+
+	<li><p>Co-organization of the <a href="http://www.nicolascabrera.es/summer-school-2017/" target="_blank"><strong>XXIV International Summer School on Topological Materials</strong></a>, La Cristalera, Miraflores, Madrid, 3-8 September, 2017.</p></li>
+
+	<li><p>Organization of the scientific program, selection of the speakers and presentation of the Center for Functional Nanostructures (CFN) <strong>Summer School on graphene</strong>, Bad Herrenalb, Germany, 28-31 August, 2007.</p></li>
+  
+	<li><p>Collaboration in the logistics of the <strong>2003 Annual Meeting Nanoscale Dynamics, Coherence and Computation</strong>, Mallorca, Spain, 1-4 October, 2003.</p></li>
+</ul>
+~~~
+
 # Invited lectures at conferences and summer schools
 ~~~
 <ol>
@@ -371,26 +389,11 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 </ul>
 ~~~
 
-# Organization of scientific events
-~~~
-<ul>
-
-	<li><p>Co-organization of the online seminar series <a href="https://sites.google.com/view/ifimac-icmm-joint-seminars" target="_blank"><strong>IFIMAC+ICMM Joint Seminar Series</strong></a> on condensed matter physics. This is a collaborative effort between the Condensed Mater Physics Center (IFIMAC-UAM) and the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). Starting date: 3 December, 2020.</p></li>
-
-	<li><p>Co-organization of the CMD 29 online series <a href="https://www.iopconferences.org/iop/frontend/reg/thome.csp" target="_blank"><strong>Bound states in hybrid superconductor nanostructures</strong></a> organized by the European Physical Society (EPS) and IOP Institute of Physics, 28 June- 29 June, 2021.</p></li>
-
-	<li><p>Co-organization of the minicolloquium <strong>Hybrid semiconductor-superconducting nanostructures: from Andreev to Majorana bound states</strong> within the online international conference <a href="http://www.cmd2020gefes.eu/28512/detail/2020-joint-conference-of-the-condensed-matter-divisions-of-eps-cmd-and-rsef-gefes.html" target="_blank"><strong>CMD2020GEFES</strong> </a>, 31 August- 4 September, 2020.</p></li>
-
-	<li><p>Co-organization of the <a href="http://www.nicolascabrera.es/summer-school-2017/" target="_blank"><strong>XXIV International Summer School on Topological Materials</strong></a>, La Cristalera, Miraflores, Madrid, 3-8 September, 2017.</p></li>
-
-	<li><p>Organization of the scientific program, selection of the speakers and presentation of the Center for Functional Nanostructures (CFN) <strong>Summer School on graphene</strong>, Bad Herrenalb, Germany, 28-31 August, 2007.</p></li>
-  
-	<li><p>Collaboration in the logistics of the <strong>2003 Annual Meeting Nanoscale Dynamics, Coherence and Computation</strong>, Mallorca, Spain, 1-4 October, 2003.</p></li>
-</ul>
-~~~
-
 # Teaching
 
+### 2021-2022
+- Subject: **Master Thesis**. Compulsory subject. Master on Condensed Matter Physics and Biological Materials. Universidad Autónoma de Madrid (UAM). Dates: Annual. Direction of 1 student.
+- Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Direction of 1 student.
 
 ### 2020-2021
 - Subject: **Master Thesis**. Compulsory subject. Master on Condensed Matter Physics and Biological Materials. Universidad Autónoma de Madrid (UAM). Dates: Annual. Direction of 1 student.

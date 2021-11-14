@@ -492,7 +492,7 @@ E. Prada, P. San-Jose, B. Wunsch, F. Guinea
 
 @@papericon ![](/assets/icons/phd.png) @@
 @@paperdata
-**[My Ph.D thesis: Generation, evolution and detection of electron entanglement in nanostructures](https://www.icmm.csic.es/elsaprada/resources/Thesis-Elsa.pdf)**
+**[My Ph.D thesis: Generation, evolution and detection of electron entanglement in nanostructures](/assets/files/Thesis-Elsa.pdf)**
 
 Elsa Prada, April 2006
 @@

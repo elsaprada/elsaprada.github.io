@@ -11,7 +11,7 @@
 
 @@column12
 
-\style{text-align:center;width:100%;display:inline-block;line-height: 1.2em; padding-bottom: 3em}{
+\style{text-align:center;width:100%;display:inline-block;line-height: 1.2em; padding-bottom: 2em}{
   **INSTITUTO DE CIENCIA DE MATERIALES DE MADRID - CSIC**\\
   C/ Sor Juana Inés de la Cruz 3, E-28049 Cantoblanco, Madrid, Spain\\
   Office: 346 — Tel.: (+34) 91 334 9080\\

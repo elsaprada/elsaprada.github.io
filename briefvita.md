@@ -2,6 +2,7 @@
 title = "Brief Vita"
 +++
 
+@@looserlines
 - **From Jul. 2020**: Tenured scientist at the Instituto de Ciencia de Materiales de Madrid (ICMM) -CSIC, Madrid, Spain.
 - **Nov. 2012 - Jun. 2020**: Ramón y Cajal fellow: Tenure track position at the Autónoma University of Madrid (UAM), Madrid, Spain. Department: Condensed Matter Physics.
   - **Medical leave**: From September 2014 to February 2016.
@@ -14,3 +15,4 @@ title = "Brief Vita"
 - **2000 - 2004**: PhD Student at the Universidad Autónoma de Madrid (UAM), Spain, under the supervision of Prof. Fernando Sols.
 - **2000**: Training position at Telefónica de España Corporation, Madrid.
 - **1994 - 1999**: Undergraduate studies in Physics by the Universidad Autónoma de Madrid (UAM), Spain.
+@@

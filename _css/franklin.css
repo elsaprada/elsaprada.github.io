@@ -440,10 +440,10 @@ code {
 .franklin-content .column31c {
   float: left;
   text-align: center;
-  width: 15%;
+  width: 35%;
 }
 
-.franklin-content .column31 img{
+.franklin-content .column31c img{
   border-radius: 10px 10px 10px 10px;
   padding-left: 0px;
   width: 90%
@@ -451,7 +451,23 @@ code {
 
 .franklin-content .column32 {
   float: right;
-  width: 85%;
+  width: 65%;
+}
+
+.franklin-content .column41 {
+  float: left;
+  width: 50%;
+}
+
+.franklin-content .column42 {
+  float: right;
+  width: 50%;
+}
+
+.franklin-content .column41 img{
+  border-radius: 10px 10px 10px 10px;
+  padding-left: 0px;
+  width: 90%
 }
 
 /* Clear floats after the columns */
@@ -460,4 +476,8 @@ code {
   display: table;
   clear: both;
   margin: 10px 0px;
+}
+
+.franklin-content .looserlines {
+  line-height: 2em;
 }

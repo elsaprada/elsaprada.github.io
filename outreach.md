@@ -6,8 +6,7 @@ title = "Outreach"
 
 @@row
 @@column31c
-@@container ![APS](/assets/aps.jpg)@@
-@@container ![So close](/assets/soclose.png)@@
+@@container [![So close](/assets/soclose.png)](https://www.youtube.com/watch?v=gUMVY-wFi-M)@@
 @@
 
 @@column32
@@ -26,7 +25,7 @@ We also carried out an <a href="https://www.youtube.com/watch?v=lKD-M0G6S5c" tar
 
 @@row
 @@column31c
-@@container ![APS](/assets/Ettore.png)@@
+@@container [![APS](/assets/Ettore.png)](https://www.youtube.com/watch?v=9OpoBOpVSwU&list=PLZfkXl-xhl06IRlmQg6K7oteqecPa53jh&index=2)@@
 @@
 
 @@column32
@@ -143,16 +142,19 @@ Within the program of awards for students of the <a href="http://www.nicolascabr
 # Teaching
 ~~~
 
-Class titled <b> Outreach on New Materials Science</b> within the Degree of Expert on Public Communication of Science, Universidad Autónoma de Madrid (UAM). 
+Class titled <b> Outreach on New Materials Science</b> within the Degree of Expert on Public Communication of Science, Universidad Autónoma de Madrid (UAM).
 <ol>
 	<li value="1.">
-	<p> Date: 3-Februay-2014<br />
+	<p> Date: 3  February, 2014<br />
 	<li value="2.">
-	<p> Date: 26-October-2016</p>
+	<p> Date: 26 October, 2016</p>
 	<li value="3.">
-	<p> Date: 31-October-2017</p>
+	<p> Date: 31 October, 2017</p>
 	<li value="4.">
-	<p> Date: 30-October-2018</p>
-
+	<p> Date: 30 October, 2018</p>
+	<li value="5.">
+	<p> Date: 27 October, 2020</p>
+	<li value="6.">
+	<p> Date: 4 November, 2021</p>
 </ol>
 ~~~

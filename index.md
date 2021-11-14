@@ -5,9 +5,6 @@
 
 @@row
 @@column11 ![Elsa circa 2021](/assets/photos/Elsa_2021.jpg) @@
-<!-- @@column11
-@@container ~~~<img class="left" src="/assets/Pablo_2018.png" height="200" alt="Pablo circa 2018">~~~ @@ 
-@@ -->
 
 @@column12
 

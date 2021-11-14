@@ -7,9 +7,9 @@ title = "My group"
 ## Samuel D. Escribano
 
 @@row
-@@column31 ![Samuel D. Escribano](/assets/photos/Samuel.jpg) @@
+@@column21 ![Samuel D. Escribano](/assets/photos/Samuel.jpg) @@
 
-@@column32
+@@column22
 
 - **Co-advisor**: Alfredo Levy Yeyati
 - **Starting date**: February 2018
@@ -21,9 +21,9 @@ title = "My group"
 ## Fernando Peñaranda
 
 @@row
-@@column31 ![Fernando Peñaranda](/assets/photos/Fernando.png) @@
+@@column21 ![Fernando Peñaranda](/assets/photos/Fernando.png) @@
 
-@@column32
+@@column22
 
 - **Co-advisor**: Pablo San-Jose
 - **Starting date**: February 2019
@@ -37,9 +37,9 @@ title = "My group"
 ## Carlos Payá
 
 @@row
-@@column31 ![Carlos Payá](/assets/photos/Carlos.jpg) @@
+@@column21 ![Carlos Payá](/assets/photos/Carlos.jpg) @@
 
-@@column32
+@@column22
 - **Master student**
 - **Course**: 2021/22
 - **Subject**: Full shell hybrid nanowires
@@ -52,9 +52,9 @@ title = "My group"
 ## Álvaro Buendía
 
 @@row
-@@column31 ![Álvaro Buendía](/assets/photos/Alvaro.jpg) @@
+@@column21 ![Álvaro Buendía](/assets/photos/Alvaro.jpg) @@
 
-@@column32
+@@column22
 - **Pre-doc CAM student**
 - **Dates**: from March 2019 to September 2020
 - **Subject**: Quasi-1D topological organic polymers

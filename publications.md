@@ -20,7 +20,7 @@ S. D. Escribano, A. L. Yeyati, R. Aguado, E. Prada, and P. San-Jose
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
-**53. [Microscopic analysis of topological superconductivity in ferromagnetic hybrid nanowires](https://arxiv.org/abs/2011.06566)**
+**53. [Tunable proximity effects and topological superconductivity in ferromagnetic hybrid nanowires](https://arxiv.org/abs/2011.06566)**
 
 Samuel D. Escribano, Elsa Prada, Yuval Oreg, and Alfredo Levy Yeyati
 

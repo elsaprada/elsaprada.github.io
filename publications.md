@@ -209,7 +209,7 @@ Rafael Roldán, Luca Chirolli, Elsa Prada, Jose Angel Silva-Guillén, Pablo San-
 
 *[Chemical Society Reviews **46**, 4387 (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CS/C7CS00210F#!divAbstract)*
 
-Highlighted in the [cover](/assets/pdfs/ChemSocRev-Cover.pdf) of Chemical Society Reviews
+Highlighted in the [cover](/assets/files/ChemSocRev-Cover.pdf) of Chemical Society Reviews
 @@
 
 @@papericon ![](/assets/icons/nat.png) @@

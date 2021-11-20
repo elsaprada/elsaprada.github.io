@@ -362,32 +362,32 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 ~~~
 
 # PhD/Master Thesis direction
-~~~
-<ul>
-	
-  	<li><p> Co-direction of the PhD Thesis of Fenando Peñaranda del Río. Theme: Majorana nanowires. Place: Instituto de Ciencia de Materiales de Madrid-CSIC, Spain. Starting date: 1-Sep-2018. Ongoing. Co-advisor: Pablo San-Jose.</p></li>
 
-	<li><p> Co-direction of the PhD Thesis of Samuel Díaz Escribano. Theme: Majorana nanowires. Place: Condensed Matter Department, Universidad Autónoma de Madrid, Spain. Starting date: 1-Sep-2017. Ongoing. Co-advisor: Alfredo Levy Yeyati.</p></li>
+- PhD Thesis
+  - PhD student: Fenando Peñaranda del Río. Theme: Majorana nanowires. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: 1-Sep-2018. Ongoing. Co-advisor: Pablo San-Jose.
+  - PhD student: Samuel Díaz Escribano. Theme: Majorana nanowires. Place: Condensed Matter Department, Universidad Autónoma de Madrid, and Insituto de Ciencias de Materiales de Madrdid - CSIC, Spain. Starting date: 1-Sep-2017. Ongoing. Co-advisor: Alfredo Levy Yeyati.
+ 
+- Master Thesis
+  - Master student: Carlos Payá Herrero. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee. Ongoing.
+  - Master student: Álex Rodríguez. Title: Study of chiral and crystalline topological insulating phases with the SSH4 model. Dates: 2020-2021. Place: ICMM-CSIC. Tutor at UAM: Pilar Segovia Cabrero.
+  - Master student: Fernando Peñaranda. Title: Smooth confinement in Majorana nanowires. Dates: 2017-2018. Place: UAM.
+  - Master student: Francisco José Martín. Title: Wave-matching approach to transport through Majorana nanowires. Dates: 2017-2018. Place: UAM. Co-advisor: Alfredo Levy Yeyati.
+  - Master student: Samuel Díaz Escribano. Title: Effect of the electrostatic environment on Majorana nanowires. Dates: 2016-2017. Place: UAM. Co-advisor: Alfredo Levy Yeyati.
+  - Master student: Sergio Graullera. Title: Electronic structure of Bi(111) bilayer. Dates: 2014-2015. Place: UAM. Co-advisor: Juan José Palacios.
+  - Master student: Petra Dietl. Title: Numerical Studies of Electronic Transport through Graphene Nanoribbons with Disorder. Dates: 2008-2009. Place: Karlsruhe University, Germany. Co-advisors: Georgo Metalidis, Elsa Prada, Pablo San-Jose. Referee: Gerd Schön. Co-referee: Henning Schomerus.
 
-	<li><p> Tutor of the PhD Thesis of Jesús Ávila Camunas. Starting date: 8-Feb-2017. Director: Ramón Aguado Sola. Ongoing.</p></li>
-  
-	<li><p> Tutor of the PhD Thesis of Jorge Luis Cayao Díaz. Title: Hybrid superconductor-semiconductor nanowire junctions as useful platforms to study Majorana bound states. Place: Instituto de Ciencia de Materiales de Madrid (ICMM)-CSIC, Madrid, Spain. Starting date: 30-Jan-2012. Defence day: 20-May-2016. Advisor: Ramón Aguado Sola.</p></li>
+- Graduation Project
+  - Undergrad student: Carlos José Sánchez. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee. Ongoing.
+  - Undergrad student: Carlos Payá Herrero. Theme: Uniones Josephson basadas en nanohilos de Majorana encapsulados. Dates: 2020-2021. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
+  - Undergrad student: Álex Rodríguez Ortega. Theme: Topological and trivial edge states in acene and bisanthene-based polymers. Dates: 2019-2020. Place: UAM.
+  - Undergrad student: Fernando Peñaranda del Río. Theme: Estudio de las propiedades de no-localidad y de la estructura de espín de los Estados Ligados de Majorana en nanohilos semiconductores mediante el acoplo con un punto cuántico. Dates: 2016-2017. Place: UAM.
+  - Undergrad student: Ignacio Casal Iglesias. Theme: Confined excitons in two dimensional crystals. Dates: 2016-2017. Place: UAM.
+  - Undergrad student: Ignacio Heredia Cachá. Theme: Estados ligados de Majorana en nanohilos semiconductores. Dates: 2013-2014. Place: UAM.
+  - Undergrad student: Sergio Graullera Pérez. Theme: Estados ligados de Majorana en aislantes topológicos bidimensionales. Dates: 2013-2014. Place: UAM.
 
-	<li><p> Direction of the Master Thesis of Álex Rodríguez. Title: Study of chiral and crystalline topological insulating phases with the SSH4 model. Dates: 2020-2021. Place: Universidad Atónoma de Madrid, Spain. </p></li>
-  
-	<li><p> Direction of the Master Thesis of Fernando Peñaranda. Title: Smooth confinement in Majorana nanowires. Dates: 2017-2018. Place: Universidad Atónoma de Madrid, Spain. </p></li>	
+- PhD Tutorship
+  - PhD student: Jorge Luis Cayao Díaz. Title: Hybrid superconductor-semiconductor nanowire junctions as useful platforms to study Majorana bound states. Place: ICMM-CSIC, Madrid. Starting date: 30-Jan-2012. Defence day: 20-May-2016. Advisor: Ramón Aguado Sola.
 
-<li><p> Co-direction of the Master Thesis of Francisco José Martín. Title: Wave-matching approach to transport through Majorana nanowires. Dates: 2017-2018. Place: Universidad Atónoma de Madrid, Spain. Co-advisor: Alfredo Levy Yeyati.</p></li>
-
-	<li><p> Co-direction of the Master Thesis of Samuel Díaz Escribano. Title: Effect of the electrostatic environment on Majorana nanowires. Dates: 2016-2017. Place: Universidad Atónoma de Madrid, Spain. Co-advisor: Alfredo Levy Yeyati.</p></li>
-
-	<li><p> Co-direction of the Master Thesis of Sergio Graullera. Title: Electronic structure of Bi(111) bilayer. Dates: 2014-2015. Place: Universidad Atónoma de Madrid, Spain. Co-advisor: Juan José Palacios.</p></li>
-
-	<li><p> Co-direction of the Master Thesis of Petra Dietl. Title: Numerical Studies of Electronic Transport through Graphene Nanoribbons with Disorder. Dates: 2008-2009. Place: Karlsruhe University, Germany. Co-advisors: Georgo Metalidis, Elsa Prada, Pablo San-Jose. Referee: Gerd Schön. Co-referee: Henning Schomerus.</p></li>
-
-
-</ul>
-~~~
 
 # Teaching
 

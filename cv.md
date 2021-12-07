@@ -364,8 +364,8 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 # PhD/Master Thesis direction
 
 - PhD Thesis
-  - PhD student: Fenando Peñaranda del Río. Theme: Majorana nanowires. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: 1-Sep-2018. Ongoing. Co-advisor: Pablo San-Jose.
-  - PhD student: Samuel Díaz Escribano. Theme: Majorana nanowires. Place: Condensed Matter Department, Universidad Autónoma de Madrid, and Insituto de Ciencias de Materiales de Madrdid - CSIC, Spain. Starting date: 1-Sep-2017. Ongoing. Co-advisor: Alfredo Levy Yeyati.
+  - PhD student: Fenando Peñaranda del Río. Theme: Majorana nanowires. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: 11-February-2019. Ongoing. Co-advisor: Pablo San-Jose.
+  - PhD student: Samuel Díaz Escribano. Theme: Majorana nanowires. Place: Condensed Matter Department, Universidad Autónoma de Madrid, and Insituto de Ciencias de Materiales de Madrdid - CSIC, Spain. Starting date: 1-March-2018. Ongoing. Co-advisor: Alfredo Levy Yeyati.
  
 - Master Thesis
   - Master student: Carlos Payá Herrero. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee. Ongoing.

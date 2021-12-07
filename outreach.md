@@ -40,6 +40,19 @@ Within the program of awards for students of the <a href="http://www.nicolascabr
 @@
 @@
 
+# Youtube videos
+~~~
+<ol>
+
+<li value="2.">
+	<p> Interviewed for the video <a href="https://www.youtube.com/watch?v=zn4B5nBAhJA"target="_blank"> Este Español Ha Revolucionado los Materiales Cuánticos</a>, carried out by José Luis Crespo within his YouTube channel <b>QuantumFracture</b>. Published on the 18th of May, 2020.<br />
+
+<li value="1.">
+	<p> Participation in the script writing of the video <a href="https://www.youtube.com/watch?v=RmdWyZpXeEM"target="_blank">La física de lo complejo</a> . This is a promotional video about the Condensed Matter Physics Insitute (IFIMAC) of the Autonomous University of Madrid (UAM), carried out by José Luis Crespo and with the participation of various members of the IFIMAC. Published on 28th of September, 2017.<br />
+
+</ol>
+~~~
+
 # TV
 ~~~
 <ol>
@@ -122,19 +135,6 @@ Within the program of awards for students of the <a href="http://www.nicolascabr
 
 <li value="4.">
 	<p> <a href="/assets/files/2014RadioNacional_grafeno.mp3" target="_blank">Grafeno, el material de las mil aplicaciones</a> , interview in <b>"Esto me suena. Las tardes del Ciudadano García", RNE</b>, on the 21st of January, 2014.<br />
-
-</ol>
-~~~
-
-# Youtube videos
-~~~
-<ol>
-
-<li value="2.">
-	<p> Interviewed for the video <a href="https://www.youtube.com/watch?v=zn4B5nBAhJA"target="_blank"> Este Español Ha Revolucionado los Materiales Cuánticos</a>, carried out by José Luis Crespo within his YouTube channel <b>QuantumFracture</b>. Published on the 18th of May, 2020.<br />
-
-<li value="1.">
-	<p> Participation in the script writing of the video <a href="https://www.youtube.com/watch?v=RmdWyZpXeEM"target="_blank">La física de lo complejo</a> . This is a promotional video about the Condensed Matter Physics Insitute (IFIMAC) of the Autonomous University of Madrid (UAM), carried out by José Luis Crespo and with the participation of various members of the IFIMAC. Published on 28th of September, 2017.<br />
 
 </ol>
 ~~~

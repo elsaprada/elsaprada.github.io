@@ -20,6 +20,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://elsaprada.github.io/seminars/index.html</loc>
+    <lastmod>2022-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://elsaprada.github.io/news/index.html</loc>
     <lastmod>2022-01-25</lastmod>
     <changefreq>monthly</changefreq>

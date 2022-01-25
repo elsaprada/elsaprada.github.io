@@ -82,6 +82,15 @@ title = "Curriculum Vitae"
 ~~~
 <ol>
 
+<li value="20.">
+<p> <b>Research grant from the Spanish government</b>:<br /> 
+Title: Topología y correlaciones en materiales cuánticos y tecnologías cuánticas de estado sólido<br />  Funding agency: Ministerio de Ciencia, Innovación y Universidades, Gobierno de España<br />
+Project number PGC2018-097018-B-I00 <br />
+Principal Investigators: María José Calderón Prieto y Ramón Aguado Sola<br />
+Other participants: 7 senior and 4 junior participants<br />
+Funding: 200000 €<br />
+Duration: 01/January/2019 – 31/December/2021.<br />
+
 <li value=19.">
 <p> <b>Research grant from the ICMM-CSIC</b>:<br /> 
 Title: Josephson junctions based on full-shell Majorana nanowires <br /> 

@@ -9,6 +9,15 @@ title = "Publications"
 
 # 2022
 
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**55. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
+
+Fernando Peñaranda, Ramón Aguado, Elsa Prada, and Pablo San-Jose
+
+*Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.00593)*
+@@
+
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **54. [Vortex-induced pairing suppression and near-zero modes in quantum dots coupled to full-shell nanowires](https://arxiv.org/abs/2107.13011)**

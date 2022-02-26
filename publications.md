@@ -46,7 +46,7 @@ Samuel D. Escribano, Elsa Prada, Yuval Oreg, and Alfredo Levy Yeyati
 
 M. Valentini, F. Peñaranda, A. Hofmann, M. Brauns, R. Hauschild, P. Krogstrup, P. San-Jose, E. Prada, R. Aguado, G. Katsaros
 
-*[Science **373**, 82 (2021)](hhttps://science.sciencemag.org/content/373/6550/82)*
+*[Science **373**, 82 (2021)](https://science.sciencemag.org/content/373/6550/82)*
 @@
 
 # 2020

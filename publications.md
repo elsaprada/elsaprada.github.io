@@ -11,6 +11,15 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**56. [Majorana-like Coulomb spectroscopy in the absence of zero bias peaks](https://arxiv.org/abs/2203.07829)**
+
+Marco Valentini, Maksim Borovkov, Elsa Prada, Sara Marti-Sanchez, Marc Botifoll, Andrea Hofmann, Jordi Arbiol, Ramon Aguado, Pablo San-Jose, Georgios Katsaros
+
+*Preprint [arXiv:2203.07829](https://arxiv.org/abs/2203.07829)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **56. [Semiconductor-ferromagnet-superconductor planar heterostructures for 1D topological superconductivity](https://arxiv.org/abs/2203.06644)**
 
 Samuel D. Escribano, Andrea Maiani, Martin Leijnse, Karsten Flensberg, Yuval Oreg, Alfredo Levy Yeyati, Elsa Prada, Rubén Seoane Souto

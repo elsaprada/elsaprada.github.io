@@ -11,7 +11,7 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**56. [Majorana-like Coulomb spectroscopy in the absence of zero bias peaks](https://arxiv.org/abs/2203.07829)**
+**57. [Majorana-like Coulomb spectroscopy in the absence of zero bias peaks](https://arxiv.org/abs/2203.07829)**
 
 Marco Valentini, Maksim Borovkov, Elsa Prada, Sara Marti-Sanchez, Marc Botifoll, Andrea Hofmann, Jordi Arbiol, Ramon Aguado, Pablo San-Jose, Georgios Katsaros
 

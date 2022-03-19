@@ -158,3 +158,11 @@ Class titled <b> Outreach on New Materials Science</b> within the Degree of Expe
 	<p> Date: 4 November, 2021</p>
 </ol>
 ~~~
+
+# February 11, International Day of Women and Girls in Science
+
+My avatar is **Quantsa**! 😊
+
+@@img ![](/assets/Quantsa-cartel.png) @@
+
+

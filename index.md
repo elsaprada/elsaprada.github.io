@@ -4,7 +4,7 @@
 @@img-medium ![ICMM-CSIC](/assets/CSIC_logo.png) @@
 
 @@row
-@@column11 ![Elsa circa 2021](/assets/photos/Elsa_2021.jpg) @@
+@@column11 ![Elsa circa 2022](/assets/photos/Elsa_2022.jpg) @@
 
 @@column12
 

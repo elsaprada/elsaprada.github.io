@@ -410,9 +410,9 @@ code {
 
 .franklin-content .column11 {
   float: left;
-  width: -webkit-calc(33% - 10px);
-  width:    -moz-calc(33% - 10px);
-  width:         calc(33% - 10px);
+  width: -webkit-calc(32% - 10px);
+  width:    -moz-calc(32% - 10px);
+  width:         calc(32% - 10px);
   padding-right: 10px
 }
 
@@ -424,7 +424,7 @@ code {
 
 .franklin-content .column12 {
   float: right;
-  width: 67%;
+  width: 68%;
   line-height: 2.0em;
 }
 

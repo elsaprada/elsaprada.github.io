@@ -82,14 +82,25 @@ title = "Curriculum Vitae"
 ~~~
 <ol>
 
+<li value="21.">
+<p> <b>Research grant from the Spanish government</b>:<br /> 
+Title: Correlations, superconductivity and topology in quantum materials and quantum technologies<br />  
+Funding agency: Ministerio de Ciencia e Innovación, Gobierno de España<br />
+Project number PID2021-125343NB-I00 <br />
+Principal Investigators: Ramón Aguado Sola and Elena Bascones Fernández de Velasco<br />
+Other participants: 3 senior and 4 junior participants<br />
+Funding: 139150 €<br />
+Duration: 01/September/2022 – 31/August/2025.<br />
+
 <li value="20.">
 <p> <b>Research grant from the Spanish government</b>:<br /> 
-Title: Topología y correlaciones en materiales cuánticos y tecnologías cuánticas de estado sólido<br />  Funding agency: Ministerio de Ciencia, Innovación y Universidades, Gobierno de España<br />
+Title: Topología y correlaciones en materiales cuánticos y tecnologías cuánticas de estado sólido<br />  
+Funding agency: Ministerio de Ciencia, Innovación y Universidades, Gobierno de España<br />
 Project number PGC2018-097018-B-I00 <br />
-Principal Investigators: María José Calderón Prieto y Ramón Aguado Sola<br />
+Principal Investigators: María José Calderón Prieto and Ramón Aguado Sola<br />
 Other participants: 7 senior and 4 junior participants<br />
 Funding: 200000 €<br />
-Duration: 01/January/2019 – 31/December/2021.<br />
+Duration: 01/January/2019 – 31/August/2022.<br />
 
 <li value=19.">
 <p> <b>Research grant from the ICMM-CSIC</b>:<br /> 
@@ -186,7 +197,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 	<li><p>Co-organization of the online seminar series <a href="https://sites.google.com/view/ifimac-icmm-joint-seminars" target="_blank"><strong>IFIMAC+ICMM Joint Seminar Series</strong></a> on condensed matter physics. This is a collaborative effort between the Condensed Mater Physics Center (IFIMAC-UAM) and the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). Starting date: 3 December, 2020.</p></li>
 
-	<li><p>Co-organization of the CMD 29 online series <a href="https://www.iopconferences.org/iop/frontend/reg/thome.csp" target="_blank"><strong>Bound states in hybrid superconductor nanostructures</strong></a> organized by the European Physical Society (EPS) and IOP Institute of Physics, 28 June- 29 June, 2021.</p></li>
+	<li><p>Co-organization of the CMD29 online series <a href="https://www.iopconferences.org/iop/frontend/reg/thome.csp" target="_blank"><strong>Bound states in hybrid superconductor nanostructures</strong></a> organized by the European Physical Society (EPS) and IOP Institute of Physics, 28 June- 29 June, 2021.</p></li>
 
 	<li><p>Co-organization of the minicolloquium <strong>Hybrid semiconductor-superconducting nanostructures: from Andreev to Majorana bound states</strong> within the online international conference <a href="http://www.cmd2020gefes.eu/28512/detail/2020-joint-conference-of-the-condensed-matter-divisions-of-eps-cmd-and-rsef-gefes.html" target="_blank"><strong>CMD2020GEFES</strong> </a>, 31 August- 4 September, 2020.</p></li>
 
@@ -201,6 +212,12 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 # Invited lectures at conferences and summer schools
 ~~~
 <ol>
+
+<li value="17.">
+<p><strong>Caroli-de Gennes-Matricon states in full-shell nanowires</strong>. Presented at the <a href="https://qdp2022.dipc.org/home/scope" target="_blank">Quantum Designer Physics 2022 </a> conference, Donostia International Physics Center, at Miramar Palace, San Sebastián, Guipúzcoa, Spain. Date: 18-Jul-2022.</p></li>
+
+<li value="16.">
+<p><strong>Topological superconductivity and Majorana modes for quantum computing: a materials science perfective</strong>. Presented online at the <a href="https://indico.ific.uv.es/event/6372/overview" target="_blank">@FlipPhysics workshop</a> at IFIC (CSIC/UV) Valencia, Spain . Date: 23-Mar-2022.</p></li>
 
 <li value="15.">
 <p><strong>(One of the) latest Majorana nanowire designs: ferromagnetic hybrid nanowires</strong>. Presented at the <a href="https://toposuper2021.aalto.fi" target="_blank">Toposuper2021 - Online conference on emergent topological superconductivity</a>. Date: 7-Jun-2021.</p></li>

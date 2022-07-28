@@ -195,6 +195,8 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 ~~~
 <ul>
 
+	<li><p>Co-organization of the CMD29 minicolloquium <a href="https://iop.eventsair.com/cmd29/bound-states-in-hybrid-superconductor-nanostructures" target="_blank"><strong>Bound states in hybrid superconductor nanostructures</strong></a> organized by the European Physical Society (EPS) and IOP Institute of Physics in Manchester, UK, 21-26 August, 2022.</p></li>
+
 	<li><p>Co-organization of the online seminar series <a href="https://sites.google.com/view/ifimac-icmm-joint-seminars" target="_blank"><strong>IFIMAC+ICMM Joint Seminar Series</strong></a> on condensed matter physics. This is a collaborative effort between the Condensed Mater Physics Center (IFIMAC-UAM) and the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). Starting date: 3 December, 2020.</p></li>
 
 	<li><p>Co-organization of the CMD29 online series <a href="https://www.iopconferences.org/iop/frontend/reg/thome.csp" target="_blank"><strong>Bound states in hybrid superconductor nanostructures</strong></a> organized by the European Physical Society (EPS) and IOP Institute of Physics, 28 June- 29 June, 2021.</p></li>
@@ -217,7 +219,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 <p><strong>Caroli-de Gennes-Matricon states in full-shell nanowires</strong>. Presented at the <a href="https://qdp2022.dipc.org/home/scope" target="_blank">Quantum Designer Physics 2022 </a> conference, Donostia International Physics Center, at Miramar Palace, San Sebastián, Guipúzcoa, Spain. Date: 18-Jul-2022.</p></li>
 
 <li value="16.">
-<p><strong>Topological superconductivity and Majorana modes for quantum computing: a materials science perfective</strong>. Presented online at the <a href="https://indico.ific.uv.es/event/6372/overview" target="_blank">@FlipPhysics workshop</a> at IFIC (CSIC/UV) Valencia, Spain . Date: 23-Mar-2022.</p></li>
+<p><strong>Topological superconductivity and Majorana modes for quantum computing: a materials science perfective</strong>. Presented online at the <a href="https://indico.ific.uv.es/event/6372/overview" target="_blank">@FlipPhysics workshop</a> at IFIC (CSIC/UV) Valencia, Spain. Date: 23-Mar-2022.</p></li>
 
 <li value="15.">
 <p><strong>(One of the) latest Majorana nanowire designs: ferromagnetic hybrid nanowires</strong>. Presented at the <a href="https://toposuper2021.aalto.fi" target="_blank">Toposuper2021 - Online conference on emergent topological superconductivity</a>. Date: 7-Jun-2021.</p></li>

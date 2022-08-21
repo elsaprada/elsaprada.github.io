@@ -29,21 +29,23 @@ Marco Valentini, Maksim Borovkov, Elsa Prada, Sara Marti-Sanchez, Marc Botifoll,
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**56. [Semiconductor-ferromagnet-superconductor planar heterostructures for 1D topological superconductivity](https://arxiv.org/abs/2203.06644)**
-
-Samuel D. Escribano, Andrea Maiani, Martin Leijnse, Karsten Flensberg, Yuval Oreg, Alfredo Levy Yeyati, Elsa Prada, Rubén Seoane Souto
-
-*Preprint [arXiv:2203.06644](https://arxiv.org/abs/2203.06644)*
-@@
-
-@@papericon ![](/assets/icons/arxiv.png) @@
-@@paperdata
-**55. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
+**56. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
 
 Fernando Peñaranda, Ramón Aguado, Elsa Prada, and Pablo San-Jose
 
 *Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.00593)*
 @@
+
+
+@@papericon ![](/assets/icons/nat.png) @@
+@@paperdata
+**55. [Semiconductor-ferromagnet-superconductor planar heterostructures for 1D topological superconductivity](https://arxiv.org/abs/2203.06644)**
+
+Samuel D. Escribano, Andrea Maiani, Martin Leijnse, Karsten Flensberg, Yuval Oreg, Alfredo Levy Yeyati, Elsa Prada, Rubén Seoane Souto
+
+*[npj Quantum Materials **7**, 81 (2022)](https://www.nature.com/articles/s41535-022-00489-9)*
+@@
+
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata

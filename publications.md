@@ -27,13 +27,14 @@ Fernando Peñaranda, Ramón Aguado, Elsa Prada, and Pablo San-Jose
 *Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.00593)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/nat.png) @@
 @@paperdata
 **56. [Majorana-like Coulomb spectroscopy in the absence of zero bias peaks](https://arxiv.org/abs/2203.07829)**
 
 Marco Valentini, Maksim Borovkov, Elsa Prada, Sara Marti-Sanchez, Marc Botifoll, Andrea Hofmann, Jordi Arbiol, Ramon Aguado, Pablo San-Jose, Georgios Katsaros
 
 *Preprint [arXiv:2203.07829](https://arxiv.org/abs/2203.07829)*
+Accepted in Nature
 @@
 
 @@papericon ![](/assets/icons/nat.png) @@

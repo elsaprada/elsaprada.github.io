@@ -49,7 +49,7 @@ Samuel D. Escribano, Andrea Maiani, Martin Leijnse, Karsten Flensberg, Yuval Ore
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
-**54. [Vortex-induced pairing suppression and near-zero modes in quantum dots coupled to full-shell nanowires](https://arxiv.org/abs/2107.13011)**
+**54. [Fluxoid-induced pairing suppression and near-zero modes in quantum dots coupled to full-shell nanowires](https://arxiv.org/abs/2107.13011)**
 
 S. D. Escribano, A. L. Yeyati, R. Aguado, E. Prada, and P. San-Jose
 

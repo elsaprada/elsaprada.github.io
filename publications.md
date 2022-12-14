@@ -33,8 +33,9 @@ Fernando Peñaranda, Ramón Aguado, Elsa Prada, and Pablo San-Jose
 
 Marco Valentini, Maksim Borovkov, Elsa Prada, Sara Marti-Sanchez, Marc Botifoll, Andrea Hofmann, Jordi Arbiol, Ramon Aguado, Pablo San-Jose, Georgios Katsaros
 
-*Preprint [arXiv:2203.07829](https://arxiv.org/abs/2203.07829)*
-Accepted in Nature
+*[Nature **612**, 442 (2022)](https://doi.org/10.1038/s41586-022-05382-w)*
+
+See also *Nature News and Views*: [Twin techniques narrow search for elusive Majorana particles](https://www.nature.com/articles/d41586-022-04351-7)
 @@
 
 @@papericon ![](/assets/icons/nat.png) @@

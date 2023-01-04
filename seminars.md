@@ -1,8 +1,6 @@
 +++
-title = "News"
+title = "Seminars"
 +++
-
-# Seminars
 
 Welcome to our online seminar series:
 

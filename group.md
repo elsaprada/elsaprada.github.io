@@ -4,21 +4,6 @@ title = "My group"
 
 # My current PhD students
 
-## Samuel D. Escribano
-
-@@row
-@@column21 ![Samuel D. Escribano](/assets/photos/Samuel.jpg) @@
-
-@@column22
-
-- **Co-advisor**: Alfredo Levy Yeyati
-- **Starting date**: March 2018
-- **Subject**: Effect of the electrostatic interactions on hybrid semiconducting nanowires and Majorana modes
-- **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=UaNF-SUAAAAJ)
-- **Webpage**: [https://www.samueldescribano.com](https://www.samueldescribano.com)
-@@
-@@
-
 ## Fernando Peñaranda
 
 @@row
@@ -28,12 +13,10 @@ title = "My group"
 
 - **Co-advisor**: Pablo San-Jose
 - **Starting date**: February 2019
-- **Subject**: Engineering topological superconductivity in 1D and 2D platforms
+- **Subject**: Topological superconductivity in Majorana nanowires and 2D crystals
 - **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=S3I9ac8AAAAJ)
 @@
 @@
-
-# My current master and undergrad students
 
 ## Carlos Payá
 
@@ -41,14 +24,32 @@ title = "My group"
 @@column21 ![Carlos Payá](/assets/photos/Carlos.jpg) @@
 
 @@column22
-- **Master student**
-- **Course**: 2021/22
-- **Subject**: Full shell hybrid nanowires
+- **Co-advisor**: Ramón Aguado
+- **Starting date**: March 2023
+- **Subject**: Full-shell hybrid nanowires
 - **Distinction**: [GEFES research award for students](http://gefes-rsef.org/premios-de-investigacion-para-estudiantes-carlos-paya/)
 @@
 @@
 
-# Past students
+# Past PhD students
+
+## Samuel D. Escribano
+
+@@row
+@@column21 ![Samuel D. Escribano](/assets/photos/Samuel.jpg) @@
+
+@@column22
+
+- **Co-advisor**: Alfredo Levy Yeyati
+- **Starting date**: March 2018
+- **PhD defense date**: December 2022   
+- **Subject**: Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures
+- **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=UaNF-SUAAAAJ)
+- **Webpage**: [https://www.samueldescribano.com](https://www.samueldescribano.com)
+@@
+@@
+
+# Other past students
 
 ## Álvaro Buendía
 

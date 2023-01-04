@@ -7,7 +7,7 @@ title = "Publications"
 @@colbox [Google Scholar](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en) @@
 @@colbox ~~~<a href="http://www.researcherid.com/rid/A-4792-2010">Publons</a><span id="badgeCont161"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont161&rid=A-4792-2010&size=small"></script></span>~~~@@
 
-# 2022
+# 2023
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
@@ -26,6 +26,8 @@ Fernando Peñaranda, Ramón Aguado, Elsa Prada, and Pablo San-Jose
 
 *Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.00593)*
 @@
+
+# 2022
 
 @@papericon ![](/assets/icons/nat.png) @@
 @@paperdata

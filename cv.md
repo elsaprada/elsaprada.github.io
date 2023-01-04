@@ -393,10 +393,10 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 - PhD Thesis
   - PhD student: Carlos Payá Herrero. Theme: Full-shell hybrid nanowires. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: March-2023. Ongoing. Co-advisor: Ramón Aguado.
-  - PhD student: Fenando Peñaranda del Río. Title: <strong>Topological superconductivity in Majorana nanowires and 2D crystals</strong>. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: 11-February-2019. Ongoing. Co-advisor: Pablo San-Jose.
-  - PhD student: Samuel Díaz Escribano. Title: <strong>Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures</strong>. Place: Condensed Matter Physics Department, Universidad Autónoma de Madrid, and Insituto de Ciencias de Materiales de Madrdid - CSIC, Spain. Starting date: March-2018. PhD defense date: December-2022. Co-advisor: Alfredo Levy Yeyati.
+  - PhD student: Fenando Peñaranda del Río. Title: **Topological superconductivity in Majorana nanowires and 2D crystals**. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: 11-February-2019. Ongoing. Co-advisor: Pablo San-Jose.
+  - PhD student: Samuel Díaz Escribano. Title: **Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures**. Place: Condensed Matter Physics Department, Universidad Autónoma de Madrid, and Insituto de Ciencias de Materiales de Madrdid - CSIC, Spain. Starting date: March-2018. PhD defense date: December-2022. Co-advisor: Alfredo Levy Yeyati.
 
- 
+
 - Master Thesis
   - Master student: Carlos Payá Herrero. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee. Ongoing.
   - Master student: Álex Rodríguez. Title: Study of chiral and crystalline topological insulating phases with the SSH4 model. Dates: 2020-2021. Place: ICMM-CSIC. Tutor at UAM: Pilar Segovia Cabrero.

@@ -49,7 +49,22 @@ title = "My group"
 @@
 @@
 
-# Other past students
+# Other students
+
+## Andrea Vezzosi
+
+@@row
+@@column21 ![Andrea Vezzosi](/assets/photos/Andrea Vezzosi.jpg) @@
+
+@@column22
+- **Visiting PhD student**
+- **Origin**: Università degli Studi di Modena e Reggio Emilia. PhD student under the supervision of Prob. Guido Goldoni
+- **Dates of his short stay at ICMM**: from January 16 to April 23, 2023
+- **Subject**: Core-shell nanowires
+- **Google scholar**: [link](https://scholar.google.com/citations?user=rCrFBLgAAAAJ&hl=it)
+- **Webpage**: [link](http://personale.unimore.it/Rubrica/dettaglio/219035)
+@@
+@@
 
 ## Álvaro Buendía
 

@@ -77,7 +77,7 @@ Within the program of awards for students of the <a href="http://www.nicolascabr
 </ol>
 ~~~
 
-# Press
+# Press and web
 ~~~
 <ol>
  
@@ -106,16 +106,25 @@ Within the program of awards for students of the <a href="http://www.nicolascabr
 	<p><a href="/assets/files/ElMundo_12-10-12.pdf" target="_blank">'El periódico electrónico y enrollable llegará en 2015'</a>, interview for the science section of the Spanish newspaper <b>El Mundo</b>   on the 12th of October 2012.<br />
 
 <li value="9.">
-	<p> <a href="/assets/files/Marca_12-12-18.pdf" target="_blank">El arma secreta del número 1 mundial: Djokovic, el serbio empleará la próxima temporada una raqueta fabricada con grafeno, un material revolucionario</a>. Interview for an <a href="http://www.marca.com/2012/12/18/tenis/1355827985.html?a=fc2115f51928e0c3c097436b2e8bbd24&t=1355851650#comentarios"> article</a> in the Spanish newspaper <b>Marca</b> on the 18th of December 2012.<br /> 
+	<p> <a href="/assets/files/Marca_12-12-18.pdf">El arma secreta del número 1 mundial: Djokovic, el serbio empleará la próxima temporada una raqueta fabricada con grafeno, un material revolucionario</a>. Interview for an <a href="http://www.marca.com/2012/12/18/tenis/1355827985.html?a=fc2115f51928e0c3c097436b2e8bbd24&t=1355851650#comentarios"> article</a> in the Spanish newspaper <b>Marca</b> on the 18th of December 2012.<br /> 
 
 <li value="10.">
 	<p><a href="/assets/files/ElMundo_13-05-28.pdf" target="_blank">'La revolución del grafeno'</a>, interview for the section "Nanotecnología" of the Spanish newspaper <b>El Mundo</b>  on the 28th of May 2013, by Teresa Guerrero.<br />
 
 <li value="11.">
-	<p><a href="http://clubmatador.com/revista-matador/"target="_blank">'Materiales para el futuro'</a>, invited article published in the prestigious magazine <b>Matador</b>, La Fábrica. Volume S dedicated to the future. Dec 2016.<br />
+	<p><a href="http://clubmatador.com/revista-matador/">'Materiales para el futuro'</a>, invited article published in the magazine <b>Matador</b>, La Fábrica. Volume S dedicated to the future. Dec 2016.<br />
 
 <li value="12.">
-	<p><a href="https://www.fbbva.es/noticias/la-revolucion-la-tecnologia-cuantica-protagoniza-la-xxiv-escuela-internacional-verano-nicolas-cabrera/"target="_blank">'La revolución de la tecnología cuántica protagoniza la XXIV Escuela Internacional de Verano Nicolás Cabrera'</a>, interview for the announcement of the summer school on topological materials funded by <b>Fundación BBVA</b>  on the 1st September 2017.<br />
+	<p><a href="https://www.fbbva.es/noticias/la-revolucion-la-tecnologia-cuantica-protagoniza-la-xxiv-escuela-internacional-verano-nicolas-cabrera/">'La revolución de la tecnología cuántica protagoniza la XXIV Escuela Internacional de Verano Nicolás Cabrera'</a>, interview for the announcement of the summer school on topological materials funded by <b>Fundación BBVA</b>  on the 1st September 2017.<br />
+
+<li value="13.">
+	<p><a href="https://www.elconfidencial.com/tecnologia/ciencia/2017-09-07/ordenador-cuantico-miraflores-sierra_1439485/">'Se busca ordenador cuántico: razón, Miraflores de la Sierra'</a>, interview for the science section of the Spanish digital newspaper <b>El Condidencial</b>  on the 7st September 2017, by Antonio Villareal.<br />
+
+<li value="14.">
+	<p><a href="https://www.icmm.csic.es/en/noticia.php?num=59/">'Elsa Prada: “El campo de los qubits topológicos basados en modos de Majorana necesita un salto cualitativo en la calidad de los materiales”'</a>, interview for ICMM-CSIC webpage on the 11th January 2023, by Ángela Bonachera.<br />
+
+<li value="15.">
+	<p><a href="https://elpais.com/tecnologia/2023-01-13/descubierta-una-impostora-que-simula-ser-una-particula-de-majorana-el-santo-grial-cuantico.html">'Descubierta una “impostora” que simula ser una partícula de Majorana, el santo grial cuántico'</a>, interview for Technology section of the Spanish newspaper <b>El País</b> on the 13th January 2023, by Raúl Limón.<br />
 
 </ol>
 ~~~

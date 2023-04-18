@@ -9,7 +9,7 @@ title = "Publications"
 
 # 2023
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/sp.png) @@
 @@paperdata
 **58. [Theory of Caroli-de Gennes-Matricon analogs in full-shell nanowires](https://arxiv.org/abs/2207.07606)**
 

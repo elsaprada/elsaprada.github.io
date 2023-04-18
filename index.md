@@ -23,7 +23,8 @@ Since July 2020 I belong to the [Materials Science Institute of Madrid](https://
 ## Identifiers
 - [Google Scholar](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en)
 - ORCID: [0000-0001-7522-4795](http://orcid.org/0000-0001-7522-4795)
-- ResearcherID: [A-4792-2010](https://publons.com/researcher/2849391/elsa-prada/)
+- Web of Science: [A-4792-2010](https://www.webofscience.com/wos/author/record/1465075)
+- Scopus: [9238304800](https://www.scopus.com/authid/detail.uri?authorId=9238304800)
 
 ## Research interests
 

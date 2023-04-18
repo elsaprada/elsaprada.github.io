@@ -5,7 +5,7 @@ title = "Publications"
 ## Metrics
 <!-- @@paperdata [Google Scholar](https://scholar.google.com/citations?user=pt3gvQgAAAAJ) @@ -->
 @@colbox [Google Scholar](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en) @@
-@@colbox ~~~<a href="http://www.researcherid.com/rid/A-4792-2010">Publons</a><span id="badgeCont161"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont161&rid=A-4792-2010&size=small"></script></span>~~~@@
+@@colbox [Web of Science](https://www.webofscience.com/wos/author/record/1465075)@@
 
 # 2023
 
@@ -24,7 +24,7 @@ Pablo San-Jose, Carlos Payá, C. M. Marcus, S. Vaitiekėnas, Elsa Prada
 
 Fernando Peñaranda, Ramón Aguado, Elsa Prada, and Pablo San-Jose
 
-*Preprint [arXiv:2202.00593](https://arxiv.org/abs/2202.00593)*
+*[SciPost Phys. **14**, 075 (2023)](https://scipost.org/SciPostPhys.14.4.075)*
 @@
 
 # 2022

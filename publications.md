@@ -15,7 +15,8 @@ title = "Publications"
 
 Pablo San-Jose, Carlos Payá, C. M. Marcus, S. Vaitiekėnas, Elsa Prada
 
-*Preprint [arXiv:2207.07606](https://arxiv.org/abs/2207.07606)*
+*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*
+<!-- *Preprint [arXiv:2207.07606](https://arxiv.org/abs/2207.07606)* -->
 @@
 
 @@papericon ![](/assets/icons/arxiv.png) @@

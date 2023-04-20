@@ -4,20 +4,6 @@ title = "My group"
 
 # My current PhD students
 
-## Fernando Peñaranda
-
-@@row
-@@column21 ![Fernando Peñaranda](/assets/photos/Fernando.png) @@
-
-@@column22
-
-- **Co-advisor**: Pablo San-Jose
-- **Starting date**: February 2019
-- **Subject**: Topological superconductivity in Majorana nanowires and 2D crystals
-- **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=S3I9ac8AAAAJ)
-@@
-@@
-
 ## Carlos Payá
 
 @@row
@@ -33,6 +19,21 @@ title = "My group"
 
 # Past PhD students
 
+## Fernando Peñaranda
+
+@@row
+@@column21 ![Fernando Peñaranda](/assets/photos/Fernando.png) @@
+
+@@column22
+
+- **Co-advisor**: Pablo San-Jose
+- **Starting date**: February 2019
+- **PhD defense date**: 19 April 2023
+- **Subject**: Topological superconductivity in nanowires and two-dimensional crystals
+- **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=S3I9ac8AAAAJ)
+@@
+@@
+
 ## Samuel D. Escribano
 
 @@row
@@ -42,8 +43,9 @@ title = "My group"
 
 - **Co-advisor**: Alfredo Levy Yeyati
 - **Starting date**: March 2018
-- **PhD defense date**: December 2022   
+- **PhD defense date**: 16 December 2022   
 - **Subject**: Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures
+- **Repository DOI**: [link](https://repositorio.uam.es/handle/10486/706437) 
 - **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=UaNF-SUAAAAJ)
 - **Webpage**: [https://www.samueldescribano.com](https://www.samueldescribano.com)
 @@

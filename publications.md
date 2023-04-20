@@ -9,7 +9,7 @@ title = "Publications"
 
 # 2023
 
-@@papericon ![](/assets/icons/sp.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **58. [Theory of Caroli-de Gennes-Matricon analogs in full-shell nanowires](https://arxiv.org/abs/2207.07606)**
 
@@ -19,7 +19,7 @@ Pablo San-Jose, Carlos Payá, C. M. Marcus, S. Vaitiekėnas, Elsa Prada
 <!-- *Preprint [arXiv:2207.07606](https://arxiv.org/abs/2207.07606)* -->
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/sp.png) @@
 @@paperdata
 **57. [Majorana bound states in encapsulated bilayer graphene](https://arxiv.org/abs/2202.00593)**
 

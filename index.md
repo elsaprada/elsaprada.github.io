@@ -34,7 +34,7 @@ Throughout my career, my research has dealt with the following topics:
 - Topology in electronic systems
   - Topological insulators
   - Topological superconductors
-  - Majorana zero modes in hybrid nanowires
+  - Majorana zero modes in hybrid nanowires, quasi-Majoranas
 - Graphene and other 2D crystals
   - Monolayers, multilayers, twisted bilayers, superlattices
   - Disorder

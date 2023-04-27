@@ -78,7 +78,6 @@ title = "My group"
 - **Subject**: Full-shell nanowires
 - **Distinction**: [GEFES research award for students](http://gefes-rsef.org/premios-de-investigacion-para-estudiantes-2022-carlos-jose-sanchez-martinez/)
 @@
-@@
 
 ## Álvaro Buendía
 

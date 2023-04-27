@@ -31,6 +31,8 @@ title = "My group"
 - **PhD defense date**: 19 April 2023
 - **Subject**: Topological superconductivity in nanowires and two-dimensional crystals
 - **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=S3I9ac8AAAAJ)
+- **Repository DOI**:
+- **Webpage**: [https://fernandopenaranda.github.io/](https://fernandopenaranda.github.io/)
 @@
 @@
 
@@ -65,6 +67,16 @@ title = "My group"
 - **Subject**: Core-shell nanowires
 - **Google scholar**: [link](https://scholar.google.com/citations?user=rCrFBLgAAAAJ&hl=it)
 - **Webpage**: [link](http://personale.unimore.it/Rubrica/dettaglio/219035)
+@@
+@@
+
+## Carlos José Sánchez
+
+@@column22
+- **Pre-doc student**
+- **Dates**: course 2021-2022
+- **Subject**: Full-shell nanowires
+- **Distinction**: [GEFES research award for students](http://gefes-rsef.org/premios-de-investigacion-para-estudiantes-2022-carlos-jose-sanchez-martinez/)
 @@
 @@
 

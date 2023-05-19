@@ -9,6 +9,16 @@ title = "Publications"
 
 # 2023
 
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**59. [Supercurrent mediated by helical edge modes in bilayer graphene](https://arxiv.org/abs/2305.10505)**
+
+Prasanna Rout, Nikos Papadopoulos, Fernando Peñaranda, Kenji Watanabe, Takashi Taniguchi, Elsa Prada, Pablo San-Jose, Srijit Goswami
+
+<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
+*Preprint [arXiv:2305.10505](https://arxiv.org/abs/2305.10505)*
+@@
+
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **58. [Theory of Caroli-de Gennes-Matricon analogs in full-shell nanowires](https://arxiv.org/abs/2207.07606)**

@@ -7,7 +7,7 @@ title = "News"
 @@row
 @@column41 ![](/assets/photos/frace.jpg) @@
 @@column42
-I was recently honored by the [Royal Physical Society of Spain](https://rac.es) and [Mastercard](https://www.mastercard.com) with the "**Young Female Scientist 2021**" award
+I was recently honored by the [Royal Accademy of Sciences of Spain](https://rac.es) and [Mastercard](https://www.mastercard.com) with the "**Young Female Scientist 2021**" award
 
 ### Press releases
 - [Europapress](https://www.europapress.es/epsocial/responsables/noticia-cuatro-investigadoras-galardonadas-ii-premios-joven-talento-cientifico-femenino-2021-mastercard-frace-20211020151226.html)
@@ -19,7 +19,7 @@ I was recently honored by the [Royal Physical Society of Spain](https://rac.es) 
 - [Youtube](https://www.youtube.com/watch?v=bYBpI-l2_T4), speech at minute 28'
 
 ### FECYT (Ministerio de Ciencia e Innovación)
-- [#científicasinnovadoras](https://cientificasinnovadoras.fecyt.es/cientifica/elsa-prada-nunez)
+- [#científicasinnovadoras](https://cientificasinnovadoras.fecyt.es/cientificas/elsa-prada-nunez)
 
 @@
 @@

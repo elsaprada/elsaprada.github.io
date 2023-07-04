@@ -58,7 +58,7 @@ title = "My group"
 ## Andrea Vezzosi
 
 @@row
-@@column21 ![Andrea Vezzosi](/assets/photos/Andrea Vezzosi.jpg) @@
+@@column21 ![Andrea Vezzosi](/assets/photos/Andrea Vezzosi_2.jpg) @@
 
 @@column22
 - **Visiting PhD student**

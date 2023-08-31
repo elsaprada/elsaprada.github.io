@@ -73,6 +73,9 @@ title = "My group"
 ## Carlos José Sánchez
 
 @@row
+@@column21 ![Carlos José Sánchez](/assets/photos/CJ.jpg) @@
+
+@@column22
 - **Pre-doc student**
 - **Dates**: course 2021-2022
 - **Subject**: Full-shell nanowires

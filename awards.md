@@ -2,12 +2,12 @@
 title = "Awards"
 +++
 
-# Real Academia de las Ciencias
+## Real Academia de las Ciencias
 
 @@row
 @@column41 ![](/assets/photos/frace.jpg) @@
 @@column42
-I was recently honored by the [Royal Accademy of Sciences of Spain](https://rac.es) and [Mastercard](https://www.mastercard.com) with the "**Young Female Scientist 2021**" award
+I have been honored by the [Royal Accademy of Sciences of Spain](https://rac.es) and [Mastercard](https://www.mastercard.com) with the "**Young Female Scientist 2021**" award.
 
 ### Press releases
 - [Europapress](https://www.europapress.es/epsocial/responsables/noticia-cuatro-investigadoras-galardonadas-ii-premios-joven-talento-cientifico-femenino-2021-mastercard-frace-20211020151226.html)
@@ -24,4 +24,12 @@ I was recently honored by the [Royal Accademy of Sciences of Spain](https://rac.
 @@
 @@
 
-# Certamen Universitario "Arquímedes"
+## Certamen Universitario "Arquímedes"
+
+@@row
+@@column41 ![](/assets/photos/arquimedes.jpg) @@
+@@column42
+The Ministry of Universities of Spain awarded me as a **tutor of a research investigation** with the **firt award** [Certamen Universitario "Arquímedes"](https://www.universidades.gob.es/certamen-universitario-arquimedes-convocatoria-2022/)
+
+@@
+@@

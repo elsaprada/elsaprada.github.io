@@ -27,9 +27,9 @@ I have been honored by the [Royal Accademy of Sciences of Spain](https://rac.es)
 ## Certamen Universitario "Arquímedes"
 
 @@row
-@@column41 ![](/assets/photos/arquimedes.jpg) @@
-@@column42
-The Ministry of Universities of Spain awarded me as a **tutor of a research investigation** with the **firt award** [Certamen Universitario "Arquímedes" 2022](https://www.universidades.gob.es/certamen-universitario-arquimedes-convocatoria-2022/)
+@@column30 ![](/assets/photos/arquimedes.jpg) @@
+@@column31
+The Ministry of Universities of Spain awarded me as a **tutor of a research investigation** with the **first award** [Certamen Universitario "Arquímedes" 2022](https://www.universidades.gob.es/certamen-universitario-arquimedes-convocatoria-2022/)
 
 ### Press releases
 - [ICMM News](https://www.icmm.csic.es/es/actualidad-y-divulgacion/carlos-jose-sanchez-primer-premio-arquimedes-por-su-tfg-realizado-en-el)

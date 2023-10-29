@@ -1,8 +1,8 @@
 +++
-title = "News"
+title = "Awards"
 +++
 
-# Award
+# Real Academia de las Ciencias
 
 @@row
 @@column41 ![](/assets/photos/frace.jpg) @@
@@ -23,3 +23,5 @@ I was recently honored by the [Royal Accademy of Sciences of Spain](https://rac.
 
 @@
 @@
+
+# Certamen Universitario "Arquímedes"

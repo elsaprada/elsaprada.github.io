@@ -29,7 +29,7 @@ I have been honored by the [Royal Accademy of Sciences of Spain](https://rac.es)
 @@row
 @@column41 ![](/assets/photos/arquimedes.jpg) @@
 @@column42
-The Ministry of Universities of Spain awarded me as a **tutor of a research investigation** with the **firt award** [Certamen Universitario "Arquímedes"](https://www.universidades.gob.es/certamen-universitario-arquimedes-convocatoria-2022/)
+The Ministry of Universities of Spain awarded me as a **tutor of a research investigation** with the **firt award** [Certamen Universitario "Arquímedes" 2022](https://www.universidades.gob.es/certamen-universitario-arquimedes-convocatoria-2022/)
 
 @@
 @@

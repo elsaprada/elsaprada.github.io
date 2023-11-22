@@ -11,6 +11,16 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**60. [Suppression of thermal smearing in a feedback-driven atomic size Josephson junction](https://arxiv.org/abs/2311.12783)**
+
+Samuel D. Escribano, Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta Fernández Lomana, Miguel Águeda, Edwin Herrera, Beilun Wu, Jose Gabriel Rodrigo, Elsa Prada, Isabel Guillamón, Alfredo Levy Yeyati, Hermann Suderow
+
+<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
+*Preprint [arXiv:2311.12783](https://arxiv.org/abs/2311.12783)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **59. [Supercurrent mediated by helical edge modes in bilayer graphene](https://arxiv.org/abs/2305.10505)**
 
 Prasanna Rout, Nikos Papadopoulos, Fernando Peñaranda, Kenji Watanabe, Takashi Taniguchi, Elsa Prada, Pablo San-Jose, Srijit Goswami

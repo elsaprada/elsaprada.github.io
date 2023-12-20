@@ -11,6 +11,15 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**60. [Phenomenology of Majorana zero modes in full-shell hybrid nanowires](https://arxiv.org/abs/2312.11613)**
+
+Carlos Payá, Samuel D. Escribano, Andrea Vezzosi, Fernando Peñaranda, Ramón Aguado, Pablo San-Jose, Elsa Prada
+
+<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
+*Preprint [arXiv:2312.11613](https://arxiv.org/abs/2312.11613)*
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **60. [Suppression of thermal smearing in a feedback-driven atomic size Josephson junction](https://arxiv.org/abs/2311.12783)**
 
 Samuel D. Escribano, Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta Fernández Lomana, Miguel Águeda, Edwin Herrera, Beilun Wu, Jose Gabriel Rodrigo, Elsa Prada, Isabel Guillamón, Alfredo Levy Yeyati, Hermann Suderow

@@ -225,6 +225,15 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 ~~~
 <ol>
 
+<li value="20.">
+<p><strong>The search for Majorana bound states in hybrid nanostructures</strong>. Presented at the <a https://www.inc.uam.es/inc-young-researchers-meeting-2023/" target="_blank">Instituto Nicolás Cabrera Young Researchers Meeting 2023</a>, La Cristalera, Miraflores de la Sierra, Spain. Date: 15-Dec-2023.</p></li>
+
+<li value="19.">
+<p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://www.boundstates2023.eu" target="_blank">Bound states in superconducting nano devices</a> conference, Thermal Margaret Island, Budapest, Hungury. Date: 11-Jun-2023.</p></li>
+
+<li value="18.">
+<p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://crc1238.uni-koeln.de/international-conference-2023/" target="_blank">Control and Dynamics of Quantum Materials</a> conference, Kardinal-Schulte-Haus, Bensberg, Germany. Date: 30-May-2023.</p></li>
+
 <li value="17.">
 <p><strong>Caroli-de Gennes-Matricon states in full-shell nanowires</strong>. Presented at the <a href="https://qdp2022.dipc.org/home/scope" target="_blank">Quantum Designer Physics 2022 </a> conference, Donostia International Physics Center, at Miramar Palace, San Sebastián, Guipúzcoa, Spain. Date: 18-Jul-2022.</p></li>
 

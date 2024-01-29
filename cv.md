@@ -285,7 +285,9 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 ~~~
 <ol>
 
-<li value="20."><p><strong><a href="https://www.youtube.com/watch?v=QXf4BiWPwWw" target="_blank">From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires</a></strong>. Presented online at the IFIMAC+ICMM Joint Seminar Series, Autonomous University of Madrid campus. Host: María José Calderón Date: 11-February-2021.</p></li>
+<li value="21."><p><strong>Searching for Majorana bound states in superconductor-semiconductor nanostructures</a></strong>. Presented at the department of Applied Physics in Aalto University, Finland. Host: Jose Lado. Date: 25-January-2024.</p></li>
+
+<li value="20."><p><strong><a href="https://www.youtube.com/watch?v=QXf4BiWPwWw" target="_blank">From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires</a></strong>. Presented online at the IFIMAC+ICMM Joint Seminar Series, Autonomous University of Madrid campus. Host: María José Calderón. Date: 11-February-2021.</p></li>
 
 <li value="19."><p><strong>Colloquium: From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires</strong>. Presented online at the ML4Q Science Seminars series, Universities of Cologne, Aachen, Bonn, and Forschungszentrum Jülich, Germany. Hosts: Fabian Hassler and Markus Müller. Date: 04-February-2021.</p></li>
 

@@ -7,7 +7,7 @@ title = "Publications"
 @@colbox [Google Scholar](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en) @@
 @@colbox [Web of Science](https://www.webofscience.com/wos/author/record/1465075)@@
 
-# 2023
+# 2024
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
@@ -29,15 +29,17 @@ Samuel D. Escribano, Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta
 *Preprint [arXiv:2311.12783](https://arxiv.org/abs/2311.12783)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/nat.png) @@
 @@paperdata
 **59. [Supercurrent mediated by helical edge modes in bilayer graphene](https://arxiv.org/abs/2305.10505)**
 
 Prasanna Rout, Nikos Papadopoulos, Fernando Peñaranda, Kenji Watanabe, Takashi Taniguchi, Elsa Prada, Pablo San-Jose, Srijit Goswami
 
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2305.10505](https://arxiv.org/abs/2305.10505)*
+*[Nat. Comm. **15**, 856 (2024)](https://www.nature.com/articles/s41467-024-44952-6)*
+<!--*Preprint [arXiv:2305.10505](https://arxiv.org/abs/2305.10505)*-->
 @@
+
+# 2023
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata

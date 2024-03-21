@@ -19,7 +19,7 @@ Samuel D. Escribano, Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta
 *Preprint [arXiv:2311.12783](https://arxiv.org/abs/2311.12783)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **60. [Phenomenology of Majorana zero modes in full-shell hybrid nanowires](https://arxiv.org/abs/2312.11613)**
 

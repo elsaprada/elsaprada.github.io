@@ -225,6 +225,9 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 ~~~
 <ol>
 
+<li value="21.">
+<p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://qdp2024.dipc.org" target="_blank">Quantum Designer Physics 2024</a> conference, San Sebastián, País Vasco, Spain. Date: 16-Jul-2024.</p></li>
+
 <li value="20.">
 <p><strong>The search for Majorana bound states in hybrid nanostructures</strong>. Presented at the <a https://www.inc.uam.es/inc-young-researchers-meeting-2023/" target="_blank">Instituto Nicolás Cabrera Young Researchers Meeting 2023</a>, La Cristalera, Miraflores de la Sierra, Spain. Date: 15-Dec-2023.</p></li>
 

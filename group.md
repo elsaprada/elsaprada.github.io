@@ -4,7 +4,7 @@ title = "My group"
 
 # My current PhD students
 
-## Carlos Payá
+## Francisco Lobo
 
 @@row
 @@column21 ![Francisco Lobo](/assets/photos/Lobo.jpg) @@
@@ -16,6 +16,8 @@ title = "My group"
 - **Webpage**: [https://franciscolobo1880.github.io](https://franciscolobo1880.github.io)
 @@
 @@
+
+## Carlos Payá
 
 @@row
 @@column21 ![Carlos Payá](/assets/photos/Carlos.jpg) @@
@@ -75,7 +77,7 @@ title = "My group"
 @@column22
 - **JAE Intro student**
 - **Dates**: course 2024-2025
-- **Subject**: 
+- **Subject**: Josephson effect in full-shell hybrid nanowires 
 - **Distinction**: [GEFES research award for students](https://gefes-rsef.org/premios-de-investigacion/)
 @@
 @@

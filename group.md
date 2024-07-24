@@ -7,6 +7,17 @@ title = "My group"
 ## Carlos Payá
 
 @@row
+@@column21 ![Francisco Lobo](/assets/photos/Lobo.jpg) @@
+
+@@column22
+- **Co-advisor**: Pablo San-Jose and Rui Silva
+- **Starting date**: January 2024
+- **Subject**: Self-consistent and time-dependent superconductivity
+- **Webpage**: [https://franciscolobo1880.github.io](https://franciscolobo1880.github.io)
+@@
+@@
+
+@@row
 @@column21 ![Carlos Payá](/assets/photos/Carlos.jpg) @@
 
 @@column22
@@ -55,6 +66,20 @@ title = "My group"
 @@
 
 # Other students
+
+## César Robles
+
+@@row
+@@column21 ![César Robles](/assets/photos/Robles.jpg) @@
+
+@@column22
+- **JAE Intro student**
+- **Dates**: course 2024-2025
+- **Subject**: 
+- **Distinction**: [GEFES research award for students](https://gefes-rsef.org/premios-de-investigacion/)
+@@
+@@
+
 
 ## Andrea Vezzosi
 

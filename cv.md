@@ -97,7 +97,7 @@ Duration: 01/September/2022 – 31/August/2025<br />
 Title: Many-body attosecond optoelectronics in two-dimensional crystals<br />  
 Funding agency: Ministerio de Ciencia e Innovación, Gobierno de España<br />
 Project number PID2021-122769NB-I00 <br />
-Principal Investigators: Pablo San José Martín y Rui Emanuel Ferreira da Silva<br />
+Principal Investigators: Pablo San José Martín and Rui Emanuel Ferreira da Silva<br />
 Other participants: 3 senior and 3 junior participants<br />
 Funding: 96800 €<br />
 Duration: 01/September/2022 – 31/August/2025<br />

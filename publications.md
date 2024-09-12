@@ -11,17 +11,7 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**62. [Absence of Majorana oscillations in finite-length full-shell hybrid nanowires](http://arxiv.org/abs/2407.06330)**
-
-Carlos Payá, Pablo San-Jose, Carlos J. Sánchez Martínez, Ramón Aguado, Elsa Prada
-
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2407.06330](http://arxiv.org/abs/2407.06330)*
-@@
-
-@@papericon ![](/assets/icons/arxiv.png) @@
-@@paperdata
-**62. [InP/GaSb core-shell nanowires: a practical proposal for Majorana modes in a full-shell hybrid geometry with hole bands](https://arxiv.org/abs/2405.07651)**
+**63. [InP/GaSb core-shell nanowires: a practical proposal for Majorana modes in a full-shell hybrid geometry with hole bands](https://arxiv.org/abs/2405.07651)**
 
 Andrea Vezzosi, Carlos Payá, Paweł Wójcik, Andrea Bertoni, Guido Goldoni, Elsa Prada, Samuel D. Escribano
 
@@ -31,12 +21,22 @@ Andrea Vezzosi, Carlos Payá, Paweł Wójcik, Andrea Bertoni, Guido Goldoni, Els
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**61. [Suppression of thermal smearing in a feedback-driven atomic size Josephson junction](https://arxiv.org/abs/2311.12783)**
+**62. [Suppression of thermal smearing in a feedback-driven atomic size Josephson junction](https://arxiv.org/abs/2311.12783)**
 
 Samuel D. Escribano, Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta Fernández Lomana, Miguel Águeda, Edwin Herrera, Beilun Wu, Jose Gabriel Rodrigo, Elsa Prada, Isabel Guillamón, Alfredo Levy Yeyati, Hermann Suderow
 
 <!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
 *Preprint [arXiv:2311.12783](https://arxiv.org/abs/2311.12783)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**61. [Absence of Majorana oscillations in finite-length full-shell hybrid nanowires](http://arxiv.org/abs/2407.06330)**
+
+Carlos Payá, Pablo San-Jose, Carlos J. Sánchez Martínez, Ramón Aguado, Elsa Prada
+
+*[Phys. Rev. B **110**, 115417 (2024)](https://link.aps.org/doi/10.1103/PhysRevB.110.115417)*
+<!--*Preprint [arXiv:2407.06330](http://arxiv.org/abs/2407.06330)**-->
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@

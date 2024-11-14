@@ -2,7 +2,7 @@
 title = "Awards"
 +++
 
-## Real Academia de las Ciencias
+## Fundación Real Academia de Ciencias de España
 
 @@row
 @@column41 ![](/assets/photos/frace.jpg) @@

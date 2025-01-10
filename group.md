@@ -76,7 +76,7 @@ title = "My group"
 
 @@column22
 - **JAE-Intro ICU pre-doc student**
-- **Dates**: 2025
+- **Dates**: March-June 2025
 - **Subject**: Geometric dephasing of Andreev qubits
 @@
 @@

@@ -69,15 +69,27 @@ title = "My group"
 
 # Other students
 
+## Marc Pujol
+
+@@row
+@@column21 ![Marc Pujol](/assets/photos/Marc Pujol.png) @@
+
+@@column22
+- **JAE-Intro ICU pre-doc student**
+- **Dates**: 2025
+- **Subject**: Geometric dephasing of Andreev qubits
+@@
+@@
+
 ## César Robles
 
 @@row
 @@column21 ![César Robles](/assets/photos/Robles.jpg) @@
 
 @@column22
-- **JAE Intro student**
+- **JAE-Intro CSIC pre-doc student**
 - **Dates**: course 2024-2025
-- **Subject**: Josephson effect in full-shell hybrid nanowires 
+- **Subject**: Quasi-Majoranas in full-shell hybrid nanowires 
 - **Distinction**: [GEFES research award for students](https://gefes-rsef.org/premios-de-investigacion-para-estudiantes-2024-cesar-robles-montero/)
 @@
 @@
@@ -89,7 +101,7 @@ title = "My group"
 @@column21 ![Andrea Vezzosi](/assets/photos/Andrea Vezzosi_2.jpg) @@
 
 @@column22
-- **Visiting PhD student**
+- **Visiting European PhD student**
 - **Origin**: Università degli Studi di Modena e Reggio Emilia. PhD student under the supervision of Prob. Guido Goldoni
 - **Dates of his short stay at ICMM**: from January 16 to April 23, 2023
 - **Subject**: Core-shell nanowires
@@ -106,7 +118,7 @@ title = "My group"
 @@column22
 - **Pre-doc student**
 - **Dates**: course 2021-2022
-- **Subject**: Full-shell nanowires
+- **Subject**: Majorana oscillations in full-shell hybrid nanowires
 - **Distinction**: [GEFES research award for students](http://gefes-rsef.org/premios-de-investigacion-para-estudiantes-2022-carlos-jose-sanchez-martinez/)
 - **Award**: [XX Certamen Universitario “Arquímedes” de Introducción a la Investigación Científica, primer premio](https://www.universidades.gob.es/certamen-universitario-arquimedes-convocatoria-2022/)
 @@
@@ -118,7 +130,7 @@ title = "My group"
 @@column21 ![Álvaro Buendía](/assets/photos/Alvaro.jpg) @@
 
 @@column22
-- **Pre-doc CAM student**
+- **Pre-doc YEI CAM student**
 - **Dates**: from March 2019 to September 2020
 - **Subject**: Quasi-1D topological organic polymers
 - **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=XE7w6XIAAAAJ)

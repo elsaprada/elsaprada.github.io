@@ -67,7 +67,7 @@ title = "My group"
 @@
 @@
 
-# Other students
+# Other current and past students
 
 ## Marc Pujol
 

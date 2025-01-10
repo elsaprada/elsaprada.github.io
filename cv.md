@@ -430,8 +430,13 @@ Duration: 01/November/2012 – 31/October/2014.<br />
   - Visiting European PhD student: Andrea Vezzosi. Theme: Spin-orbit coupling enhancement in core-shell nanowires for applications in spintronics and quantum hardware. Place: ICMM-CSIC. Dates: January-April 2023.
   - YEI CAM student: Álvaro Buendía Gallego. Theme: Topology in quasi-1D organic polymers. Place: UAM. Dates: March-2019 to September-2020.
 
+- GEFES research award
+  - Student: César Robles Montero. Theme: Quasi-Majoranas in inhomogeneous full-shell hybrid nanowires. Place: ICMM-CSIC. Dates: June-December 2024.
+  - Student: Carlos José Sánchez Martínez. Theme: Majorana oscillations in inhomogeneous full-shell hybrid nanowires. Place: ICMM-CSIC. Dates:  June-December 2022.
+  - Student: Carlos Payá Herrero. Theme: Josephson effect in full-shell hybrid nanowires. Place: ICMM-CSIC. Dates: June-December 2020.
+
 - Master Thesis
-  - Master student: Carlos Payá Herrero. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
+  - Master student: Carlos Payá Herrero. Title: Topological phase and Majorana zero modes in full-shell nanowires. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
   - Master student: Álex Rodríguez. Title: Study of chiral and crystalline topological insulating phases with the SSH4 model. Dates: 2020-2021. Place: ICMM-CSIC. Tutor at UAM: Pilar Segovia Cabrero.
   - Master student: Fernando Peñaranda. Title: Smooth confinement in Majorana nanowires. Dates: 2017-2018. Place: UAM.
   - Master student: Francisco José Martín. Title: Wave-matching approach to transport through Majorana nanowires. Dates: 2017-2018. Place: UAM. Co-advisor: Alfredo Levy Yeyati.
@@ -440,8 +445,8 @@ Duration: 01/November/2012 – 31/October/2014.<br />
   - Master student: Petra Dietl. Title: Numerical Studies of Electronic Transport through Graphene Nanoribbons with Disorder. Dates: 2008-2009. Place: Karlsruhe University, Germany. Co-advisors: Georgo Metalidis, Elsa Prada, Pablo San-Jose. Referee: Gerd Schön. Co-referee: Henning Schomerus.
 
 - Graduation Project
-  - Undergrad student: César Robles Montero. Theme: Quasi-Majoranas in full-shell hybrid nanowires. Dates: 2024-2025. Place: ICMM-CSIC. Tutor at UAM: Pilar Segovia.
-  - Undergrad student: Carlos José Sánchez. Theme: Majorana oscillations in full-shell hybrid nanowires. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
+  - Undergrad student: César Robles Montero. Theme: Quasi-Majoranas in inhomogeneous full-shell hybrid nanowires. Dates: 2024-2025. Place: ICMM-CSIC. Tutor at UAM: Pilar Segovia.
+  - Undergrad student: Carlos José Sánchez Martínez. Theme: Majorana oscillations in full-shell hybrid nanowires. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
   - Undergrad student: Carlos Payá Herrero. Theme: Uniones Josephson basadas en nanohilos de Majorana encapsulados. Dates: 2020-2021. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
   - Undergrad student: Álex Rodríguez Ortega. Theme: Topological and trivial edge states in acene and bisanthene-based polymers. Dates: 2019-2020. Place: UAM.
   - Undergrad student: Fernando Peñaranda del Río. Theme: Estudio de las propiedades de no-localidad y de la estructura de espín de los Estados Ligados de Majorana en nanohilos semiconductores mediante el acoplo con un punto cuántico. Dates: 2016-2017. Place: UAM.

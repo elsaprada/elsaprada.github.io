@@ -43,7 +43,7 @@ title = "My group"
 - **Co-advisor**: Pablo San-Jose
 - **Starting date**: February 2019
 - **PhD defense date**: 19 April 2023
-- **Subject**: Topological superconductivity in nanowires and two-dimensional crystals
+- **PhF thesis title**: Topological superconductivity in nanowires and two-dimensional crystals
 - **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=S3I9ac8AAAAJ)
 - **Repository DOI**:
 - **Webpage**: [https://fernandopenaranda.github.io/](https://fernandopenaranda.github.io/)
@@ -60,7 +60,7 @@ title = "My group"
 - **Co-advisor**: Alfredo Levy Yeyati
 - **Starting date**: March 2018
 - **PhD defense date**: 16 December 2022   
-- **Subject**: Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures
+- **PhD thesis title**: Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures
 - **Repository DOI**: [link](https://repositorio.uam.es/handle/10486/706437) 
 - **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=UaNF-SUAAAAJ)
 - **Webpage**: [https://www.samueldescribano.com](https://www.samueldescribano.com)

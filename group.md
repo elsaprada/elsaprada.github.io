@@ -12,7 +12,7 @@ title = "My group"
 @@column22
 - **Co-advisor**: Pablo San-Jose and Rui Silva
 - **Starting date**: January 2024
-- **Subject**: Self-consistent and time-dependent superconductivity
+- **Subject**: Self-consistent interactions and dynamics in quantum materials
 - **Webpage**: [https://franciscolobo1880.github.io](https://franciscolobo1880.github.io)
 @@
 @@
@@ -78,7 +78,7 @@ title = "My group"
 - **JAE Intro student**
 - **Dates**: course 2024-2025
 - **Subject**: Josephson effect in full-shell hybrid nanowires 
-- **Distinction**: [GEFES research award for students](https://gefes-rsef.org/premios-de-investigacion/)
+- **Distinction**: [GEFES research award for students](https://gefes-rsef.org/premios-de-investigacion-para-estudiantes-2024-cesar-robles-montero/)
 @@
 @@
 

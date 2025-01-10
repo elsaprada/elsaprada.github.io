@@ -10,7 +10,7 @@ title = "My group"
 @@column21 ![Francisco Lobo](/assets/photos/Lobo.jpg) @@
 
 @@column22
-- **Co-advisor**: Pablo San-Jose and Rui Silva
+- **Co-advisor**: Pablo San-Jose and Rui E. F. Silva
 - **Starting date**: January 2024
 - **Subject**: Self-consistent interactions and dynamics in quantum materials
 - **Webpage**: [https://franciscolobo1880.github.io](https://franciscolobo1880.github.io)

@@ -416,7 +416,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 # PhD/Master Thesis direction
 
 - PhD Thesis
-  - PhD student: Francisco Lobo. Theme: Self-consistent interactions and dynamics in quantum materials. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: January-2024. Ongoing. Co-advisor: Pablo San-Jose and Rui Silva.
+  - PhD student: Francisco Lobo. Theme: Self-consistent interactions and dynamics in quantum materials. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: January-2024. Ongoing. Co-advisor: Pablo San-Jose and Rui E. F. Silva.
   - PhD student: Carlos Payá Herrero. Theme: Full-shell hybrid nanowires. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: March-2023. Ongoing. Co-advisor: Ramón Aguado.
   - PhD student: Fenando Peñaranda del Río. Title: **Topological superconductivity in Majorana nanowires and 2D crystals**. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: 11-February-2019. PhD defense date: April-2023. Co-advisor: Pablo San-Jose.
   - PhD student: Samuel Díaz Escribano. Title: **Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures**. Place: Condensed Matter Physics Department, Universidad Autónoma de Madrid, and Insituto de Ciencias de Materiales de Madrdid - CSIC, Spain. Starting date: March-2018. PhD defense date: December-2022. Co-advisor: Alfredo Levy Yeyati.
@@ -433,7 +433,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 
 - Graduation Project
-  - Undergrad student: César Robles. Theme: Quasi-Majoranas in full-shell hybrid nanowires. Dates: 2024-2025. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
+  - Undergrad student: César Robles. Theme: Quasi-Majoranas in full-shell hybrid nanowires. Dates: 2024-2025. Place: ICMM-CSIC. Tutor at UAM: Pilar Segovia.
   - Undergrad student: Carlos José Sánchez. Theme: Majorana oscillations in full-shell hybrid nanowires. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
   - Undergrad student: Carlos Payá Herrero. Theme: Uniones Josephson basadas en nanohilos de Majorana encapsulados. Dates: 2020-2021. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
   - Undergrad student: Álex Rodríguez Ortega. Theme: Topological and trivial edge states in acene and bisanthene-based polymers. Dates: 2019-2020. Place: UAM.
@@ -448,14 +448,6 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 
 # Teaching
-
-### 2021-2022
-- Subject: **Master Thesis**. Compulsory subject. Master on Condensed Matter Physics and Biological Materials. Universidad Autónoma de Madrid (UAM). Dates: Annual. Direction of 1 student.
-- Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Direction of 1 student.
-
-### 2020-2021
-- Subject: **Master Thesis**. Compulsory subject. Master on Condensed Matter Physics and Biological Materials. Universidad Autónoma de Madrid (UAM). Dates: Annual. Direction of 1 student.
-- Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Direction of 1 student.
 
 ### 2019-2020
 - Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Direction of 1 student.

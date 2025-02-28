@@ -29,8 +29,6 @@ Francisco Lobo, Elsa Prada, Pablo San-Jose
 *Preprint [arXiv:2412.15174](https://arxiv.org/abs/2412.15174)*
 @@
 
-# 2024
-
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 **62. [InP/GaSb core-shell nanowires: a practical proposal for Majorana modes in a full-shell hybrid geometry with hole bands](https://arxiv.org/abs/2405.07651)**
@@ -40,6 +38,8 @@ Andrea Vezzosi, Carlos Payá, Paweł Wójcik, Andrea Bertoni, Guido Goldoni, Els
 *[SciPost Phys. **18**, 069 (2025)](https://scipost.org/SciPostPhys.18.2.069)*
 <!--*Preprint [arXiv:2405.07651](https://arxiv.org/abs/2405.07651)*-->
 @@
+
+# 2024
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata

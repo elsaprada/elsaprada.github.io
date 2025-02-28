@@ -19,8 +19,6 @@ M. T. Deng, Carlos Payá, Pablo San-Jose, Elsa Prada, C. M. Marcus, S. Vaitiekė
 *Preprint [arXiv:2501.05419](https://arxiv.org/abs/2501.05419)*
 @@
 
-# 2024
-
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 **63. [Exponential suppression of the topological gap in self-consistent intrinsic Majorana nanowires](https://arxiv.org/abs/2412.15174)**
@@ -31,14 +29,16 @@ Francisco Lobo, Elsa Prada, Pablo San-Jose
 *Preprint [arXiv:2412.15174](https://arxiv.org/abs/2412.15174)*
 @@
 
+# 2024
+
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 **62. [InP/GaSb core-shell nanowires: a practical proposal for Majorana modes in a full-shell hybrid geometry with hole bands](https://arxiv.org/abs/2405.07651)**
 
 Andrea Vezzosi, Carlos Payá, Paweł Wójcik, Andrea Bertoni, Guido Goldoni, Elsa Prada, Samuel D. Escribano
 
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2405.07651](https://arxiv.org/abs/2405.07651)*
+*[SciPost Phys. **18**, 069 (2025)](https://scipost.org/SciPostPhys.18.2.069)*
+<!--*Preprint [arXiv:2405.07651](https://arxiv.org/abs/2405.07651)*-->
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@

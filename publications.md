@@ -29,7 +29,7 @@ Francisco Lobo, Elsa Prada, Pablo San-Jose
 *Preprint [arXiv:2412.15174](https://arxiv.org/abs/2412.15174)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/sp.png) @@
 @@paperdata
 **62. [InP/GaSb core-shell nanowires: a practical proposal for Majorana modes in a full-shell hybrid geometry with hole bands](https://arxiv.org/abs/2405.07651)**
 

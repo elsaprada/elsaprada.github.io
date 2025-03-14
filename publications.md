@@ -11,7 +11,7 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**64. [Josephson effect and critical currents in trivial and topological full-shell hybrid nanowires](https://arxiv.org/abs/2503.09756)**
+**65. [Josephson effect and critical currents in trivial and topological full-shell hybrid nanowires](https://arxiv.org/abs/2503.09756)**
 
 Carlos Payá, Ramón Aguado, Pablo San-Jose, Elsa Prada
 

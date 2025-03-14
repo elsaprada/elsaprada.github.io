@@ -11,6 +11,16 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**64. [Josephson effect and critical currents in trivial and topological full-shell hybrid nanowires](https://arxiv.org/abs/2503.09756)**
+
+Carlos Payá, Ramón Aguado, Pablo San-Jose, Elsa Prada
+
+<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
+*Preprint [arXiv:2503.09756](https://arxiv.org/abs/2503.09756)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **64. [Caroli-de Gennes-Matricon Analogs in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2501.05419)**
 
 M. T. Deng, Carlos Payá, Pablo San-Jose, Elsa Prada, C. M. Marcus, S. Vaitiekėnas

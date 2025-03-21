@@ -14,9 +14,10 @@
   Office: 346 — Tel.: (+34) 91 334 9080\\
   E-mail: [elsa.prada@csic.es](mailto:Elsa Prada<elsa.prada@csic.es>)}
 
-Hi! My name is **Elsa Prada** and I'm a **condensed matter theorist** working on systems where quantum phenomena play an important role, such as low dimensional materials and nanostructures. See my research interests below.
+Hi! My name is **Elsa Prada** and I am a Senior Researcher a the [Materials Science Institute of Madrid](https://www.icmm.csic.es/) (which is part of the [Spanish Research Council](https://www.csic.es/)). Within the department of Theory and Simulation of Materials, our group is called [Quantum Dynamics of Materials (QUDYMA)](https://sites.google.com/view/qudyma-icmm). Currently I am Head of the Theory Department.
 
-Since 2020 I belong to the [Materials Science Institute of Madrid](https://www.icmm.csic.es/) (which is part of the [Spanish Research Council](https://www.csic.es/)) as a tenured scientist. Within the department of Theory and Simulation of Materials, our group is called [Quantum Dynamics of Materials (QUDYMA)](https://sites.google.com/view/qudyma-icmm). Currently I am Head of the Theory Department.
+ I am a **condensed matter theorist** working on systems where quantum phenomena play an important role, such as low dimensional materials and nanostructures. See my research interests below.
+
 @@
 @@
 

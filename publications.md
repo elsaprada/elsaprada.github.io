@@ -45,8 +45,8 @@ M. T. Deng, Carlos Payá, Pablo San-Jose, Elsa Prada, C. M. Marcus, S. Vaitiekė
 
 Francisco Lobo, Elsa Prada, Pablo San-Jose
 
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2412.15174](https://arxiv.org/abs/2412.15174)*
+*[Phys. Rev. B **111**, 195415 (2025)](https://doi.org/10.1103/PhysRevB.111.195415)*
+<!--*Preprint [arXiv:2412.15174](https://arxiv.org/abs/2412.15174)*-->
 @@
 
 @@papericon ![](/assets/icons/sp.png) @@

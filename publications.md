@@ -39,7 +39,7 @@ M. T. Deng, Carlos Payá, Pablo San-Jose, Elsa Prada, C. M. Marcus, S. Vaitiekė
 *Preprint [arXiv:2501.05419](https://arxiv.org/abs/2501.05419)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **63. [Exponential suppression of the topological gap in self-consistent intrinsic Majorana nanowires](https://arxiv.org/abs/2412.15174)**
 

@@ -29,14 +29,14 @@ Carlos Payá, Ramón Aguado, Pablo San-Jose, Elsa Prada
 *Preprint [arXiv:2503.09756](https://arxiv.org/abs/2503.09756)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prl.png) @@
 @@paperdata
 **64. [Caroli-de Gennes-Matricon Analogs in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2501.05419)**
 
 M. T. Deng, Carlos Payá, Pablo San-Jose, Elsa Prada, C. M. Marcus, S. Vaitiekėnas
 
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2501.05419](https://arxiv.org/abs/2501.05419)*
+*[Phys. Rev. Lett. **134**, 206302 (2025)](https://doi.org/10.1103/PhysRevLett.134.206302)*
+<!--*Preprint [arXiv:2501.05419](https://arxiv.org/abs/2501.05419)*-->
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@

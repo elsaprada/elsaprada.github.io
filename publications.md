@@ -37,6 +37,8 @@ M. T. Deng, Carlos Payá, Pablo San-Jose, Elsa Prada, C. M. Marcus, S. Vaitiekė
 
 *[Phys. Rev. Lett. **134**, 206302 (2025)](https://doi.org/10.1103/PhysRevLett.134.206302)*
 <!--*Preprint [arXiv:2501.05419](https://arxiv.org/abs/2501.05419)*-->
+
+See also *Niels Bohr Institute News*: [A 1960s idea inspires NBI researchers to study hitherto inaccessible quantum states](https://nbi.ku.dk/english/news/news25/a-1960s-idea-inspires-nbi-researchers-to-study-hitherto-inaccessible-quantum-states/)
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@

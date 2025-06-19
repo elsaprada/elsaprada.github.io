@@ -11,6 +11,16 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**67. [Solitonic Andreev Spin Qubit](https://arxiv.org/abs/2506.15502)**
+
+Pablo San-Jose, Elsa Prada
+
+<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
+*Preprint [arXiv:506.15502](https://arxiv.org/abs/2506.15502)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **66. [Fluxoid Valve Effect in Full-Shell Nanowire Josephson Junctions](https://arxiv.org/abs/2504.16989)**
 
 Carlos Payá, F. J. Matute-Cañadas, A. Levy Yeyati, Ramón Aguado, Pablo San-Jose, Elsa Prada

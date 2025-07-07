@@ -11,7 +11,7 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**67. [Solitonic Andreev Spin Qubit](https://arxiv.org/abs/2506.15502)**
+**68. [Solitonic Andreev Spin Qubit](https://arxiv.org/abs/2506.15502)**
 
 Pablo San-Jose, Elsa Prada
 
@@ -21,12 +21,22 @@ Pablo San-Jose, Elsa Prada
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**66. [Fluxoid Valve Effect in Full-Shell Nanowire Josephson Junctions](https://arxiv.org/abs/2504.16989)**
+**67. [Fluxoid Valve Effect in Full-Shell Nanowire Josephson Junctions](https://arxiv.org/abs/2504.16989)**
 
 Carlos Payá, F. J. Matute-Cañadas, A. Levy Yeyati, Ramón Aguado, Pablo San-Jose, Elsa Prada
 
 <!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
 *Preprint [arXiv:2504.16989](https://arxiv.org/abs/2504.16989)*
+@@
+
+@@papericon ![](/assets/icons/nat.png) @@
+@@paperdata
+**66. [Suppression of thermal smearing in a feedback-driven atomic size Josephson junction](https://arxiv.org/abs/2311.12783)**
+
+Samuel D. Escribano, Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta Fernández Lomana, Miguel Águeda, Edwin Herrera, Beilun Wu, Jose Gabriel Rodrigo, Elsa Prada, Isabel Guillamón, Alfredo Levy Yeyati, Hermann Suderow
+
+*[Nat. Commun. **16**, 5843 (2025)](https://doi.org/10.1038/s41467-025-60569-9)*
+<!--*Preprint [arXiv:2311.12783](https://arxiv.org/abs/2311.12783)*-->
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@
@@ -122,16 +132,6 @@ Pablo San-Jose, Carlos Payá, C. M. Marcus, S. Vaitiekėnas, Elsa Prada
 Fernando Peñaranda, Ramón Aguado, Elsa Prada, and Pablo San-Jose
 
 *[SciPost Phys. **14**, 075 (2023)](https://scipost.org/SciPostPhys.14.4.075)*
-@@
-
-@@papericon ![](/assets/icons/arxiv.png) @@
-@@paperdata
-**xx. [Suppression of thermal smearing in a feedback-driven atomic size Josephson junction](https://arxiv.org/abs/2311.12783)**
-
-Samuel D. Escribano, Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta Fernández Lomana, Miguel Águeda, Edwin Herrera, Beilun Wu, Jose Gabriel Rodrigo, Elsa Prada, Isabel Guillamón, Alfredo Levy Yeyati, Hermann Suderow
-
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2311.12783](https://arxiv.org/abs/2311.12783)*
 @@
 
 # 2022

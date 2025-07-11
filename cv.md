@@ -227,6 +227,18 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 ~~~
 <ol>
 
+<li value="25.">
+<p><strong>Full-shell hybrid nanowires: synthetic vortices, Majoranas, solitons and more</strong>. Presented at the <a href="https://qd100.dipc.org" target="_blank">Quantum Designer's Special Edition: 100 years of Quantum</a> workshop, San Sebastián, País Vasco, Spain. Date: 16-Jul-2025.</p></li>
+
+<li value="24.">
+<p><strong>Hybrid Superconductor-Semiconductor Nanostructures and the Search for Majorana Zero Modes</strong>. Presented at the <a href="https://quantum2025.org/iyq-event/the-9th-international-conference-on-quantum-information-spacetime-simulation-and-quantum-topological-matter-quist-ix/" target="_blank">9th Quantum Information, Spacetime Simulation, and Quantum Topological Matter, QUIST IX</a> conference, ICMM, Madrid, Spain. Date: 11-Jul-2025.</p></li>
+
+<li value="23.">
+<p><strong>Full-shell hybrid nanowires: synthetic vortices, Majoranas, solitons and more</strong>. Presented at the <a href="https://qdev.nbi.ku.dk/calender/workshop-on-superconductor-semiconductor-hybrids-2025/" target="_blank">Workshop on superconductor-semiconductor hybrids</a>, Copenhagen, Denmark. Date: 23-Jun-2025.</p></li>
+
+<li value="22.">
+<p><strong>Full-shell hybrid nanowires: trivial and topological regimes</strong>. Presented at the <a href="https://www.grc.org/hybrid-superconductor-semiconductor-devices-conference/2025/" target="_blank">2025 Hybrid Superconductor-Semiconductor Devices Gordon Research Conference</a>, Les Diablerets Conference Center, Switzerland. Date: 01-May-2025.</p></li>
+
 <li value="21.">
 <p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://qdp2024.dipc.org" target="_blank">Quantum Designer Physics 2024</a> workshop, San Sebastián, País Vasco, Spain. Date: 16-Jul-2024.</p></li>
 

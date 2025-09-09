@@ -84,6 +84,16 @@ title = "Curriculum Vitae"
 ~~~
 <ol>
 
+<li value="25.">
+<p> <b>Research grant from the Spanish government</b>:<br /> 
+Title: Interacciones autoconsistentes en materiales y dispositivos cuánticos<br />  
+Funding agency: Ministerio de Ciencia, Innovación y Universidades, Gobierno de España<br />
+Project number PID2024-161665NB-I00 <br />
+Principal Investigators: Elsa Prada Núñez y Pablo San José Martín<br />
+Other participants: 2 senior and 2 junior participants<br />
+Funding: 81.250 €<br />
+Duration: 01/September/2025 – 31/August/2028<br />
+
 <li value="23.">
 <p> <b>Research grant from the Spanish government</b>:<br /> 
 Title: Correlations, superconductivity and topology in quantum materials and quantum technologies<br />  
@@ -91,7 +101,7 @@ Funding agency: Ministerio de Ciencia e Innovación, Gobierno de España<br />
 Project number PID2021-125343NB-I00 <br />
 Principal Investigators: Ramón Aguado Sola and Elena Bascones Fernández de Velasco<br />
 Other participants: 5 senior and 4 junior participants<br />
-Funding: 139150 €<br />
+Funding: 139.150 €<br />
 Duration: 01/September/2022 – 31/August/2025<br />
 
 <li value="22.">
@@ -101,7 +111,7 @@ Funding agency: Ministerio de Ciencia e Innovación, Gobierno de España<br />
 Project number PID2021-122769NB-I00 <br />
 Principal Investigators: Pablo San José Martín and Rui Emanuel Ferreira da Silva<br />
 Other participants: 3 senior and 3 junior participants<br />
-Funding: 96800 €<br />
+Funding: 96.800 €<br />
 Duration: 01/September/2022 – 31/August/2025<br />
 
 <li value="20.">
@@ -111,14 +121,14 @@ Funding agency: Ministerio de Ciencia, Innovación y Universidades, Gobierno de 
 Project number PGC2018-097018-B-I00 <br />
 Principal Investigators: María José Calderón Prieto and Ramón Aguado Sola<br />
 Other participants: 7 senior and 4 junior participants<br />
-Funding: 200000 €<br />
+Funding: 200.000 €<br />
 Duration: 01/January/2019 – 31/August/2022<br />
 
 <li value=19.">
 <p> <b>Research grant from the ICMM-CSIC</b>:<br /> 
 Title: Josephson junctions based on full-shell Majorana nanowires <br /> 
 Principal Investigator:  <b>Elsa Prada Núñez</b><br />
-Funding: €5000 <br />
+Funding: €5.000 <br />
 Duration: 01.11.2020 – 31.10.2021<br />
 
 <li value="18.">
@@ -161,7 +171,7 @@ Title: Topological superconductors and Majorana modes<br />
 Call: Ayudas para la contratación de investigadores predoctorales de la Comunidad de Madrid, a través del Programa Operativo de Empleo Juvenil y la Iniciativa de Empleo Juvenil (YEI) <br /> 
 Reference: PEJD-2018-PRE/IND-8372 <br /> 
 Principal Investigator:  <b>Elsa Prada Núñez</b><br />
-Funding: €25000<br />
+Funding: €25.000<br />
 Duration: 03.2019 - 0.3.2020 (one year).<br />
 
 <li value="14.">
@@ -171,7 +181,7 @@ Funding agency: Ministerio de Economía y Competividad, Gobierno de España<br /
 Project number FIS2016-80434-P<br />
 Principal Investigators: Juan José Palacios Burgos and <b>Elsa Prada Núñez</b><br />
 Other participants: 3 students<br />
-Funding: 43000 € + FPI contract<br />
+Funding: 43.000 € + FPI contract<br />
 Duration: 01/January/2017 – 31/December/2020.<br />
 
 <li value="11.">
@@ -180,7 +190,7 @@ Title: From two-dimensional crystals to zero-dimensional structures: Mechanical 
 Project number FIS2013-47328-C2-1-P. <br />
 Principal Investigators: Juan José Palacios Burgos and <b>Elsa Prada Núñez</b>.<br />
 Other participants: 2 senior participants and 3 students (in Madrid)<br />
-Funding: 37000 €<br />
+Funding: 37.000 €<br />
 Duration: 01/January/2014 – 31/December/2016.<br />
 
 <li value="10.">
@@ -188,7 +198,7 @@ Duration: 01/January/2014 – 31/December/2016.<br />
 Title: Condensed Matter Physics, so close and such a stranger <br />
 Funding agency: American Phsyical Society, USA.<br />
 Researchers: <b>Elsa Prada</b> (project's leader), Isabel Guillamón and Enrique Sahagún<br />
-Funding: $5000<br />
+Funding: $5.000<br />
 Date: 14/February/2014<br />
 Comments: Subsequently we also obtained funding from the Universidad Autónoma de Madrid (UAM), 1000€, and the Grupo Especializado de Física del Estado Sólido (GEFES-CSIC), 1000€.<br />
 
@@ -197,7 +207,7 @@ Comments: Subsequently we also obtained funding from the Universidad Autónoma d
 Title: Quantum transport in graphene and topological insulators <br /> 
 Funding agency: Ministerio de Economía y Competividad, Gobierno de España<br />
 Principal Investigators: <b>Elsa Prada Núñez</b><br />
-Funding: 15000 €<br />
+Funding: 15.000 €<br />
 Duration: 01/November/2012 – 31/October/2014.<br />
 
 </ol>

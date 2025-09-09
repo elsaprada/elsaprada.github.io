@@ -86,7 +86,7 @@ title = "Curriculum Vitae"
 
 <li value="25.">
 <p> <b>Research grant from the Spanish government</b>:<br /> 
-Title: Interacciones autoconsistentes en materiales y dispositivos cuánticos<br />  
+Title: Self-consistent interactions in quantum materials and devices<br />  
 Funding agency: Ministerio de Ciencia, Innovación y Universidades, Gobierno de España<br />
 Project number PID2024-161665NB-I00 <br />
 Principal Investigators: Elsa Prada Núñez y Pablo San José Martín<br />

@@ -11,6 +11,16 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**69. [Effective conduction-band model for zincblende III-V semiconductors in the presence of strain: tuning the properties of bulk crystals and nanostructures](https://arxiv.org/abs/2509.13246)**
+
+Samuel D. Escribano, Alfredo Levy Yeyati, Elsa Prada
+
+<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
+*Preprint [arXiv:2509.13246](https://arxiv.org/abs/2509.13246)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **68. [Solitonic Andreev Spin Qubit](https://arxiv.org/abs/2506.15502)**
 
 Pablo San-Jose, Elsa Prada

@@ -11,6 +11,16 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**70. [Non-Hermitian Skin Effect and Electronic Nonlocal Transport](https://arxiv.org/abs/2510.00921)**
+
+Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg
+
+<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
+*Preprint [arXiv:2510.00921](https://arxiv.org/abs/2510.00921)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **69. [Effective conduction-band model for zincblende III-V semiconductors in the presence of strain: tuning the properties of bulk crystals and nanostructures](https://arxiv.org/abs/2509.13246)**
 
 Samuel D. Escribano, Alfredo Levy Yeyati, Elsa Prada

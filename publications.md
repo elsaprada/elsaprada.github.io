@@ -45,8 +45,8 @@ Pablo San-Jose, Elsa Prada
 
 Carlos Payá, F. J. Matute-Cañadas, A. Levy Yeyati, Ramón Aguado, Pablo San-Jose, Elsa Prada
 
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2504.16989](https://arxiv.org/abs/2504.16989)*
+*[Phys. Rev. B **112**, 134520 (2025)](https://doi.org/10.1103/sdmw-qwcn)*
+<!--*Preprint [arXiv:2504.16989](https://arxiv.org/abs/2504.16989)*-->
 @@
 
 @@papericon ![](/assets/icons/nat.png) @@

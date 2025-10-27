@@ -11,6 +11,16 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**71. [Fluxoid solitons in superconducting tapered tubes and bottlenecks](https://arxiv.org/abs/2510.20892)**
+
+Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, Pablo San-Jose
+
+<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
+*Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **70. [Non-Hermitian Skin Effect and Electronic Nonlocal Transport](https://arxiv.org/abs/2510.00921)**
 
 Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg

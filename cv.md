@@ -37,7 +37,7 @@ title = "Curriculum Vitae"
 
 @@row
 @@column21 **Group** @@
-@@column22 [Theory of Quantum Materials and Solid State Quantum Technologies](https://wp.icmm.csic.es/tqe/) @@
+@@column22 [Quantum Dynamics of Materials (QUDYMA)](https://sites.google.com/view/qudyma-icmm) @@
 @@
 
 @@row

@@ -44,8 +44,9 @@ title = "My group"
 - **Starting date**: February 2019
 - **PhD defense date**: 19 April 2023
 - **PhF thesis title**: Topological superconductivity in nanowires and two-dimensional crystals
-- **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=S3I9ac8AAAAJ)
 - **Repository DOI**:
+- **PhD thesis awards**: [III Premios de Tesis Relevante del CSIC 2023](https://www.csic.es/es/actualidad-del-csic/el-csic-entrega-los-premios-tesis-relevante-medallas-margarita-salas-y-premios-maria-moliner), and Premios Investigación Científica y Tecnológica Margarita Salas 2025.
+- **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=S3I9ac8AAAAJ)
 - **Webpage**: [https://fernandopenaranda.github.io/](https://fernandopenaranda.github.io/)
 @@
 @@

@@ -49,7 +49,7 @@ Pablo San-Jose, Elsa Prada
 *Preprint [arXiv:506.15502](https://arxiv.org/abs/2506.15502)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **67. [Fluxoid Valve Effect in Full-Shell Nanowire Josephson Junctions](https://arxiv.org/abs/2504.16989)**
 

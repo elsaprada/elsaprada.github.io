@@ -4,7 +4,7 @@ title = "Brief Vita"
 
 @@looserlines
 - **From Dec. 2025**: Senior Reseacher at the Instituto de Ciencia de Materiales de Madrid (ICMM) -CSIC, Madrid, Spain.
-- **Jul. 2020 - Jun. 2025**: Tenured Scientist at the Instituto de Ciencia de Materiales de Madrid (ICMM) -CSIC, Madrid, Spain.
+- **Jul. 2020 - Nov. 2025**: Tenured Scientist at the Instituto de Ciencia de Materiales de Madrid (ICMM) -CSIC, Madrid, Spain.
 - **Nov. 2012 - Jun. 2020**: Ramón y Cajal fellow: Tenure track position at the Autónoma University of Madrid (UAM), Madrid, Spain. Department: Condensed Matter Physics.
   - **Medical leave**: From September 2014 to February 2016.
 - **Nov. 2009 - Oct. 2012**: Postdoctoral fellow at ICMM-CSIC, Madrid, Spain, in the group led by Prof. Luis Brey.

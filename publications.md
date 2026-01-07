@@ -7,7 +7,7 @@ title = "Publications"
 @@colbox [Google Scholar](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en) [![Google Scholar](/assets/icons/googlescholar.png)](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en) @@
 @@colbox [Web of Science](https://www.webofscience.com/wos/author/record/1465075)@@
 
-# 2025
+# 2026
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
@@ -48,6 +48,8 @@ Pablo San-Jose, Elsa Prada
 <!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
 *Preprint [arXiv:506.15502](https://arxiv.org/abs/2506.15502)*
 @@
+
+# 2025
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata

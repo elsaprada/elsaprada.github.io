@@ -56,9 +56,9 @@ title = "Curriculum Vitae"
 
 # Contracts and fellowships
 
-- **Senior researcher** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Quntum Dynamics of Materials. Dates: from July 2025.
+- **Senior researcher** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Quntum Dynamics of Materials. Dates: from Dec 2025.
 
-- **Tenured scientist** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Theory of Quantum Materials and Solid State Quantum Technologies. Dates: from July 2020 to June 2025.
+- **Tenured scientist** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Theory of Quantum Materials and Solid State Quantum Technologies. Dates: from July 2020 to Nov 2025.
 
 - **Ramón y Cajal fellow: tenure-track position** at the Autónoma University of Madrid (UAM), Madrid, Spain. Department: Condensed Matter Physics. Dates: from November 2012 till June 2020.
 

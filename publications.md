@@ -39,14 +39,14 @@ Samuel D. Escribano, Alfredo Levy Yeyati, Elsa Prada
 *Preprint [arXiv:2509.13246](https://arxiv.org/abs/2509.13246)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prr.png) @@
 @@paperdata
-**68. [Solitonic Andreev Spin Qubit](https://arxiv.org/abs/2506.15502)**
+**68. [Solitonic Andreev spin qubits from Andreev states in Corbino Josephson junctions](https://arxiv.org/abs/2506.15502)**
 
 Pablo San-Jose, Elsa Prada
 
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:506.15502](https://arxiv.org/abs/2506.15502)*
+*[Phys. Rev. Research **8**, 013076 (2026)](https://link.aps.org/doi/10.1103/nnzv-7nqy)*
+<!--*Preprint [arXiv:506.15502](https://arxiv.org/abs/2506.15502)*-->
 @@
 
 # 2025

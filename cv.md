@@ -237,6 +237,9 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 ~~~
 <ol>
 
+<li value="26. & 27.">
+<p>Two tutorials on <strong>Theoretical aspects of superconductor-semiconductor hybrids and devices</strong>. Presented at the <a href="https://iwssh.sciencesconf.org/" target="_blank">International Workshop on Superconductor Semiconductor Hybrids</a>, Villard de Lans, Grenoble, Frace. Dates: 3 and 5-Feb-2026.</p></li>
+
 <li value="25.">
 <p><strong>Full-shell hybrid nanowires: synthetic vortices, Majoranas, solitons and more</strong>. Presented at the <a href="https://qd100.dipc.org" target="_blank">Quantum Designer's Special Edition: 100 years of Quantum</a> workshop, San Sebastián, País Vasco, Spain. Date: 16-Jul-2025.</p></li>
 

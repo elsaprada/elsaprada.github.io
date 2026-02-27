@@ -28,7 +28,7 @@ Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prad
 *[Phys. Rev. Lett **136**, 086001 (2026)](https://doi.org/10.1103/qb8l-cj9j)*
 <!--*Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)**-->
 
-Highlighted as an [Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)
+Highlighted as [Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)
 @@
 
 @@papericon ![](/assets/icons/prr.png) @@

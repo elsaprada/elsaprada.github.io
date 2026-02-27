@@ -11,16 +11,6 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**71. [Fluxoid solitons in superconducting tapered tubes and bottlenecks](https://arxiv.org/abs/2510.20892)**
-
-Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, Pablo San-Jose
-
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)*
-@@
-
-@@papericon ![](/assets/icons/arxiv.png) @@
-@@paperdata
 **70. [Non-Hermitian Skin Effect and Electronic Nonlocal Transport](https://arxiv.org/abs/2510.00921)**
 
 Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg
@@ -31,12 +21,14 @@ Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**69. [Effective conduction-band model for zincblende III-V semiconductors in the presence of strain: tuning the properties of bulk crystals and nanostructures](https://arxiv.org/abs/2509.13246)**
+**69. [Fluxoid solitons in superconducting tapered tubes and bottlenecks](https://arxiv.org/abs/2510.20892)**
 
-Samuel D. Escribano, Alfredo Levy Yeyati, Elsa Prada
+Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, Pablo San-Jose
 
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2509.13246](https://arxiv.org/abs/2509.13246)*
+*[Phys. Rev. Lett **136**, 086001 (2026)](https://doi.org/10.1103/qb8l-cj9j)*
+<!--*Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)**-->
+
+Article highlighted as an [Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)
 @@
 
 @@papericon ![](/assets/icons/prr.png) @@
@@ -47,6 +39,16 @@ Pablo San-Jose, Elsa Prada
 
 *[Phys. Rev. Research **8**, 013076 (2026)](https://link.aps.org/doi/10.1103/nnzv-7nqy)*
 <!--*Preprint [arXiv:506.15502](https://arxiv.org/abs/2506.15502)*-->
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**xx. [Effective conduction-band model for zincblende III-V semiconductors in the presence of strain: tuning the properties of bulk crystals and nanostructures](https://arxiv.org/abs/2509.13246)**
+
+Samuel D. Escribano, Alfredo Levy Yeyati, Elsa Prada
+
+<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
+*Preprint [arXiv:2509.13246](https://arxiv.org/abs/2509.13246)*
 @@
 
 # 2025

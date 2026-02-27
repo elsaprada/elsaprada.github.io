@@ -19,7 +19,7 @@ Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg
 *Preprint [arXiv:2510.00921](https://arxiv.org/abs/2510.00921)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prl.png) @@
 @@paperdata
 **69. [Fluxoid solitons in superconducting tapered tubes and bottlenecks](https://arxiv.org/abs/2510.20892)**
 
@@ -28,7 +28,7 @@ Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prad
 *[Phys. Rev. Lett **136**, 086001 (2026)](https://doi.org/10.1103/qb8l-cj9j)*
 <!--*Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)**-->
 
-Article highlighted as an [Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)
+Highlighted as an [Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)
 @@
 
 @@papericon ![](/assets/icons/prr.png) @@
@@ -41,6 +41,8 @@ Pablo San-Jose, Elsa Prada
 <!--*Preprint [arXiv:506.15502](https://arxiv.org/abs/2506.15502)*-->
 @@
 
+# 2025
+
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 **xx. [Effective conduction-band model for zincblende III-V semiconductors in the presence of strain: tuning the properties of bulk crystals and nanostructures](https://arxiv.org/abs/2509.13246)**
@@ -50,8 +52,6 @@ Samuel D. Escribano, Alfredo Levy Yeyati, Elsa Prada
 <!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
 *Preprint [arXiv:2509.13246](https://arxiv.org/abs/2509.13246)*
 @@
-
-# 2025
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata

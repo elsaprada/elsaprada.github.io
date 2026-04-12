@@ -9,14 +9,14 @@ title = "Publications"
 
 # 2026
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
 **70. [Non-Hermitian Skin Effect and Electronic Nonlocal Transport](https://arxiv.org/abs/2510.00921)**
 
 Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg
 
-<!--*[Phys. Rev. B **107**, 155423 (2023)](https://link.aps.org/doi/10.1103/PhysRevB.107.155423)*-->
-*Preprint [arXiv:2510.00921](https://arxiv.org/abs/2510.00921)*
+*[Phys. Rev. B **113**, L161405 (2026)](https://doi.org/10.1103/9jdy-b418)*
+<!--*Preprint [arXiv:2510.00921](https://arxiv.org/abs/2510.00921)*-->
 @@
 
 @@papericon ![](/assets/icons/prl.png) @@
@@ -28,7 +28,7 @@ Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prad
 *[Phys. Rev. Lett **136**, 086001 (2026)](https://doi.org/10.1103/qb8l-cj9j)*
 <!--*Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)**-->
 
-Highlighted as [Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)
+Highlighted as  [Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)
 @@
 
 @@papericon ![](/assets/icons/prr.png) @@

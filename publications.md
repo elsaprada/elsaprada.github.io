@@ -9,7 +9,7 @@ title = "Publications"
 
 # 2026
 
-@@papericon ![](/assets/icons/prb.png) @@
+@@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
 **71. [Absence of Quasi-Majorana False Positives in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2604.24858)**
 

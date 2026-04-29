@@ -11,6 +11,16 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/prb.png) @@
 @@paperdata
+**71. [Absence of Quasi-Majorana False Positives in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2604.24858)**
+
+Carlos Payá, César Robles, Pablo San-Jose, Elsa Prada
+
+<!--*[Phys. Rev. B **113**, L161405 (2026)](https://doi.org/10.1103/9jdy-b418)*-->
+*Preprint [arXiv:2604.24858](https://arxiv.org/abs/2604.24858)*
+@@
+
+@@papericon ![](/assets/icons/prb.png) @@
+@@paperdata
 **70. [Non-Hermitian Skin Effect and Electronic Nonlocal Transport](https://arxiv.org/abs/2510.00921)**
 
 Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg

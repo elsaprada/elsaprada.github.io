@@ -45,7 +45,7 @@ Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg
 
 Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, Pablo San-Jose
 
-*[Phys. Rev. Lett **136**, 086001 (2026)](https://doi.org/10.1103/qb8l-cj9j)*
+*[Phys. Rev. Lett. **136**, 086001 (2026)](https://doi.org/10.1103/qb8l-cj9j)*
 <!--*Preprint [arXiv:2510.20892](https://arxiv.org/abs/2510.20892)**-->
 
 Highlighted as  [Editor's Suggestion](https://journals.aps.org/prl/issues/136/8)

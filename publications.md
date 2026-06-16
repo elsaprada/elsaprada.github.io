@@ -11,6 +11,16 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**72. [Valley Valves at Domain Walls in Symmetry-Broken Rhombohedral Graphene](https://arxiv.org/abs/2606.14878)**
+
+Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J Mele
+
+<!--*[Phys. Rev. B **113**, L161405 (2026)](https://doi.org/10.1103/9jdy-b418)*-->
+*Preprint [arXiv:2606.14878](https://arxiv.org/abs/2606.14878)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **71. [Absence of Quasi-Majorana False Positives in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2604.24858)**
 
 Carlos Payá, César Robles, Pablo San-Jose, Elsa Prada

@@ -88,7 +88,7 @@ title = "Curriculum Vitae"
 <p> <b>Research grant from the Spanish government</b>:<br /> 
 Title: Self-consistent interactions in quantum materials and devices<br />  
 Funding agency: Ministerio de Ciencia, Innovación y Universidades, Gobierno de España<br />
-Project number PID2024-161665NB-I00 <br />
+Project number: PID2024-161665NB-I00 <br />
 Principal Investigators: Elsa Prada Núñez y Pablo San José Martín<br />
 Other participants: 2 senior and 2 junior participants<br />
 Funding: 81.250 €<br />

@@ -11,6 +11,16 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
+**73. [Probing Synthetic Caroli-de Gennes-Matricon States Through Critical Current in Full-Shell Nanowire Josephson Junctions](https://arxiv.org/abs/2607.18371)**
+
+Carlos Payá, Ángel Ibabe, Mario Gómez, Thomas Kanne, Jesper Nygård, Ramón Aguado, Pablo San-Jose, Eduardo J. H. Lee, Elsa Prada
+
+<!--*[Phys. Rev. B **113**, L161405 (2026)](https://doi.org/10.1103/9jdy-b418)*-->
+*Preprint [	arXiv:2607.18371](https://arxiv.org/abs/2607.18371)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
 **72. [Valley Valves at Domain Walls in Symmetry-Broken Rhombohedral Graphene](https://arxiv.org/abs/2606.14878)**
 
 Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J Mele

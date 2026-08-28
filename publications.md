@@ -29,14 +29,14 @@ Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J Mele
 *Preprint [arXiv:2606.14878](https://arxiv.org/abs/2606.14878)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/prl.png) @@
 @@paperdata
 **71. [Absence of Quasi-Majorana False Positives in Full-Shell Hybrid Nanowires](https://arxiv.org/abs/2604.24858)**
 
 Carlos Payá, César Robles, Pablo San-Jose, Elsa Prada
 
-<!--*[Phys. Rev. B **113**, L161405 (2026)](https://doi.org/10.1103/9jdy-b418)*-->
-*Preprint [arXiv:2604.24858](https://arxiv.org/abs/2604.24858)*
+*[Phys. Rev. Lett. **137**, 096606 (2026)](https://doi.org/10.1103/w9tp-3bbq)*
+<!--*Preprint [arXiv:2604.24858](https://arxiv.org/abs/2604.24858)*-->
 @@
 
 @@papericon ![](/assets/icons/prb.png) @@

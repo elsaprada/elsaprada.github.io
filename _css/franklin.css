@@ -422,6 +422,18 @@ code {
   width: 90%
 }
 
+.franklin-content .column11 .identifiers {
+  width: 90%;
+  margin-top: 1.5em;
+  font-size: 0.85em;
+  line-height: 1.6em;
+}
+
+.franklin-content .column11 .identifiers ul {
+  padding-left: 1.2em;
+  margin-top: 0.3em;
+}
+
 .franklin-content .column12 {
   float: right;
   width: 71%;

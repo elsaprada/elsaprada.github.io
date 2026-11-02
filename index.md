@@ -4,7 +4,17 @@
 @@img-medium ![ICMM-CSIC](/assets/CSIC_logo.png) @@
 
 @@row
-@@column11 ![Elsa circa 2022](/assets/photos/Elsa_2022.jpg) @@
+@@column11
+![Elsa circa 2022](/assets/photos/Elsa_2022.jpg)
+
+@@identifiers
+**Identifiers**
+- [Google Scholar](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en)
+- ORCID: [0000-0001-7522-4795](http://orcid.org/0000-0001-7522-4795)
+- Web of Science: [A-4792-2010](https://www.webofscience.com/wos/author/record/1465075)
+- Scopus: [9238304800](https://www.scopus.com/authid/detail.uri?authorId=9238304800)
+@@
+@@
 
 @@column12
 
@@ -24,11 +34,5 @@ A distinctive part of my research is providing theoretical support to experiment
 
 @@
 @@
-
-## Identifiers
-- [Google Scholar](https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en)
-- ORCID: [0000-0001-7522-4795](http://orcid.org/0000-0001-7522-4795)
-- Web of Science: [A-4792-2010](https://www.webofscience.com/wos/author/record/1465075)
-- Scopus: [9238304800](https://www.scopus.com/authid/detail.uri?authorId=9238304800)
 
 

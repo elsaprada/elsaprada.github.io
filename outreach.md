@@ -44,6 +44,9 @@ Within the program of awards for students of the <a href="http://www.nicolascabr
 ~~~
 <ol>
 
+<li value="3.">
+	<p> Invited talk about <a href="https://www.youtube.com/watch?v=S4M_oIO2E4E"_blank"> Quantum Materials and their application for Quantum Technologies</a>, within the exhibition <a href="https://www.youtube.com/hashtag/revolucióncuántica"_blank">#RevoluciónCuántica</a>, celebrated at <b>Espacio Fundación Telefónica de Madrid</b>. Published on the 9th of October, 2026.<br />
+
 <li value="2.">
 	<p> Interviewed for the video <a href="https://www.youtube.com/watch?v=zn4B5nBAhJA"target="_blank"> Este Español Ha Revolucionado los Materiales Cuánticos</a>, carried out by José Luis Crespo within his YouTube channel <b>QuantumFracture</b>. Published on the 18th of May, 2020.<br />
 

@@ -70,6 +70,35 @@ title = "My group"
 
 # Other current and past students
 
+
+
+## César Robles
+
+@@row
+@@column21 ![Miguel A. Villegas](/assets/photos/Villegas.jpg) @@
+
+@@column22
+- **Master student**
+- **Dates**: course 2026-2027
+- **Subject**: Synthetic vortices and superconducting diodes in full-shell nanowires
+@@
+@@
+
+@@row
+@@column21 ![César Robles](/assets/photos/Robles.jpg) @@
+
+@@column22
+- **Master student**
+- **Dates**: course 2025-2026
+- **Subject**: Josephson eﬀect in double Corbino Josephson jun�ons
+- **JAE-Intro CSIC pre-doc student**
+- **Dates**: course 2024-2025
+- **Subject**: Quasi-Majoranas in full-shell hybrid nanowires 
+- **Distinction**: [GEFES research award for students](https://gefes-rsef.org/premios-de-investigacion-para-estudiantes-2024-cesar-robles-montero/)
+@@
+@@
+
+
 ## Marc Pujol
 
 @@row
@@ -81,20 +110,6 @@ title = "My group"
 - **Subject**: Geometric dephasing of Andreev qubits
 @@
 @@
-
-## César Robles
-
-@@row
-@@column21 ![César Robles](/assets/photos/Robles.jpg) @@
-
-@@column22
-- **JAE-Intro CSIC pre-doc student**
-- **Dates**: course 2024-2025
-- **Subject**: Quasi-Majoranas in full-shell hybrid nanowires 
-- **Distinction**: [GEFES research award for students](https://gefes-rsef.org/premios-de-investigacion-para-estudiantes-2024-cesar-robles-montero/)
-@@
-@@
-
 
 ## Andrea Vezzosi
 

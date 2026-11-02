@@ -37,7 +37,7 @@ title = "Curriculum Vitae"
 
 @@row
 @@column21 **Group** @@
-@@column22 [Quantum Dynamics of Materials (QUDYMA)](https://sites.google.com/view/qudyma-icmm) @@
+@@column22 [Quantum Dynamics and Materials (QUDYMA)](https://sites.google.com/view/qudyma-icmm) @@
 @@
 
 @@row
@@ -56,11 +56,11 @@ title = "Curriculum Vitae"
 
 # Contracts and fellowships
 
-- **Senior researcher** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Quantum Dynamics of Materials. Dates: from Dec 2025.
+- **Senior researcher** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Quantum Dynamics and Materials. Dates: from Dec 2025.
 
 - **Tenured scientist** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Theory of Quantum Materials and Solid State Quantum Technologies. Dates: from July 2020 to Nov 2025.
 
-- **Ramón y Cajal fellow: tenure-track position** at the Autónoma University of Madrid (UAM), Madrid, Spain. Department: Condensed Matter Physics. Dates: from November 2012 to June 2020.
+- **Ramón y Cajal fellow: tenure-track position** at the Universidad Autónoma de Madrid (UAM), Madrid, Spain. Department: Condensed Matter Physics. Dates: from November 2012 to June 2020.
 
 - **Postdoctoral contract JAE-doctor** at the Instituto de Ciencia de Materiales de Madrid, CSIC. Advisor: Luis Brey Abalo. Dates: from November 2009 to October 2012.
 
@@ -161,7 +161,7 @@ Acronym: TopoGraph (Reference Number: JTC-2017_017)
 Reference: Topograph PCI2018 - 093026<br /> 
 Principal Investigator:  Péter Makk, BUTE and UniBas, Hungary. Spanish node: Pablo San-Jose, ICMM-CSIC<br />
 Project partners: BME-Eötvos (Hungary), TUDelft (The Netherlands) y CSIC (Spain)<br />
-Funding: ICMM node: €156.256 (total: €783.525) <br />
+Funding: ICMM node: €105.000 (total: €560.000) <br />
 Duration: 01.05.2018 - 30.04.2021 (three years).<br />
 Webpage: <a href="https://www.era-learn.eu/network-information/networks/flag-era-ii/flag-era-joint-transnational-call-jtc-2017/engineering-topological-superconductivity-in-graphene">here</a><br/>
 
@@ -253,16 +253,16 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 <p><strong>Full-shell hybrid nanowires: trivial and topological regimes</strong>. Presented at the <a href="https://www.grc.org/hybrid-superconductor-semiconductor-devices-conference/2025/" target="_blank">2025 Hybrid Superconductor-Semiconductor Devices Gordon Research Conference</a>, Les Diablerets Conference Center, Switzerland. Date: 01-May-2025.</p></li>
 
 <li value="21.">
-<p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://qdp2024.dipc.org" target="_blank">Quantum Designer Physics 2024</a> workshop, San Sebastián, País Vasco, Spain. Date: 16-Jul-2024.</p></li>
+<p><strong>Full-shell hybrid nanowires and the search for Majorana bound states</strong>. Presented at the <a href="https://qdp2024.dipc.org" target="_blank">Quantum Designer Physics 2024</a> workshop, San Sebastián, País Vasco, Spain. Date: 16-Jul-2024.</p></li>
 
 <li value="20.">
 <p><strong>The search for Majorana bound states in hybrid nanostructures</strong>. Presented at the <a href="https://www.inc.uam.es/inc-young-researchers-meeting-2023/" target="_blank">Instituto Nicolás Cabrera Young Researchers Meeting 2023</a>, La Cristalera, Miraflores de la Sierra, Spain. Date: 15-Dec-2023.</p></li>
 
 <li value="19.">
-<p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://www.boundstates2023.eu" target="_blank">Bound states in superconducting nano devices</a> conference, Thermal Margaret Island, Budapest, Hungary. Date: 11-Jun-2023.</p></li>
+<p><strong>Full-shell hybrid nanowires and the search for Majorana bound states</strong>. Presented at the <a href="https://www.boundstates2023.eu" target="_blank">Bound states in superconducting nano devices</a> conference, Thermal Margaret Island, Budapest, Hungary. Date: 11-Jun-2023.</p></li>
 
 <li value="18.">
-<p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://crc1238.uni-koeln.de/international-conference-2023/" target="_blank">Control and Dynamics of Quantum Materials</a> conference, Kardinal-Schulte-Haus, Bensberg, Germany. Date: 30-May-2023.</p></li>
+<p><strong>Full-shell hybrid nanowires and the search for Majorana bound states</strong>. Presented at the <a href="https://crc1238.uni-koeln.de/international-conference-2023/" target="_blank">Control and Dynamics of Quantum Materials</a> conference, Kardinal-Schulte-Haus, Bensberg, Germany. Date: 30-May-2023.</p></li>
 
 <li value="17.">
 <p><strong>Caroli-de Gennes-Matricon states in full-shell nanowires</strong>. Presented at the <a href="https://qdp2022.dipc.org/home/scope" target="_blank">Quantum Designer Physics 2022 </a> conference, Donostia International Physics Center, at Miramar Palace, San Sebastián, Guipúzcoa, Spain. Date: 18-Jul-2022.</p></li>
@@ -319,7 +319,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 <li value="21."><p><strong>Searching for Majorana bound states in superconductor-semiconductor nanostructures</strong>. Presented at the department of Applied Physics in Aalto University, Finland. Host: Jose Lado. Date: 25-January-2024.</p></li>
 
-<li value="20."><p><strong><a href="https://www.youtube.com/watch?v=QXf4BiWPwWw" target="_blank">From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires</a></strong>. Presented online at the IFIMAC+ICMM Joint Seminar Series, Autonomous University of Madrid campus. Host: María José Calderón. Date: 11-February-2021.</p></li>
+<li value="20."><p><strong><a href="https://www.youtube.com/watch?v=QXf4BiWPwWw" target="_blank">From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires</a></strong>. Presented online at the IFIMAC+ICMM Joint Seminar Series, Universidad Autónoma de Madrid campus. Host: María José Calderón. Date: 11-February-2021.</p></li>
 
 <li value="19."><p><strong>Colloquium: From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires</strong>. Presented online at the ML4Q Science Seminars series, Universities of Cologne, Aachen, Bonn, and Forschungszentrum Jülich, Germany. Hosts: Fabian Hassler and Markus Müller. Date: 04-February-2021.</p></li>
 
@@ -375,7 +375,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 	<li value="9."><p><strong>Measuring Majorana non-locality and spin structure with a quantum dot</strong>.  Presented at the symposium Quantum Materials and Technologies organized by the Grupo Especializado de Física del Estado Sólido (GEFES) and Real Sociedad Española de Física (RSEF), Santiago de Compostela, Galicia (Spain). Date: 19-July-2017.</p></li>
 
-	<li value="8."><p><strong>Mapping the topological phase diagram of multiband semiconductors with supercurrents</strong>.  Presented at the APS March Meeting 2014, Denver, Colorado (USA). Date: 4-March-2011.</p></li>
+	<li value="8."><p><strong>Mapping the topological phase diagram of multiband semiconductors with supercurrents</strong>.  Presented at the APS March Meeting 2014, Denver, Colorado (USA). Date: 4-March-2014.</p></li>
 
 	<li value="7."><p><strong>Zero Landau level in folded graphene ribbons</strong>.  Presented at the conference: CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials, Barcelona, Spain. Date: 8-April-2011.</p></li>
 
@@ -445,8 +445,8 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 # Student supervision
 
 - PhD Thesis
-  - PhD student: Francisco Lobo. Co-advisors: Pablo San-Jose and Rui E. F. Silva. Theme: Self-consistent interactions and dynamics in quantum materials. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: January-2024. Ongoing. 
-  - PhD student: Carlos Payá Herrero. Co-advisor: Ramón Aguado. Theme: Full-shell hybrid nanowires. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: March-2023. Ongoing.
+  - PhD student: Francisco Lobo. Co-advisor: Pablo San-Jose. Theme: Self-consistent interactions and dynamics in quantum materials. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: January-2024. Ongoing. 
+  - PhD student: Carlos Payá Herrero. Co-advisor: Ramón Aguado. Theme: Full-shell hybrid nanowires. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: February-2023. Ongoing.
   - PhD student: Fernando Peñaranda del Río. Co-advisor: Pablo San-Jose. Title: **Topological superconductivity in Majorana nanowires and 2D crystals**. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: 11-February-2019. PhD defense date: April-2023.
   - PhD student: Samuel Díaz Escribano. Co-advisor: Alfredo Levy Yeyati. Title: **Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures**. Place: Condensed Matter Physics Department, Universidad Autónoma de Madrid, and Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: March-2018. PhD defense date: December-2022.
 

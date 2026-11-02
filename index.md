@@ -16,7 +16,11 @@
 
 Hi! My name is **Elsa Prada** and I am a Senior Researcher at the [Materials Science Institute of Madrid](https://www.icmm.csic.es/) (which is part of the [Spanish Research Council](https://www.csic.es/)). Within the department of Theory and Simulation of Materials, our group is called [Quantum Dynamics and Materials (QUDYMA)](https://sites.google.com/view/qudyma-icmm).
 
- I am a **condensed matter theorist** working on systems where quantum phenomena play an important role, such as low-dimensional materials, nanostructures and devices. See my research interests below.
+I am a **condensed matter theorist** working on the modeling and simulation of quantum materials and devices, with an eye on their applications in quantum technologies. My research lies at the frontier between fundamental physics and applications: I am interested in how quantum phenomena such as superconductivity, topology and quantum coherence emerge in real, imperfect systems, and how they can be engineered, controlled and detected in the laboratory.
+
+Over the years, my work has evolved from entanglement and quantum transport in mesoscopic conductors, through graphene and other two-dimensional crystals, to hybrid superconductor-semiconductor nanostructures, a leading platform in the search for Majorana zero modes and topological qubits. My current work focuses on full-shell hybrid nanowires, Andreev states and Josephson devices, the superconducting diode effect, and rhombohedral multilayer graphene.
+
+A distinctive part of my research is providing theoretical support to experimental groups. I develop realistic models that capture the geometry, electrostatics and material properties of actual devices, so that theory can be compared directly with measurements, help interpret them, and guide the design of new experiments. These collaborations have led to joint publications in journals such as *Science*, *Nature* and *Nature Communications*. I have also written, together with leading experimental and theoretical groups, a review in *Nature Reviews Physics* on Andreev and Majorana bound states in hybrid nanowires.
 
 @@
 @@

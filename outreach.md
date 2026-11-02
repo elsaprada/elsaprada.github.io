@@ -16,7 +16,7 @@ title = "Outreach"
 	<p> <b>American Physical Society (APS) Outreach Minigrant</b>. <br /> 
 In 2014 <a href="http://www.aps.org/programs/outreach/grants/2014grantees.cfm" target="_blank">we were awarded</a> a $5000 grant to make a short science outreach documentary titled <b>Condensed Matter Physics, So Close and Such a Stranger</b>. We published it online on January 1, 2016, <a href="https://www.youtube.com/watch?v=3De1rLxvzyU" target="_blank">in English</a> and <a href="https://www.youtube.com/watch?v=gUMVY-wFi-M" target="_blank">in Spanish</a>.<br />
 
-We also <a href="https://www.youtube.com/watch?v=lKD-M0G6S5c" target="_blank">interviewed</a> Prof. Paul Canfield. More interviews coming soon!
+We also <a href="https://www.youtube.com/watch?v=lKD-M0G6S5c" target="_blank">interviewed</a> Prof. Paul Canfield.
 
 </ol>
 ~~~
@@ -51,7 +51,7 @@ Within the program of awards for students of the <a href="http://www.nicolascabr
 	<p> Interviewed for the video <a href="https://www.youtube.com/watch?v=zn4B5nBAhJA" target="_blank"> Este Español Ha Revolucionado los Materiales Cuánticos</a>, made by José Luis Crespo for his YouTube channel <b>QuantumFracture</b>. Published on the 18th of May, 2020.<br />
 
 <li value="1.">
-	<p> Participation in the script writing of the video <a href="https://www.youtube.com/watch?v=RmdWyZpXeEM" target="_blank">La física de lo complejo</a>. This is a promotional video about the Condensed Matter Physics Institute (IFIMAC) of the Autonomous University of Madrid (UAM), made by José Luis Crespo with the participation of various members of the IFIMAC. Published on 28th of September, 2017.<br />
+	<p> Participation in the script writing of the video <a href="https://www.youtube.com/watch?v=RmdWyZpXeEM" target="_blank">La física de lo complejo</a>. This is a promotional video about the Condensed Matter Physics Institute (IFIMAC) of the Universidad Autónoma de Madrid (UAM), made by José Luis Crespo with the participation of various members of the IFIMAC. Published on 28th of September, 2017.<br />
 
 </ol>
 ~~~

@@ -89,7 +89,7 @@ title = "Curriculum Vitae"
 Title: Self-consistent interactions in quantum materials and devices<br />  
 Funding agency: Ministerio de Ciencia, Innovación y Universidades, Gobierno de España<br />
 Project number: PID2024-161665NB-I00 <br />
-Principal Investigators: Elsa Prada Núñez and Pablo San José Martín<br />
+Principal Investigators: <b>Elsa Prada Núñez</b><br /> and Pablo San José Martín<br />
 Other participants: 2 senior and 2 junior participants<br />
 Funding: 81.250 €<br />
 Duration: 01/September/2025 – 31/August/2028<br />

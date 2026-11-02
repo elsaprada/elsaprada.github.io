@@ -78,6 +78,7 @@ title = "My group"
 
 @@column22
 - **Master student**
+- **Co-advisor**: Carlos Payá
 - **Dates**: course 2026-2027
 - **Subject**: Synthetic vortices and superconducting diodes in full-shell nanowires
 @@

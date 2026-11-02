@@ -45,7 +45,7 @@ Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J Mele
 
 F. Guinea, E.J. Mele, V. T. Phong, E. Prada, P. San-Jose
 
-*[Journal Club of Condensed Matter Physics (October 2026)](https://doi.org/10.36471/JCCM_October_2026_02)*
+*[Journal Club for Condensed Matter Physics (October 2026)](https://doi.org/10.36471/JCCM_October_2026_02)*
 <!--*Preprint [arXiv:2606.14878](https://arxiv.org/abs/2606.14878)*-->
 @@
 

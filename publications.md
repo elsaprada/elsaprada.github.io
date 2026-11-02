@@ -11,7 +11,7 @@ title = "Publications"
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**74. [Valley-Selective Transport through Structural Domain Walls in Rhombohedral Graphene Quarter Metals](https://doi.org/10.48550/arXiv.2610.22521)**
+**75. [Valley-Selective Transport through Structural Domain Walls in Rhombohedral Graphene Quarter Metals](https://doi.org/10.48550/arXiv.2610.22521)**
 
 Vo Tien Phong, Pablo San-Jose, Bing Cheng, Zhengguang Lu, Elsa Prada, Long Ju, Eugene Mele, Cyprian Lewandowski, Francisco Guinea
 
@@ -21,7 +21,7 @@ Vo Tien Phong, Pablo San-Jose, Bing Cheng, Zhengguang Lu, Elsa Prada, Long Ju, E
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**73. [Probing Synthetic Caroli-de Gennes-Matricon States Through Critical Current in Full-Shell Nanowire Josephson Junctions](https://arxiv.org/abs/2607.18371)**
+**74. [Probing Synthetic Caroli-de Gennes-Matricon States Through Critical Current in Full-Shell Nanowire Josephson Junctions](https://arxiv.org/abs/2607.18371)**
 
 Carlos Payá, Ángel Ibabe, Mario Gómez, Thomas Kanne, Jesper Nygård, Ramón Aguado, Pablo San-Jose, Eduardo J. H. Lee, Elsa Prada
 
@@ -31,12 +31,22 @@ Carlos Payá, Ángel Ibabe, Mario Gómez, Thomas Kanne, Jesper Nygård, Ramón A
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
-**72. [Valley Valves at Domain Walls in Symmetry-Broken Rhombohedral Graphene](https://arxiv.org/abs/2606.14878)**
+**73. [Valley Valves at Domain Walls in Symmetry-Broken Rhombohedral Graphene](https://arxiv.org/abs/2606.14878)**
 
 Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J Mele
 
 <!--*[Phys. Rev. B **113**, L161405 (2026)](https://doi.org/10.1103/9jdy-b418)*-->
 *Preprint [arXiv:2606.14878](https://arxiv.org/abs/2606.14878)*
+@@
+
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**72. [Novel phases, orbital magnetism, and domain walls in rhombohedral graphene stacks](https://www.condmatjclub.org/uploads/2026/10/JCCM_October_2026_02.pdf)**
+
+F. Guinea, E.J. Mele, V. T. Phong, E. Prada, P. San-Jose
+
+*[Journal Club of Condensed Matter Physics (October 2026)](https://doi.org/10.36471/JCCM_October_2026_02)*
+<!--*Preprint [arXiv:2606.14878](https://arxiv.org/abs/2606.14878)*-->
 @@
 
 @@papericon ![](/assets/icons/prl.png) @@

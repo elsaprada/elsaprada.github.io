@@ -39,7 +39,7 @@ Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J Mele
 *Preprint [arXiv:2606.14878](https://arxiv.org/abs/2606.14878)*
 @@
 
-@@papericon ![](/assets/icons/arxiv.png) @@
+@@papericon ![](/assets/icons/jccmp.png) @@
 @@paperdata
 **72. [Novel phases, orbital magnetism, and domain walls in rhombohedral graphene stacks](https://www.condmatjclub.org/uploads/2026/10/JCCM_October_2026_02.pdf)**
 

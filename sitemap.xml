@@ -14,12 +14,6 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://elsaprada.github.io/interests/index.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>https://elsaprada.github.io/group/index.html</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -39,6 +33,12 @@
 </url>
 <url>
     <loc>https://elsaprada.github.io/seminars/index.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://elsaprada.github.io/research/index.html</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

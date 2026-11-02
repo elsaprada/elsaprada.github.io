@@ -25,7 +25,7 @@ title = "My group"
 @@column22
 - **Co-advisor**: Ramón Aguado
 - **Starting date**: February 2023
-- **Subject**: Full-shell hybrid nanowires in the trivial and topological phase
+- **Subject**: Full-shell hybrid nanowires in the trivial and topological phases
 - **Distinction**: [GEFES research award for students](http://gefes-rsef.org/premios-de-investigacion-para-estudiantes-carlos-paya/)
 - **Webpage**: [https://carlosp24.github.io](https://carlosp24.github.io)
 @@
@@ -43,10 +43,10 @@ title = "My group"
 - **Co-advisor**: Pablo San-Jose
 - **Starting date**: February 2019
 - **PhD defense date**: 19 April 2023
-- **PhF thesis title**: Topological superconductivity in nanowires and two-dimensional crystals
+- **PhD thesis title**: Topological superconductivity in nanowires and two-dimensional crystals
 - **Repository DOI**:
 - **PhD thesis awards**: [III Premios de Tesis Relevante del CSIC 2023](https://www.csic.es/es/actualidad-del-csic/el-csic-entrega-los-premios-tesis-relevante-medallas-margarita-salas-y-premios-maria-moliner), and Premios Investigación Científica y Tecnológica Margarita Salas 2025.
-- **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=S3I9ac8AAAAJ)
+- **Google Scholar**: [link](https://scholar.google.com/citations?hl=en&user=S3I9ac8AAAAJ)
 - **Webpage**: [https://fernandopenaranda.github.io/](https://fernandopenaranda.github.io/)
 @@
 @@
@@ -63,7 +63,7 @@ title = "My group"
 - **PhD defense date**: 16 December 2022   
 - **PhD thesis title**: Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures
 - **Repository DOI**: [link](https://repositorio.uam.es/handle/10486/706437) 
-- **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=UaNF-SUAAAAJ)
+- **Google Scholar**: [link](https://scholar.google.com/citations?hl=en&user=UaNF-SUAAAAJ)
 - **Webpage**: [https://www.samueldescribano.com](https://www.samueldescribano.com)
 @@
 @@
@@ -77,9 +77,9 @@ title = "My group"
 @@column21 ![Miguel A. Villegas](/assets/photos/Villegas.jpg) @@
 
 @@column22
-- **Master student**
+- **Master's student**
 - **Co-advisor**: Carlos Payá
-- **Dates**: course 2026-2027
+- **Dates**: academic year 2026-2027
 - **Subject**: Synthetic vortices and superconducting diodes in full-shell nanowires
 @@
 @@
@@ -90,11 +90,11 @@ title = "My group"
 @@column21 ![César Robles](/assets/photos/Robles.jpg) @@
 
 @@column22
-- **Master student**
-- **Dates**: course 2025-2026
-- **Subject**: Josephson eﬀect in double Corbino Josephson junctions
+- **Master's student**
+- **Dates**: academic year 2025-2026
+- **Subject**: Josephson effect in double Corbino Josephson junctions
 - **JAE-Intro CSIC pre-doc student**
-- **Dates**: course 2024-2025
+- **Dates**: academic year 2024-2025
 - **Subject**: Quasi-Majoranas in full-shell hybrid nanowires 
 - **Distinction**: [GEFES research award for students](https://gefes-rsef.org/premios-de-investigacion-para-estudiantes-2024-cesar-robles-montero/)
 @@
@@ -120,10 +120,10 @@ title = "My group"
 
 @@column22
 - **Visiting European PhD student**
-- **Origin**: Università degli Studi di Modena e Reggio Emilia. PhD student under the supervision of Prob. Guido Goldoni
+- **Origin**: Università degli Studi di Modena e Reggio Emilia. PhD student under the supervision of Prof. Guido Goldoni
 - **Dates of his short stay at ICMM**: from January 16 to April 23, 2023
 - **Subject**: Core-shell nanowires
-- **Google scholar**: [link](https://scholar.google.com/citations?user=rCrFBLgAAAAJ&hl=it)
+- **Google Scholar**: [link](https://scholar.google.com/citations?user=rCrFBLgAAAAJ&hl=it)
 - **Webpage**: [link](http://personale.unimore.it/Rubrica/dettaglio/219035)
 @@
 @@
@@ -135,7 +135,7 @@ title = "My group"
 
 @@column22
 - **Pre-doc student**
-- **Dates**: course 2021-2022
+- **Dates**: academic year 2021-2022
 - **Subject**: Majorana oscillations in full-shell hybrid nanowires
 - **Distinction**: [GEFES research award for students](http://gefes-rsef.org/premios-de-investigacion-para-estudiantes-2022-carlos-jose-sanchez-martinez/)
 - **Award**: [XX Certamen Universitario “Arquímedes” de Introducción a la Investigación Científica, primer premio](https://www.universidades.gob.es/certamen-universitario-arquimedes-convocatoria-2022/)
@@ -151,7 +151,7 @@ title = "My group"
 - **Pre-doc YEI CAM student**
 - **Dates**: from March 2019 to September 2020
 - **Subject**: Quasi-1D topological organic polymers
-- **Google scholar**: [link](https://scholar.google.com/citations?hl=en&user=XE7w6XIAAAAJ)
+- **Google Scholar**: [link](https://scholar.google.com/citations?hl=en&user=XE7w6XIAAAAJ)
 @@
 @@
 

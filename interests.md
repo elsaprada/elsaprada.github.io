@@ -11,7 +11,7 @@ Throughout my career, my research has dealt with the following topics:
 - Hybrid superconductor-semiconductor systems
   - Majorana zero modes in hybrid nanowires and planar heterojunctions
   - Quasi-Majoranas
-  - Ferromagnitic hybrids
+  - Ferromagnetic hybrids
   - Topological qubits
   - Andreev states in Josephson junctions and Andreev qubits
   - Fluxoid solitons in bottlenecks and Corbino Josephson junctions
@@ -23,7 +23,7 @@ Throughout my career, my research has dealt with the following topics:
   - Disorder
   - Magnetotransport, quantum Hall effect
   - Spintronics, pseudospintronics, valleytronics
-  - Quantum pumping, out of equilibrium phenomena
+  - Quantum pumping, out-of-equilibrium phenomena
   - Elastic deformations, folded nanoribbons, straintronics
   - Excitons, optoelectronics
 - Electron and spin transport in mesoscopic systems

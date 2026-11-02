@@ -14,9 +14,9 @@
   Office: 346 — Tel.: (+34) 91 334 9080\\
   E-mail: [elsa.prada@csic.es](mailto:Elsa Prada<elsa.prada@csic.es>)}
 
-Hi! My name is **Elsa Prada** and I am a Senior Researcher a the [Materials Science Institute of Madrid](https://www.icmm.csic.es/) (which is part of the [Spanish Research Council](https://www.csic.es/)). Within the department of Theory and Simulation of Materials, our group is called [Quantum Dynamics and Materials (QUDYMA)](https://sites.google.com/view/qudyma-icmm).
+Hi! My name is **Elsa Prada** and I am a Senior Researcher at the [Materials Science Institute of Madrid](https://www.icmm.csic.es/) (which is part of the [Spanish Research Council](https://www.csic.es/)). Within the department of Theory and Simulation of Materials, our group is called [Quantum Dynamics and Materials (QUDYMA)](https://sites.google.com/view/qudyma-icmm).
 
- I am a **condensed matter theorist** working on systems where quantum phenomena play an important role, such as low dimensional materials, nanostructures and devices. See my research interests below.
+ I am a **condensed matter theorist** working on systems where quantum phenomena play an important role, such as low-dimensional materials, nanostructures and devices. See my research interests below.
 
 @@
 @@
@@ -37,7 +37,7 @@ Throughout my career, my research has dealt with the following topics:
 - Hybrid superconductor-semiconductor systems
   - Majorana zero modes in hybrid nanowires and planar heterojunctions
   - Quasi-Majoranas
-  - Ferromagnitic hybrids
+  - Ferromagnetic hybrids
   - Topological qubits
   - Andreev states in Josephson junctions and Andreev qubits
   - Fluxoid solitons in bottlenecks and Corbino Josephson junctions
@@ -49,7 +49,7 @@ Throughout my career, my research has dealt with the following topics:
   - Disorder
   - Magnetotransport, quantum Hall effect
   - Spintronics, pseudospintronics, valleytronics
-  - Quantum pumping, out of equilibrium phenomena
+  - Quantum pumping, out-of-equilibrium phenomena
   - Elastic deformations, folded nanoribbons, straintronics
   - Excitons, optoelectronics
 - Electron and spin transport in mesoscopic systems

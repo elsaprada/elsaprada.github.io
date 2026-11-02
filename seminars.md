@@ -17,4 +17,4 @@ This seminar series focuses on cutting-edge research in **condensed matter physi
 
 Click [here](https://sites.google.com/view/ifimac-icmm-joint-seminars/upcoming-seminars) to check the upcoming seminars.
 
-You can find all the released recorded videos of the past seminars in our [YouTube channel](https://www.youtube.com/channel/UCeT3dTDOqhr1qSVyOZImuew)
+Recordings of past seminars are available on our [YouTube channel](https://www.youtube.com/channel/UCeT3dTDOqhr1qSVyOZImuew).

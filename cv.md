@@ -47,24 +47,24 @@ title = "Curriculum Vitae"
 
 # Academic titles
 
-- Graduate in **Physics** by the **Universidad Autónoma de Madrid (UAM)**.
+- Degree in **Physics** from the **Universidad Autónoma de Madrid (UAM)**.
   - Major in **Theoretical Physics**.
   - Dates: 1994-1999.
-- **Doctor in Physics** by the UAM.
+- **PhD in Physics** from the UAM.
   - Title: **"Generation, evolution and detection of entanglement in nanostructures"**.
   - Date: 21st of April 2006.
 
 # Contracts and fellowships
 
-- **Senior researcher** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Quntum Dynamics of Materials. Dates: from Dec 2025.
+- **Senior researcher** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Quantum Dynamics of Materials. Dates: from Dec 2025.
 
 - **Tenured scientist** at the Instituto de Ciencia de Materiales de Madrid (ICMM), Consejo Superior de Investigaciones Científicas (CSIC), Spain. Group: Theory of Quantum Materials and Solid State Quantum Technologies. Dates: from July 2020 to Nov 2025.
 
-- **Ramón y Cajal fellow: tenure-track position** at the Autónoma University of Madrid (UAM), Madrid, Spain. Department: Condensed Matter Physics. Dates: from November 2012 till June 2020.
+- **Ramón y Cajal fellow: tenure-track position** at the Autónoma University of Madrid (UAM), Madrid, Spain. Department: Condensed Matter Physics. Dates: from November 2012 to June 2020.
 
-- **Postdoctoral contract JAE-doctor** at the Instituto de Ciencia de Materiales de Madrid, CSIC. Advisor: Luis Brey Abalo. Dates: from November 2009 till October 2012.
+- **Postdoctoral contract JAE-doctor** at the Instituto de Ciencia de Materiales de Madrid, CSIC. Advisor: Luis Brey Abalo. Dates: from November 2009 to October 2012.
 
-- **Research Associate contract at Lancaster University**. Advisor: Henning Schomerus. Dates: from September 2008 till October 2009.
+- **Research Associate contract at Lancaster University**. Advisor: Henning Schomerus. Dates: from September 2008 to October 2009.
 
 - **European Union - (ESR) Marie Curie Research Training Networks** contract at Karlsruhe University. Director: Gerd Schön. Dates: from February 2005 to April 2008.
 
@@ -89,7 +89,7 @@ title = "Curriculum Vitae"
 Title: Self-consistent interactions in quantum materials and devices<br />  
 Funding agency: Ministerio de Ciencia, Innovación y Universidades, Gobierno de España<br />
 Project number: PID2024-161665NB-I00 <br />
-Principal Investigators: Elsa Prada Núñez y Pablo San José Martín<br />
+Principal Investigators: Elsa Prada Núñez and Pablo San José Martín<br />
 Other participants: 2 senior and 2 junior participants<br />
 Funding: 81.250 €<br />
 Duration: 01/September/2025 – 31/August/2028<br />
@@ -124,7 +124,7 @@ Other participants: 7 senior and 4 junior participants<br />
 Funding: 200.000 €<br />
 Duration: 01/January/2019 – 31/August/2022<br />
 
-<li value=19.">
+<li value="19.">
 <p> <b>Research grant from the ICMM-CSIC</b>:<br /> 
 Title: Josephson junctions based on full-shell Majorana nanowires <br /> 
 Principal Investigator:  <b>Elsa Prada Núñez</b><br />
@@ -137,7 +137,7 @@ Title: Andreev qubits for scalable quantum computation, AndQC project<br />
 Program: H2020-EU.1.2.1. - FET Open, FETOPEN-RIA-2018<br /> 
 Reference: H2020-FETOPEN-2018-2019-2020-01 Number 828948<br /> 
 Principal Investigator:  Attila Geresdi, Chalmers University. Spanish node: Alfredo Levy Yeyati, UAM<br />
-Participant nodes: Chalmers University of Technology (Sweden), TU Delft (Netherlands), Budapest University of Technology (Hungury), University of Copenhagen (Denmark), CNR (Itlay), UAM (España), CEA (France) and University of Basel (Switzerland)<br />
+Participant nodes: Chalmers University of Technology (Sweden), TU Delft (Netherlands), Budapest University of Technology (Hungary), University of Copenhagen (Denmark), CNR (Italy), UAM (Spain), CEA (France) and University of Basel (Switzerland)<br />
 Funding: Spanish node: €336.250 (total €3.484.107,5) <br />
 Duration: 04.2019 - 04.2023 (four years)<br />
 Webpage: <a href="https://www.andqc.eu" target="_blank">https://www.andqc.eu</a><br/>
@@ -154,13 +154,13 @@ Duration: 2019 - 2023 (four years).<br />
 Webpage: <a href="http://nmat2d-cm.es" target="_blank">http://nmat2d-cm.es</a><br/>
 
 <li value="16.">
-<p> <b>European collaboative research grant</b>:<br /> 
+<p> <b>European collaborative research grant</b>:<br /> 
 Title: Engineering topological superconductivity in graphene<br /> 
 Call: FLAG-ERA Joint Transnational Call (JTC) 2017 <br /> 
 Acronym: TopoGraph (Reference Number: JTC-2017_017)
 Reference: Topograph PCI2018 - 093026<br /> 
-Principal Investigator:  Péter Makk, BUTE and UniBas, Hungury. Spanish node: Pablo San-Jose, ICMM-CSIC<br />
-Project partners: BME-Eötvos (Hungury), TUDelft (The Netherlands) y CSIC (Spain)<br />
+Principal Investigator:  Péter Makk, BUTE and UniBas, Hungary. Spanish node: Pablo San-Jose, ICMM-CSIC<br />
+Project partners: BME-Eötvos (Hungary), TUDelft (The Netherlands) y CSIC (Spain)<br />
 Funding: ICMM node: €156.256 (total: €783.525) <br />
 Duration: 01.05.2018 - 30.04.2021 (three years).<br />
 Webpage: <a href="https://www.era-learn.eu/network-information/networks/flag-era-ii/flag-era-joint-transnational-call-jtc-2017/engineering-topological-superconductivity-in-graphene">here</a><br/>
@@ -172,12 +172,12 @@ Call: Ayudas para la contratación de investigadores predoctorales de la Comunid
 Reference: PEJD-2018-PRE/IND-8372 <br /> 
 Principal Investigator:  <b>Elsa Prada Núñez</b><br />
 Funding: €25.000<br />
-Duration: 03.2019 - 0.3.2020 (one year).<br />
+Duration: 03.2019 - 03.2020 (one year).<br />
 
 <li value="14.">
 <p> <b>Research grant from the Spanish government</b>:<br /> 
-Title: Colective states in low dimensional materials<br />  
-Funding agency: Ministerio de Economía y Competividad, Gobierno de España<br />
+Title: Collective states in low-dimensional materials<br />  
+Funding agency: Ministerio de Economía y Competitividad, Gobierno de España<br />
 Project number FIS2016-80434-P<br />
 Principal Investigators: Juan José Palacios Burgos and <b>Elsa Prada Núñez</b><br />
 Other participants: 3 students<br />
@@ -186,7 +186,7 @@ Duration: 01/January/2017 – 31/December/2020.<br />
 
 <li value="11.">
 <p> <b>Research grant from the Spanish government</b>:<br /> 
-Title: From two-dimensional crystals to zero-dimensional structures: Mechanical and electronic properties<br />  Funding agency: Ministerio de Economía y Competividad, Gobierno de España<br />
+Title: From two-dimensional crystals to zero-dimensional structures: Mechanical and electronic properties<br />  Funding agency: Ministerio de Economía y Competitividad, Gobierno de España<br />
 Project number FIS2013-47328-C2-1-P. <br />
 Principal Investigators: Juan José Palacios Burgos and <b>Elsa Prada Núñez</b>.<br />
 Other participants: 2 senior participants and 3 students (in Madrid)<br />
@@ -196,17 +196,17 @@ Duration: 01/January/2014 – 31/December/2016.<br />
 <li value="10.">
 	<p> <b>American Physical Society (APS) Outreach Minigrant</b>:<br />
 Title: Condensed Matter Physics, so close and such a stranger <br />
-Funding agency: American Phsyical Society, USA.<br />
+Funding agency: American Physical Society, USA.<br />
 Researchers: <b>Elsa Prada</b> (project's leader), Isabel Guillamón and Enrique Sahagún<br />
 Funding: $5.000<br />
 Date: 14/February/2014<br />
 Comments: Subsequently we also obtained funding from the Universidad Autónoma de Madrid (UAM), 1000€, and the Grupo Especializado de Física del Estado Sólido (GEFES-CSIC), 1000€.<br />
 
 <li value="9.">
-	<p> <b>Research grant associated to Ramón y Cajal contract</b>:<br /> 
+	<p> <b>Research grant associated with Ramón y Cajal contract</b>:<br /> 
 Title: Quantum transport in graphene and topological insulators <br /> 
-Funding agency: Ministerio de Economía y Competividad, Gobierno de España<br />
-Principal Investigators: <b>Elsa Prada Núñez</b><br />
+Funding agency: Ministerio de Economía y Competitividad, Gobierno de España<br />
+Principal Investigator: <b>Elsa Prada Núñez</b><br />
 Funding: 15.000 €<br />
 Duration: 01/November/2012 – 31/October/2014.<br />
 
@@ -219,7 +219,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 	<li><p>Co-organization of the CMD29 minicolloquium <a href="https://iop.eventsair.com/cmd29/bound-states-in-hybrid-superconductor-nanostructures" target="_blank"><strong>Bound states in hybrid superconductor nanostructures</strong></a> organized by the European Physical Society (EPS) and IOP Institute of Physics in Manchester, UK, 21-26 August, 2022.</p></li>
 
-	<li><p>Co-organization of the online seminar series <a href="https://sites.google.com/view/ifimac-icmm-joint-seminars" target="_blank"><strong>IFIMAC+ICMM Joint Seminar Series</strong></a> on condensed matter physics. This is a collaborative effort between the Condensed Mater Physics Center (IFIMAC-UAM) and the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). Starting date: 3 December, 2020.</p></li>
+	<li><p>Co-organization of the online seminar series <a href="https://sites.google.com/view/ifimac-icmm-joint-seminars" target="_blank"><strong>IFIMAC+ICMM Joint Seminar Series</strong></a> on condensed matter physics. This is a collaborative effort between the Condensed Matter Physics Center (IFIMAC-UAM) and the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). Starting date: 3 December, 2020.</p></li>
 
 	<li><p>Co-organization of the CMD29 online series <a href="https://www.iopconferences.org/iop/frontend/reg/thome.csp" target="_blank"><strong>Bound states in hybrid superconductor nanostructures</strong></a> organized by the European Physical Society (EPS) and IOP Institute of Physics, 28 June- 29 June, 2021.</p></li>
 
@@ -256,10 +256,10 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 <p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://qdp2024.dipc.org" target="_blank">Quantum Designer Physics 2024</a> workshop, San Sebastián, País Vasco, Spain. Date: 16-Jul-2024.</p></li>
 
 <li value="20.">
-<p><strong>The search for Majorana bound states in hybrid nanostructures</strong>. Presented at the <a https://www.inc.uam.es/inc-young-researchers-meeting-2023/" target="_blank">Instituto Nicolás Cabrera Young Researchers Meeting 2023</a>, La Cristalera, Miraflores de la Sierra, Spain. Date: 15-Dec-2023.</p></li>
+<p><strong>The search for Majorana bound states in hybrid nanostructures</strong>. Presented at the <a href="https://www.inc.uam.es/inc-young-researchers-meeting-2023/" target="_blank">Instituto Nicolás Cabrera Young Researchers Meeting 2023</a>, La Cristalera, Miraflores de la Sierra, Spain. Date: 15-Dec-2023.</p></li>
 
 <li value="19.">
-<p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://www.boundstates2023.eu" target="_blank">Bound states in superconducting nano devices</a> conference, Thermal Margaret Island, Budapest, Hungury. Date: 11-Jun-2023.</p></li>
+<p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://www.boundstates2023.eu" target="_blank">Bound states in superconducting nano devices</a> conference, Thermal Margaret Island, Budapest, Hungary. Date: 11-Jun-2023.</p></li>
 
 <li value="18.">
 <p><strong>Full-shell hybrid nanowires and the search of Majorana bound states</strong>. Presented at the <a href="https://crc1238.uni-koeln.de/international-conference-2023/" target="_blank">Control and Dynamics of Quantum Materials</a> conference, Kardinal-Schulte-Haus, Bensberg, Germany. Date: 30-May-2023.</p></li>
@@ -268,13 +268,13 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 <p><strong>Caroli-de Gennes-Matricon states in full-shell nanowires</strong>. Presented at the <a href="https://qdp2022.dipc.org/home/scope" target="_blank">Quantum Designer Physics 2022 </a> conference, Donostia International Physics Center, at Miramar Palace, San Sebastián, Guipúzcoa, Spain. Date: 18-Jul-2022.</p></li>
 
 <li value="16.">
-<p><strong>Topological superconductivity and Majorana modes for quantum computing: a materials science perfective</strong>. Presented online at the <a href="https://indico.ific.uv.es/event/6372/overview" target="_blank">@FlipPhysics workshop</a> at IFIC (CSIC/UV) Valencia, Spain. Date: 23-Mar-2022.</p></li>
+<p><strong>Topological superconductivity and Majorana modes for quantum computing: a materials science perspective</strong>. Presented online at the <a href="https://indico.ific.uv.es/event/6372/overview" target="_blank">@FlipPhysics workshop</a> at IFIC (CSIC/UV) Valencia, Spain. Date: 23-Mar-2022.</p></li>
 
 <li value="15.">
 <p><strong>(One of the) latest Majorana nanowire designs: ferromagnetic hybrid nanowires</strong>. Presented at the <a href="https://toposuper2021.aalto.fi" target="_blank">Toposuper2021 - Online conference on emergent topological superconductivity</a>. Date: 7-Jun-2021.</p></li>
 
 <li value="14.">
-<p><strong>Latest semiconducting nanowire designs in the search for Majorana modes: ferromagnetic and full-shell hybrid nanowires</strong>. Presented at the <a href="https://online.kitp.ucsb.edu/online/mzero_oc21/" target="_blank">KITP Online Conference: "Majorana zero modes:New developments in experiment and theory, and the road ahead"</a>. Date: 26-May-2021.</p></li>
+<p><strong>Latest semiconducting nanowire designs in the search for Majorana modes: ferromagnetic and full-shell hybrid nanowires</strong>. Presented at the <a href="https://online.kitp.ucsb.edu/online/mzero_oc21/" target="_blank">KITP Online Conference: "Majorana zero modes: New developments in experiment and theory, and the road ahead"</a>. Date: 26-May-2021.</p></li>
 
 <li value="13.">
 <p><strong>From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires</strong>. Presented at the APS March Meeting 2021. Date: 19-March-2021.</p></li>
@@ -296,7 +296,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 <li value="7."><p><strong>Small-angle twisted graphene bilayer under interlayer bias</strong>. Presented at the conference “Graphene Week 2013”, Chemnitz, Germany. Date: 4-June-2013.</p></li>
 
-<li value="6."><p><strong>Transport spectroscopy of NS nanowire junctions with Majorana fermions</strong>. Presented at the worshop “Majorana Fermions in Condensed Mater”, Lorentz Center, Leiden, The Netherlands. Date: 3-July-2012.</p></li>
+<li value="6."><p><strong>Transport spectroscopy of NS nanowire junctions with Majorana fermions</strong>. Presented at the workshop “Majorana Fermions in Condensed Matter”, Lorentz Center, Leiden, The Netherlands. Date: 3-July-2012.</p></li>
 
 <li value="5."><p><strong>Single-parameter pumping in graphene</strong>. Presented at the KITP conference “Fundamental Aspects of Graphene and Other Carbon Allotropes”, University of California, Santa Barbara, USA. Date: 13-January-2012</p></li>
 
@@ -315,9 +315,9 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 ~~~
 <ol>
 
-<li value="22."><p><strong>Full-shell hybrid nanowires: synthetic vortices, Majoranas, solitons and more</a></strong>. Presented at the Florida State University Condensed Matter Physics Journal Club, USA (online). Hosts: Vo Tien Phong and Sandeep Joy. Date: 21-July-2026.</p></li>
+<li value="22."><p><strong>Full-shell hybrid nanowires: synthetic vortices, Majoranas, solitons and more</strong>. Presented at the Florida State University Condensed Matter Physics Journal Club, USA (online). Hosts: Vo Tien Phong and Sandeep Joy. Date: 21-July-2026.</p></li>
 
-<li value="21."><p><strong>Searching for Majorana bound states in superconductor-semiconductor nanostructures</a></strong>. Presented at the department of Applied Physics in Aalto University, Finland. Host: Jose Lado. Date: 25-January-2024.</p></li>
+<li value="21."><p><strong>Searching for Majorana bound states in superconductor-semiconductor nanostructures</strong>. Presented at the department of Applied Physics in Aalto University, Finland. Host: Jose Lado. Date: 25-January-2024.</p></li>
 
 <li value="20."><p><strong><a href="https://www.youtube.com/watch?v=QXf4BiWPwWw" target="_blank">From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires</a></strong>. Presented online at the IFIMAC+ICMM Joint Seminar Series, Autonomous University of Madrid campus. Host: María José Calderón. Date: 11-February-2021.</p></li>
 
@@ -325,7 +325,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 <li value="18."><p><strong>Colloquium: From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires</strong>. Presented online at Utrecht University, The Netherlands. Host: Lars Fritz. Date: 21-October-2020.</p></li>
 
-<li value="17."><p><strong>Colloquium: Majoranas in Condensed Matter: topology and non-locality</strong>. Presented at the Condensed Matter Theory & Quantum Computing department of Basel Univesity, Switzerland. Host: Jelena Klinovaja. Date: 27-April-2018.</p></li>
+<li value="17."><p><strong>Colloquium: Majoranas in Condensed Matter: topology and non-locality</strong>. Presented at the Condensed Matter Theory & Quantum Computing department of Basel University, Switzerland. Host: Jelena Klinovaja. Date: 27-April-2018.</p></li>
 
 <li value="16."><p><strong>Helical networks in twisted graphene bilayer under interlayer bias</strong>. Presented at the Condensed Matter Physics department of Universidad Autónoma de Madrid, Spain. Date: 28-May-2013.</p></li>
 
@@ -351,7 +351,7 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 <li value="5."><p><strong>Introduction to graphene physics</strong>. Presented at Karlsruhe University, Germany. Date: 4-July-2006.</p></li>
 
-<li value="4."><p><strong>Generation, evolution and detection of entanglement in nanostructures</strong>. Presented at Karlsruhe University, Germany. Date: 18-Aprio-2006.</p></li>
+<li value="4."><p><strong>Generation, evolution and detection of entanglement in nanostructures</strong>. Presented at Karlsruhe University, Germany. Date: 18-April-2006.</p></li>
 
 <li value="3."><p><strong>Clauser-Horne inequality and decoherence  in mesoscopic conductors</strong>. Presented at Karlsruhe University.  Date: 24-May-2005.</p></li>
 
@@ -371,9 +371,9 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 	<li value="11."><p><strong>Quantifying Majorana non-locality in inhomogeneous nanowires with a local probe</strong>.  Presented at the 20th International Conference on Superlattices, Nanostructures and Nanodevices - ICSNN2018 organized by the CSIC, Madrid (Spain). Date: 27-July-2018.</p></li>
 	
-	<li value="10."><p><strong>Quantifying Majorana non-locality in inhomogeneous nanowires with a local probe</strong>.  Presented at the conference Quantum Designer Physics organized by Donostia International Physics center, San Sebastián (Spain). Date: 18-July-2018.</p></li>
+	<li value="10."><p><strong>Quantifying Majorana non-locality in inhomogeneous nanowires with a local probe</strong>.  Presented at the conference Quantum Designer Physics organized by Donostia International Physics Center, San Sebastián (Spain). Date: 18-July-2018.</p></li>
 
-	<li value="9."><p><strong>Measuring Majorana non-locality and spin structure with a quantum dot</strong>.  Presented at the symposium Quantum Materials and Technologies organized by the Grupo Especializado de Física del Estado Sólido (GEFES) and Real Sociendad Española de Física (RSEF), Santiago de Compostela, Galicia (Spain). Date: 19-July-2017.</p></li>
+	<li value="9."><p><strong>Measuring Majorana non-locality and spin structure with a quantum dot</strong>.  Presented at the symposium Quantum Materials and Technologies organized by the Grupo Especializado de Física del Estado Sólido (GEFES) and Real Sociedad Española de Física (RSEF), Santiago de Compostela, Galicia (Spain). Date: 19-July-2017.</p></li>
 
 	<li value="8."><p><strong>Mapping the topological phase diagram of multiband semiconductors with supercurrents</strong>.  Presented at the APS March Meeting 2014, Denver, Colorado (USA). Date: 4-March-2011.</p></li>
 
@@ -426,32 +426,32 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 # Visits to other research centers
 ~~~
 <ul>
-	<li><p> Three months invitation to "The Kavli Institute for Theoretical Physics (KITP)" workshop on "The Physics of Graphene". Dates: from the 4th of January to the 30th of March, 2012.</p></li>
+	<li><p> Three-month invitation to "The Kavli Institute for Theoretical Physics (KITP)" workshop on "The Physics of Graphene". Dates: from the 4th of January to the 30th of March, 2012.</p></li>
 
 	<li><p>Visit to the &ldquo;Universitat de les Illes Balears&rdquo;, Mallorca, Spain, to collaborate with Dr. Rosa L&oacute;pez and Dr. David S&aacute;nchez. Dates: from the 6th to the 9th of April, 2009.</p></li>
   
-	<li><p>Visit to the &ldquo;Instituto de Ciencias Materiales de Madrid&rdquo;, CSIC, Spain, to collaborate with Prof. Francisco Guinea. Dates: from the 18th of December, 2006 to the 10th of January, 2007.</p></li>
+	<li><p>Visit to the &ldquo;Instituto de Ciencia de Materiales de Madrid&rdquo;, CSIC, Spain, to collaborate with Prof. Francisco Guinea. Dates: from the 18th of December, 2006 to the 10th of January, 2007.</p></li>
   
-	<li><p>Visit to the &ldquo;Instituto de Ciencias Materiales de Madrid&rdquo;, CSIC, Spain, to collaborate with Prof. Francisco Guinea. Dates: from the 18th to the 22th of September, 2006.</p></li>
+	<li><p>Visit to the &ldquo;Instituto de Ciencia de Materiales de Madrid&rdquo;, CSIC, Spain, to collaborate with Prof. Francisco Guinea. Dates: from the 18th to the 22nd of September, 2006.</p></li>
   
 	<li><p>Visit  to the &ldquo;Scuola Normale Superiore&rdquo; of Pisa, Italy, to collaborate with Prof. Rosario Fazio and Dr. Fabio Taddei. Dates: from the  25th to the 30th of September, 2005.</p></li>
   
-	<li><p>Stay  of two and a half months in the &ldquo;Scuola Normale Superiore&rdquo; of Pisa,  granted by FPI grant of the CAM, to make a scientific collaboration with Professor Rosario Fazio. Dates: from the 18th  of March to the 1st   of June, 2004.</p></li>
+	<li><p>Stay  of two and a half months in the &ldquo;Scuola Normale Superiore&rdquo; of Pisa,  granted by FPI grant of the CAM, to collaborate with Professor Rosario Fazio. Dates: from the 18th  of March to the 1st   of June, 2004.</p></li>
   
-	<li><p>One week invitation to work with Dr. Christoph Simon  (Centre of Quantum Computation) in Clarendon Laboratory, Oxford University, UK.  Dates: from the 8th to the 15th of June, 2002.</p></li>
+	<li><p>One-week invitation to work with Dr. Christoph Simon  (Centre of Quantum Computation) in Clarendon Laboratory, Oxford University, UK.  Dates: from the 8th to the 15th of June, 2002.</p></li>
 </ul>
 ~~~
 
-# Direction of students
+# Student supervision
 
 - PhD Thesis
   - PhD student: Francisco Lobo. Co-advisors: Pablo San-Jose and Rui E. F. Silva. Theme: Self-consistent interactions and dynamics in quantum materials. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: January-2024. Ongoing. 
   - PhD student: Carlos Payá Herrero. Co-advisor: Ramón Aguado. Theme: Full-shell hybrid nanowires. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: March-2023. Ongoing.
-  - PhD student: Fenando Peñaranda del Río. Co-advisor: Pablo San-Jose. Title: **Topological superconductivity in Majorana nanowires and 2D crystals**. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: 11-February-2019. PhD defense date: April-2023.
-  - PhD student: Samuel Díaz Escribano. Co-advisor: Alfredo Levy Yeyati. Title: **Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures**. Place: Condensed Matter Physics Department, Universidad Autónoma de Madrid, and Insituto de Ciencias de Materiales de Madrdid - CSIC, Spain. Starting date: March-2018. PhD defense date: December-2022.
+  - PhD student: Fernando Peñaranda del Río. Co-advisor: Pablo San-Jose. Title: **Topological superconductivity in Majorana nanowires and 2D crystals**. Place: Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: 11-February-2019. PhD defense date: April-2023.
+  - PhD student: Samuel Díaz Escribano. Co-advisor: Alfredo Levy Yeyati. Title: **Towards a realistic description of topological hybrid semiconductor, superconductor and ferromagnetic-insulator systems: Majorana nanowires, superlattices and two-dimensional heterostructures**. Place: Condensed Matter Physics Department, Universidad Autónoma de Madrid, and Instituto de Ciencia de Materiales de Madrid - CSIC, Spain. Starting date: March-2018. PhD defense date: December-2022.
 
-- Potdocs
-  - Postdoc student: Sahar Pakdel. Co-advisor: Juan José Placios. Theme: Single-photon generation in 2D crystals for quantum information. Place: UAM. Dates: 2017-2018.
+- Postdocs
+  - Postdoc: Sahar Pakdel. Co-advisor: Juan José Palacios. Theme: Single-photon generation in 2D crystals for quantum information. Place: UAM. Dates: 2017-2018.
 
 - Predocs
   - JAE-Intro ICU student: Marc Pujol i Ramon. Theme: Geometric dephasing of Andreev qubits. Place: ICMM-CSIC. Dates: March-June 2025.
@@ -464,14 +464,14 @@ Duration: 01/November/2012 – 31/October/2014.<br />
   - Student: Carlos José Sánchez Martínez. Theme: Majorana oscillations in inhomogeneous full-shell hybrid nanowires. Place: ICMM-CSIC. Dates:  June-December 2022.
   - Student: Carlos Payá Herrero. Theme: Josephson effect in full-shell hybrid nanowires. Place: ICMM-CSIC. Dates: June-December 2020.
 
-- Master Thesis
-  - Master student: Carlos Payá Herrero. Title: Topological phase and Majorana zero modes in full-shell nanowires. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
-  - Master student: Álex Rodríguez. Title: Study of chiral and crystalline topological insulating phases with the SSH4 model. Dates: 2020-2021. Place: ICMM-CSIC. Tutor at UAM: Pilar Segovia Cabrero.
-  - Master student: Fernando Peñaranda. Title: Smooth confinement in Majorana nanowires. Dates: 2017-2018. Place: UAM.
-  - Master student: Francisco José Martín. Title: Wave-matching approach to transport through Majorana nanowires. Dates: 2017-2018. Place: UAM. Co-advisor: Alfredo Levy Yeyati.
-  - Master student: Samuel Díaz Escribano. Title: Effect of the electrostatic environment on Majorana nanowires. Dates: 2016-2017. Place: UAM. Co-advisor: Alfredo Levy Yeyati.
-  - Master student: Sergio Graullera. Title: Electronic structure of Bi(111) bilayer. Dates: 2014-2015. Place: UAM. Co-advisor: Juan José Palacios.
-  - Master student: Petra Dietl. Title: Numerical Studies of Electronic Transport through Graphene Nanoribbons with Disorder. Dates: 2008-2009. Place: Karlsruhe University, Germany. Co-advisors: Georgo Metalidis, Elsa Prada, Pablo San-Jose. Referee: Gerd Schön. Co-referee: Henning Schomerus.
+- Master's Thesis
+  - Master's student: Carlos Payá Herrero. Title: Topological phase and Majorana zero modes in full-shell nanowires. Dates: 2021-2022. Place: ICMM-CSIC. Tutor at UAM: Eduardo J. H. Lee.
+  - Master's student: Álex Rodríguez. Title: Study of chiral and crystalline topological insulating phases with the SSH4 model. Dates: 2020-2021. Place: ICMM-CSIC. Tutor at UAM: Pilar Segovia Cabrero.
+  - Master's student: Fernando Peñaranda. Title: Smooth confinement in Majorana nanowires. Dates: 2017-2018. Place: UAM.
+  - Master's student: Francisco José Martín. Title: Wave-matching approach to transport through Majorana nanowires. Dates: 2017-2018. Place: UAM. Co-advisor: Alfredo Levy Yeyati.
+  - Master's student: Samuel Díaz Escribano. Title: Effect of the electrostatic environment on Majorana nanowires. Dates: 2016-2017. Place: UAM. Co-advisor: Alfredo Levy Yeyati.
+  - Master's student: Sergio Graullera. Title: Electronic structure of Bi(111) bilayer. Dates: 2014-2015. Place: UAM. Co-advisor: Juan José Palacios.
+  - Master's student: Petra Dietl. Title: Numerical Studies of Electronic Transport through Graphene Nanoribbons with Disorder. Dates: 2008-2009. Place: Karlsruhe University, Germany. Co-advisors: Georgo Metalidis, Elsa Prada, Pablo San-Jose. Referee: Gerd Schön. Co-referee: Henning Schomerus.
 
 - Graduation Project
   - Undergrad student: César Robles Montero. Theme: Quasi-Majoranas in inhomogeneous full-shell hybrid nanowires. Dates: 2024-2025. Place: ICMM-CSIC. Tutor at UAM: Pilar Segovia.
@@ -485,46 +485,46 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 
 
 - PhD Tutorship
-  - PhD student: Jorge Luis Cayao Díaz. Title: Hybrid superconductor-semiconductor nanowire junctions as useful platforms to study Majorana bound states. Place: ICMM-CSIC, Madrid. Starting date: 30-Jan-2012. Defence day: 20-May-2016. Advisor: Ramón Aguado Sola.
+  - PhD student: Jorge Luis Cayao Díaz. Title: Hybrid superconductor-semiconductor nanowire junctions as useful platforms to study Majorana bound states. Place: ICMM-CSIC, Madrid. Starting date: 30-Jan-2012. Defense date: 20-May-2016. Advisor: Ramón Aguado Sola.
 
 
 # Teaching
 
 ### 2019-2020
-- Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Direction of 1 student.
+- Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Supervision of 1 student.
 
 
 ### 2018-2019
-- Subject: **Computation I**. Compulsory subject. 1st year of bachelor. Universidad Autónoma de Madrid (UAM). Dates: Annual
+- Subject: **Computation I**. Compulsory subject. 1st year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: Annual
 
-- Subject: **Nanophysics**. Elective subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Theory imparted by Enrique García Michel and problems imparted by Elsa Prada.
+- Subject: **Nanophysics**. Elective subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Theory taught by Enrique García Michel and problem sessions taught by Elsa Prada.
 
 
 ### 2017-2018
-- Subject: **Computation I**. Compulsory subject. 1st year of bachelor. Universidad Autónoma de Madrid (UAM). Dates: Annual
+- Subject: **Computation I**. Compulsory subject. 1st year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: Annual
 
-- Subject: **Master Thesis**. Compulsory subject. Master on Condensed Matter Physics and Biological Materials. Universidad Autónoma de Madrid (UAM). Dates: Annual. Direction of 1 student.
+- Subject: **Master's Thesis**. Compulsory subject. Master's in Condensed Matter Physics and Biological Materials. Universidad Autónoma de Madrid (UAM). Dates: Annual. Supervision of 1 student.
 
 
 ### 2016-2017
-- Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Direction of 2 students.
+- Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Supervision of 2 students.
 
-- Subject: **Master Thesis**. Compulsory subject. Master on Condensed Matter Physics and Biological Materials. Universidad Autónoma de Madrid (UAM). Dates: Annual. Co-direction of 2 students.
+- Subject: **Master's Thesis**. Compulsory subject. Master's in Condensed Matter Physics and Biological Materials. Universidad Autónoma de Madrid (UAM). Dates: Annual. Co-supervision of 2 students.
 
 
 ### 2013-2014
-- Subject: **Computation I**. Compulsory subject. 1st year of bachelor. Universidad Autónoma de Madrid (UAM). Dates: Annual
+- Subject: **Computation I**. Compulsory subject. 1st year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: Annual
 
-- Subject: **Nanophysics**. Elective subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Theory imparted by Enrique García Michel and problems imparted by Elsa Prada.
+- Subject: **Nanophysics**. Elective subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Theory taught by Enrique García Michel and problem sessions taught by Elsa Prada.
 
-- Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Direction of 2 students.
+- Subject: **Graduation project**. Compulsory subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Supervision of 2 students.
 
 
 ### 2012-2013
 - Subject: **Computation I**. Compulsory subject. 1st year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester.
 
-- Subject: **Nanophysics**. Elective subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Theory imparted by Enrique García Michel and problems imparted by Elsa Prada.
+- Subject: **Nanophysics**. Elective subject. 4th year of bachelor level. Universidad Autónoma de Madrid (UAM). Dates: second semester. Theory taught by Enrique García Michel and problem sessions taught by Elsa Prada.
 
 
 ### 2010
-- Subject: **Numerical simulations in materials and nanostructures**. Master course on advanced materials and nanotechnologies, that belongs to the Applied Physics department at the Universidad Autónoma de Madrid (UAM). Dates: from the 8th to the 26th of November, 2010.
+- Subject: **Numerical simulations in materials and nanostructures**. Master course on advanced materials and nanotechnologies, which belongs to the Applied Physics department at the Universidad Autónoma de Madrid (UAM). Dates: from the 8th to the 26th of November, 2010.

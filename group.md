@@ -71,8 +71,7 @@ title = "My group"
 # Other current and past students
 
 
-
-## César Robles
+## Miguel A. Villegas
 
 @@row
 @@column21 ![Miguel A. Villegas](/assets/photos/Villegas.jpg) @@
@@ -83,6 +82,8 @@ title = "My group"
 - **Subject**: Synthetic vortices and superconducting diodes in full-shell nanowires
 @@
 @@
+
+## César Robles
 
 @@row
 @@column21 ![César Robles](/assets/photos/Robles.jpg) @@

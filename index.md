@@ -20,7 +20,7 @@ I am a **condensed matter theorist** working on the modeling and simulation of q
 
 Over the years, my work has evolved from entanglement and quantum transport in mesoscopic conductors, through graphene and other two-dimensional crystals, to hybrid superconductor-semiconductor nanostructures, a leading platform in the search for Majorana zero modes and topological qubits. My current work focuses on full-shell hybrid nanowires, Andreev states and Josephson devices, the superconducting diode effect, and rhombohedral multilayer graphene.
 
-A distinctive part of my research is providing theoretical support to experimental groups. I develop realistic models that capture the geometry, electrostatics and material properties of actual devices, so that theory can be compared directly with measurements, help interpret them, and guide the design of new experiments. These collaborations have led to joint publications in journals such as *Science*, *Nature* and *Nature Communications*. I have also written, together with leading experimental and theoretical groups, a review in *Nature Reviews Physics* on Andreev and Majorana bound states in hybrid nanowires.
+A distinctive part of my research is providing theoretical support to experimental groups. I develop realistic models that capture the geometry, electrostatics and material properties of actual devices, so that theory can be compared directly with measurements, help interpret them, and guide the design of new experiments.
 
 @@
 @@

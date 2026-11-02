@@ -92,7 +92,7 @@ title = "My group"
 @@column22
 - **Master student**
 - **Dates**: course 2025-2026
-- **Subject**: Josephson eﬀect in double Corbino Josephson jun�ons
+- **Subject**: Josephson eﬀect in double Corbino Josephson junctions
 - **JAE-Intro CSIC pre-doc student**
 - **Dates**: course 2024-2025
 - **Subject**: Quasi-Majoranas in full-shell hybrid nanowires 

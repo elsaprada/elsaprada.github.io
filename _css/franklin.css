@@ -413,18 +413,22 @@ code {
   width: -webkit-calc(29% - 10px);
   width:    -moz-calc(29% - 10px);
   width:         calc(29% - 10px);
-  padding-right: 10px
+  padding-right: 10px;
+  /* Let column12 overlap the unused 20% of this column, so the gap between
+     the photo and the text is 10% of the column plus 10px */
+  margin-right: calc(-0.1 * (29% - 10px));
 }
 
 .franklin-content .column11 img{
   border-radius: 10px 10px 10px 10px;
   padding-left: 0px;
-  width: 90%
+  width: 80%
 }
 
 .franklin-content .column11 .identifiers {
-  width: 90%;
+  width: 80%;
   margin-top: 1.5em;
+  font-size: 0.9em;
   line-height: 1.5em;
 }
 
@@ -435,8 +439,9 @@ code {
 
 .franklin-content .column12 {
   float: right;
-  width: 71%;
+  width: calc(100% - 0.9 * (29% - 10px) - 10px);
   line-height: 1.5em;
+  text-align: justify;
 }
 
 .franklin-content .column21 {

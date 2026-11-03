@@ -217,6 +217,8 @@ Duration: 01/November/2012 – 31/October/2014.<br />
 ~~~
 <ul>
 
+	<li><p>Co-chair of the 2027 conference <a href="https://www.grc.org/hybrid-superconductor-semiconductor-devices-conference/2027/" target="_blank"><strong>Hybrid Superconducting Materials, Devices, and Circuits</strong></a> organized by the Gordon Research Conference (GRC) within the "Hybrid Superconductor-Semiconductor Devices" series in Holderness, New Hampshire, United States, 13-18 June, 2027.</p></li>
+
 	<li><p>Co-organization of the CMD29 minicolloquium <a href="https://iop.eventsair.com/cmd29/bound-states-in-hybrid-superconductor-nanostructures" target="_blank"><strong>Bound states in hybrid superconductor nanostructures</strong></a> organized by the European Physical Society (EPS) and IOP Institute of Physics in Manchester, UK, 21-26 August, 2022.</p></li>
 
 	<li><p>Co-organization of the online seminar series <a href="https://sites.google.com/view/ifimac-icmm-joint-seminars" target="_blank"><strong>IFIMAC+ICMM Joint Seminar Series</strong></a> on condensed matter physics. This is a collaborative effort between the Condensed Matter Physics Center (IFIMAC-UAM) and the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). Starting date: 3 December, 2020.</p></li>

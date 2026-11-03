@@ -6,7 +6,6 @@ Throughout my career, my research has dealt with the following topics:
 
 - **Rhombohedral multilayer graphene**
   - Intrinsic and structural domain walls
-- Superconducting diode effect
 - **Hybrid superconductor-semiconductor systems**
   - Majorana zero modes in hybrid nanowires and planar heterojunctions
   - Quasi-Majoranas
@@ -14,6 +13,7 @@ Throughout my career, my research has dealt with the following topics:
   - Topological qubits
   - Andreev states in Josephson junctions and Andreev qubits
   - Fluxoid solitons in bottlenecks and Corbino Josephson junctions
+  - Superconducting diode effect
 - **Topology in electronic systems**
   - Topological insulators
   - Topological superconductors

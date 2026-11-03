@@ -2,7 +2,6 @@
 title = "Research Interests"
 +++
 
-@@looserlines
 Throughout my career, my research has dealt with the following topics:
 
 - **Rhombohedral multilayer graphene**
@@ -34,4 +33,3 @@ Throughout my career, my research has dealt with the following topics:
   - Generation: non-local spin-entangled electron pairs from superconductors, other entanglers...
   - Evolution: in the presence of decoherence and spin-orbit interaction
   - Detection: by means of Bell inequalities, shot noise, concurrence
-@@

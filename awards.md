@@ -29,7 +29,7 @@ I was honored by the [Royal Academy of Sciences of Spain](https://rac.es) and [M
 @@row
 @@column31 ![](/assets/photos/arquimedes.jpg) @@
 @@column32
-The Spanish Ministry of Universities awarded me the **first prize** in the [Certamen Universitario "Arquímedes" 2022](https://www.universidades.gob.es/certamen-universitario-arquimedes-convocatoria-2022/) as **supervisor of the winning research project**.
+The Spanish Ministry of Universities awarded me the **first prize** in the [Certamen Universitario "Arquímedes" 2023](https://www.universidades.gob.es/certamen-universitario-arquimedes-convocatoria-2022/) as **supervisor of the winning research project**.
 
 ### Press releases
 - [ICMM News](https://www.icmm.csic.es/es/actualidad-y-divulgacion/carlos-jose-sanchez-primer-premio-arquimedes-por-su-tfg-realizado-en-el)

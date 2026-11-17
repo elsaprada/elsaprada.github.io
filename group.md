@@ -77,9 +77,22 @@ title = "My group"
 
 @@column22
 - **Master's student**
-- **Co-advisor**: Carlos Payá
+- **Principal advisor**: Carlos Payá
 - **Dates**: academic year 2026-2027
 - **Subject**: Synthetic vortices and superconducting diodes in full-shell nanowires
+@@
+@@
+
+## László Fritsch
+
+@@row
+@@column21 ![László Fritsch](/assets/photos/Laszlo.jpg) @@
+
+@@column22
+- **Erasmus student**
+- **Principal advisor**: Pablo San-Jose
+- **Dates**: September 2026-February 2027
+- **Subject**: Quasiclassical superconductivity in artificial lattices
 @@
 @@
 

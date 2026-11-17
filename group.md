@@ -120,6 +120,7 @@ title = "My group"
 
 @@column22
 - **JAE-Intro ICU pre-doc student**
+- **Co-advisor**: Pablo San-Jose
 - **Dates**: March-June 2025
 - **Subject**: Geometric dephasing of Andreev qubits
 @@

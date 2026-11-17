@@ -8,6 +8,15 @@ title = "Publications"
 @@colbox [Web of Science](https://www.webofscience.com/wos/author/record/1465075)@@
 
 # 2026
+@@papericon ![](/assets/icons/arxiv.png) @@
+@@paperdata
+**76. [Electrostatic and magnetic control of the anomalous Josephson phase in ferromagnetic hybrid junctions](https://doi.org/10.48550/arXiv.2611.21593)**
+
+D. Rana, O. S. Kurapati, N. Vanjarapu, J. Zhao, J. B. F. Wolters, Y. Liu, P. Krogstrup, A. L. R. Manesco, S. D. Escribano, E. Prada, S. Vaitiekėnas
+
+<!--*[Phys. Rev. B **113**, L161405 (2026)](https://doi.org/10.1103/9jdy-b418)*-->
+*Preprint [arXiv:2611.21593](https://doi.org/10.48550/arXiv.2611.21593)*
+@@
 
 @@papericon ![](/assets/icons/arxiv.png) @@
 @@paperdata
